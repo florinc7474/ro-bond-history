@@ -1,0 +1,35 @@
+{
+  "symbol": "R2801A",
+  "lastUpdated": "2026-02-09T07:45:35Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "RON",
+    "couponRate": 6.45,
+    "issueDate": "2026-01-28",
+    "maturityDate": "2028-01-28",
+    "couponFrequency": 1
+  },
+  "couponDates": [
+    {
+      "date": "2027-01-28",
+      "previousDate": "2026-01-28",
+      "referenceDate": "2027-01-19",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2028-01-28",
+      "previousDate": "2027-01-28",
+      "referenceDate": "2028-01-18",
+      "rate": 2.0,
+      "number": 2
+    }
+  ],
+  "couponCount": 2,
+  "principalRepayments": [
+    {
+      "date": "2028-01-18"
+    }
+  ]
+}

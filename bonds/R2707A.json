@@ -1,0 +1,42 @@
+{
+  "symbol": "R2707A",
+  "lastUpdated": "2026-02-09T07:43:47Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "RON",
+    "couponRate": 6.85,
+    "issueDate": "2024-07-03",
+    "maturityDate": "2027-07-03",
+    "couponFrequency": 1
+  },
+  "couponDates": [
+    {
+      "date": "2025-07-03",
+      "previousDate": "2024-07-03",
+      "referenceDate": "2025-06-24",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2026-07-03",
+      "previousDate": "2025-07-03",
+      "referenceDate": "2026-06-24",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2027-07-03",
+      "previousDate": "2026-07-03",
+      "referenceDate": "2027-06-24",
+      "rate": 3.0,
+      "number": 3
+    }
+  ],
+  "couponCount": 3,
+  "principalRepayments": [
+    {
+      "date": "2027-06-24"
+    }
+  ]
+}

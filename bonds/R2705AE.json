@@ -1,0 +1,35 @@
+{
+  "symbol": "R2705AE",
+  "lastUpdated": "2026-02-09T07:43:25Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "EUR",
+    "couponRate": 3.85,
+    "issueDate": "2025-05-22",
+    "maturityDate": "2027-05-21",
+    "couponFrequency": 1
+  },
+  "couponDates": [
+    {
+      "date": "2026-05-21",
+      "previousDate": "2025-05-21",
+      "referenceDate": "2026-05-12",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2027-05-21",
+      "previousDate": "2026-05-21",
+      "referenceDate": "2027-05-12",
+      "rate": 2.0,
+      "number": 2
+    }
+  ],
+  "couponCount": 2,
+  "principalRepayments": [
+    {
+      "date": "2027-05-12"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "symbol": "R2912A",
+  "lastUpdated": "2026-02-09T07:48:26Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "RON",
+    "couponRate": 7.6,
+    "issueDate": "2024-12-23",
+    "maturityDate": "2029-12-23",
+    "couponFrequency": 1
+  },
+  "couponDates": [
+    {
+      "date": "2025-12-23",
+      "previousDate": "2024-12-23",
+      "referenceDate": "2025-12-12",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2026-12-23",
+      "previousDate": "2025-12-23",
+      "referenceDate": "2026-12-14",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2027-12-23",
+      "previousDate": "2026-12-23",
+      "referenceDate": "2027-12-14",
+      "rate": 3.0,
+      "number": 3
+    },
+    {
+      "date": "2028-12-23",
+      "previousDate": "2027-12-23",
+      "referenceDate": "2028-12-14",
+      "rate": 4.0,
+      "number": 4
+    },
+    {
+      "date": "2029-12-23",
+      "previousDate": "2028-12-23",
+      "referenceDate": "2029-12-13",
+      "rate": 5.0,
+      "number": 5
+    }
+  ],
+  "couponCount": 5,
+  "principalRepayments": [
+    {
+      "date": "2029-12-13"
+    }
+  ]
+}

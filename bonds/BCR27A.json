@@ -1,0 +1,56 @@
+{
+  "symbol": "BCR27A",
+  "lastUpdated": "2026-02-09T07:36:22Z",
+  "source": "BVB",
+  "details": {
+    "couponFrequency": 1,
+    "faceValue": 500000.0,
+    "currency": "RON",
+    "couponRate": 9.079,
+    "issueDate": "2022-06-14",
+    "maturityDate": "2027-06-14"
+  },
+  "couponDates": [
+    {
+      "date": "2023-06-14",
+      "previousDate": "2022-06-14",
+      "referenceDate": "2023-05-30",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2024-06-14",
+      "previousDate": "2023-06-14",
+      "referenceDate": "2024-05-30",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2025-06-14",
+      "previousDate": "2024-06-14",
+      "referenceDate": "2025-05-30",
+      "rate": 3.0,
+      "number": 3
+    },
+    {
+      "date": "2026-06-14",
+      "previousDate": "2025-06-14",
+      "referenceDate": "2026-06-02",
+      "rate": 4.0,
+      "number": 4
+    },
+    {
+      "date": "2027-06-14",
+      "previousDate": "2026-06-14",
+      "referenceDate": "2027-05-31",
+      "rate": 5.0,
+      "number": 5
+    }
+  ],
+  "couponCount": 5,
+  "principalRepayments": [
+    {
+      "date": "2027-05-31"
+    }
+  ]
+}

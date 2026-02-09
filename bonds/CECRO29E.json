@@ -1,0 +1,77 @@
+{
+  "symbol": "CECRO29E",
+  "lastUpdated": "2026-02-09T07:37:47Z",
+  "source": "BVB",
+  "details": {
+    "couponFrequency": 1,
+    "faceValue": 100000.0,
+    "currency": "EUR",
+    "couponRate": 5.625,
+    "issueDate": "2024-11-28",
+    "maturityDate": "2029-11-28"
+  },
+  "couponDates": [
+    {
+      "date": "2025-11-28",
+      "previousDate": "2024-11-28",
+      "referenceDate": "2025-11-27",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2026-11-28",
+      "previousDate": "2025-11-28",
+      "referenceDate": "2026-11-27",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2027-11-28",
+      "previousDate": "2026-11-28",
+      "referenceDate": "2027-11-26",
+      "rate": 3.0,
+      "number": 3
+    },
+    {
+      "date": "2028-11-28",
+      "previousDate": "2027-11-28",
+      "referenceDate": "2028-11-27",
+      "rate": 4.0,
+      "number": 4
+    },
+    {
+      "date": "2029-02-28",
+      "previousDate": "2028-11-28",
+      "referenceDate": "2029-02-27",
+      "rate": 5.0,
+      "number": 5
+    },
+    {
+      "date": "2029-05-28",
+      "previousDate": "2029-02-28",
+      "referenceDate": "2029-05-25",
+      "rate": 6.0,
+      "number": 6
+    },
+    {
+      "date": "2029-08-28",
+      "previousDate": "2029-05-28",
+      "referenceDate": "2029-08-27",
+      "rate": 7.0,
+      "number": 7
+    },
+    {
+      "date": "2029-11-28",
+      "previousDate": "2029-08-28",
+      "referenceDate": "2029-11-27",
+      "rate": 8.0,
+      "number": 8
+    }
+  ],
+  "couponCount": 8,
+  "principalRepayments": [
+    {
+      "date": "2029-11-27"
+    }
+  ]
+}

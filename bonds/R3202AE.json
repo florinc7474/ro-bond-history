@@ -1,0 +1,70 @@
+{
+  "symbol": "R3202AE",
+  "lastUpdated": "2026-02-09T07:50:59Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "EUR",
+    "couponRate": 6.25,
+    "issueDate": "2025-02-19",
+    "maturityDate": "2032-02-19",
+    "couponFrequency": 1
+  },
+  "couponDates": [
+    {
+      "date": "2026-02-19",
+      "previousDate": "2025-02-19",
+      "referenceDate": "2026-02-10",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2027-02-19",
+      "previousDate": "2026-02-19",
+      "referenceDate": "2027-02-10",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2028-02-19",
+      "previousDate": "2027-02-19",
+      "referenceDate": "2028-02-10",
+      "rate": 3.0,
+      "number": 3
+    },
+    {
+      "date": "2029-02-19",
+      "previousDate": "2028-02-19",
+      "referenceDate": "2029-02-08",
+      "rate": 4.0,
+      "number": 4
+    },
+    {
+      "date": "2030-02-19",
+      "previousDate": "2029-02-19",
+      "referenceDate": "2030-02-08",
+      "rate": 5.0,
+      "number": 5
+    },
+    {
+      "date": "2031-02-19",
+      "previousDate": "2030-02-19",
+      "referenceDate": "2031-02-10",
+      "rate": 6.0,
+      "number": 6
+    },
+    {
+      "date": "2032-02-19",
+      "previousDate": "2031-02-19",
+      "referenceDate": "2032-02-10",
+      "rate": 7.0,
+      "number": 7
+    }
+  ],
+  "couponCount": 7,
+  "principalRepayments": [
+    {
+      "date": "2032-02-10"
+    }
+  ]
+}

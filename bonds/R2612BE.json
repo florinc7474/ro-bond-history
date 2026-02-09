@@ -1,0 +1,35 @@
+{
+  "symbol": "R2612BE",
+  "lastUpdated": "2026-02-09T07:42:53Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "EUR",
+    "couponRate": 3.75,
+    "issueDate": "2024-12-23",
+    "maturityDate": "2026-12-23",
+    "couponFrequency": 1
+  },
+  "couponDates": [
+    {
+      "date": "2025-12-23",
+      "previousDate": "2024-12-23",
+      "referenceDate": "2025-12-12",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2026-12-23",
+      "previousDate": "2025-12-23",
+      "referenceDate": "2026-12-14",
+      "rate": 2.0,
+      "number": 2
+    }
+  ],
+  "couponCount": 2,
+  "principalRepayments": [
+    {
+      "date": "2026-12-14"
+    }
+  ]
+}

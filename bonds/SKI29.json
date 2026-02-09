@@ -1,0 +1,161 @@
+{
+  "symbol": "SKI29",
+  "lastUpdated": "2026-02-09T07:52:57Z",
+  "source": "BVB",
+  "details": {
+    "couponFrequency": 1,
+    "faceValue": 100.0,
+    "currency": "RON",
+    "couponRate": 10.0,
+    "issueDate": "2024-05-29",
+    "maturityDate": "2029-05-29"
+  },
+  "couponDates": [
+    {
+      "date": "2024-08-29",
+      "previousDate": "2024-05-29",
+      "referenceDate": "2024-08-22",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2024-11-29",
+      "previousDate": "2024-08-29",
+      "referenceDate": "2024-11-22",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2025-03-01",
+      "previousDate": "2024-11-29",
+      "referenceDate": "2025-02-24",
+      "rate": 3.0,
+      "number": 3
+    },
+    {
+      "date": "2025-05-29",
+      "previousDate": "2025-03-01",
+      "referenceDate": "2025-05-22",
+      "rate": 4.0,
+      "number": 4
+    },
+    {
+      "date": "2025-08-29",
+      "previousDate": "2025-05-29",
+      "referenceDate": "2025-08-22",
+      "rate": 5.0,
+      "number": 5
+    },
+    {
+      "date": "2025-11-29",
+      "previousDate": "2025-08-29",
+      "referenceDate": "2025-11-24",
+      "rate": 6.0,
+      "number": 6
+    },
+    {
+      "date": "2026-03-01",
+      "previousDate": "2025-11-29",
+      "referenceDate": "2026-02-23",
+      "rate": 7.0,
+      "number": 7
+    },
+    {
+      "date": "2026-05-29",
+      "previousDate": "2026-03-01",
+      "referenceDate": "2026-05-22",
+      "rate": 8.0,
+      "number": 8
+    },
+    {
+      "date": "2026-08-29",
+      "previousDate": "2026-05-29",
+      "referenceDate": "2026-08-24",
+      "rate": 9.0,
+      "number": 9
+    },
+    {
+      "date": "2026-11-29",
+      "previousDate": "2026-08-29",
+      "referenceDate": "2026-11-23",
+      "rate": 10.0,
+      "number": 10
+    },
+    {
+      "date": "2027-03-01",
+      "previousDate": "2026-11-29",
+      "referenceDate": "2027-02-22",
+      "rate": 11.0,
+      "number": 11
+    },
+    {
+      "date": "2027-05-29",
+      "previousDate": "2027-03-01",
+      "referenceDate": "2027-05-24",
+      "rate": 12.0,
+      "number": 12
+    },
+    {
+      "date": "2027-08-29",
+      "previousDate": "2027-05-29",
+      "referenceDate": "2027-08-23",
+      "rate": 13.0,
+      "number": 13
+    },
+    {
+      "date": "2027-11-29",
+      "previousDate": "2027-08-29",
+      "referenceDate": "2027-11-22",
+      "rate": 14.0,
+      "number": 14
+    },
+    {
+      "date": "2028-02-29",
+      "previousDate": "2027-11-29",
+      "referenceDate": "2028-02-22",
+      "rate": 15.0,
+      "number": 15
+    },
+    {
+      "date": "2028-05-29",
+      "previousDate": "2028-02-29",
+      "referenceDate": "2028-05-22",
+      "rate": 16.0,
+      "number": 16
+    },
+    {
+      "date": "2028-08-29",
+      "previousDate": "2028-05-29",
+      "referenceDate": "2028-08-22",
+      "rate": 17.0,
+      "number": 17
+    },
+    {
+      "date": "2028-11-29",
+      "previousDate": "2028-08-29",
+      "referenceDate": "2028-11-22",
+      "rate": 18.0,
+      "number": 18
+    },
+    {
+      "date": "2029-03-01",
+      "previousDate": "2028-11-29",
+      "referenceDate": "2029-02-22",
+      "rate": 19.0,
+      "number": 19
+    },
+    {
+      "date": "2029-05-29",
+      "previousDate": "2029-03-01",
+      "referenceDate": "2029-05-22",
+      "rate": 20.0,
+      "number": 20
+    }
+  ],
+  "couponCount": 20,
+  "principalRepayments": [
+    {
+      "date": "2029-05-22"
+    }
+  ]
+}

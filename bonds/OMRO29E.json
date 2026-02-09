@@ -1,0 +1,91 @@
+{
+  "symbol": "OMRO29E",
+  "lastUpdated": "2026-02-09T07:40:36Z",
+  "source": "BVB",
+  "details": {
+    "couponFrequency": 1,
+    "faceValue": 100.0,
+    "currency": "EUR",
+    "couponRate": 10.5,
+    "issueDate": "2024-07-30",
+    "maturityDate": "2029-07-30"
+  },
+  "couponDates": [
+    {
+      "date": "2025-01-30",
+      "previousDate": "2024-07-30",
+      "referenceDate": "2025-01-15",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2025-07-30",
+      "previousDate": "2025-01-30",
+      "referenceDate": "2025-07-16",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2026-01-30",
+      "previousDate": "2025-07-30",
+      "referenceDate": "2026-01-16",
+      "rate": 3.0,
+      "number": 3
+    },
+    {
+      "date": "2026-07-30",
+      "previousDate": "2026-01-30",
+      "referenceDate": "2026-07-16",
+      "rate": 4.0,
+      "number": 4
+    },
+    {
+      "date": "2027-01-30",
+      "previousDate": "2026-07-30",
+      "referenceDate": "2027-01-18",
+      "rate": 5.0,
+      "number": 5
+    },
+    {
+      "date": "2027-07-30",
+      "previousDate": "2027-01-30",
+      "referenceDate": "2027-07-16",
+      "rate": 6.0,
+      "number": 6
+    },
+    {
+      "date": "2028-01-30",
+      "previousDate": "2027-07-30",
+      "referenceDate": "2028-01-17",
+      "rate": 7.0,
+      "number": 7
+    },
+    {
+      "date": "2028-07-30",
+      "previousDate": "2028-01-30",
+      "referenceDate": "2028-07-17",
+      "rate": 8.0,
+      "number": 8
+    },
+    {
+      "date": "2029-01-30",
+      "previousDate": "2028-07-30",
+      "referenceDate": "2029-01-16",
+      "rate": 9.0,
+      "number": 9
+    },
+    {
+      "date": "2029-07-30",
+      "previousDate": "2029-01-30",
+      "referenceDate": "2029-07-16",
+      "rate": 10.0,
+      "number": 10
+    }
+  ],
+  "couponCount": 10,
+  "principalRepayments": [
+    {
+      "date": "2029-07-16"
+    }
+  ]
+}

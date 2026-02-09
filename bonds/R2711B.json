@@ -1,0 +1,35 @@
+{
+  "symbol": "R2711B",
+  "lastUpdated": "2026-02-09T07:45:13Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "RON",
+    "couponRate": 7.95,
+    "issueDate": "2025-11-19",
+    "maturityDate": "2027-11-19",
+    "couponFrequency": 1
+  },
+  "couponDates": [
+    {
+      "date": "2026-11-19",
+      "previousDate": "2025-11-19",
+      "referenceDate": "2026-11-10",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2027-11-19",
+      "previousDate": "2026-11-19",
+      "referenceDate": "2027-11-10",
+      "rate": 2.0,
+      "number": 2
+    }
+  ],
+  "couponCount": 2,
+  "principalRepayments": [
+    {
+      "date": "2027-11-10"
+    }
+  ]
+}

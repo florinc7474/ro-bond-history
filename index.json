@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-09T07:33:03Z",
+  "lastUpdated": "2026-02-09T07:55:04Z",
   "tradingDates": {
     "count": 7,
     "first": "2026-01-30",
@@ -15,9 +15,2065 @@
     ]
   },
   "bondDetails": {
-    "count": 0,
-    "withCoupons": 0,
-    "bonds": []
+    "count": 228,
+    "withCoupons": 215,
+    "bonds": [
+      {
+        "symbol": "AAB26",
+        "lastUpdated": "2026-02-09T07:34:52Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 9.0,
+        "maturityDate": "2026-08-02"
+      },
+      {
+        "symbol": "AGR28",
+        "lastUpdated": "2026-02-09T07:34:56Z",
+        "couponCount": 8,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 9.75,
+        "maturityDate": "2028-10-02"
+      },
+      {
+        "symbol": "ALB26",
+        "lastUpdated": "2026-02-09T07:35:01Z",
+        "couponCount": 71,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 67.0,
+        "maturityDate": "2026-11-15"
+      },
+      {
+        "symbol": "ALB27",
+        "lastUpdated": "2026-02-09T07:35:06Z",
+        "couponCount": 72,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": null,
+        "maturityDate": "2027-11-15"
+      },
+      {
+        "symbol": "ANS26E",
+        "lastUpdated": "2026-02-09T07:35:11Z",
+        "couponCount": 20,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 8.0,
+        "maturityDate": "2026-04-29"
+      },
+      {
+        "symbol": "ASC27",
+        "lastUpdated": "2026-02-09T07:35:16Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 10.0,
+        "maturityDate": "2027-09-02"
+      },
+      {
+        "symbol": "ATPR28",
+        "lastUpdated": "2026-02-09T07:35:21Z",
+        "couponCount": 8,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 10.5,
+        "maturityDate": "2028-06-06"
+      },
+      {
+        "symbol": "AUT26E",
+        "lastUpdated": "2026-02-09T07:35:26Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 4.11,
+        "maturityDate": "2026-11-23"
+      },
+      {
+        "symbol": "AUT29E",
+        "lastUpdated": "2026-02-09T07:35:31Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 6.14,
+        "maturityDate": "2029-11-26"
+      },
+      {
+        "symbol": "B2604A",
+        "lastUpdated": "2026-02-09T07:35:36Z",
+        "couponCount": 8,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 4.85,
+        "maturityDate": "2026-04-22"
+      },
+      {
+        "symbol": "B2707A",
+        "lastUpdated": "2026-02-09T07:35:42Z",
+        "couponCount": 16,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 5.8,
+        "maturityDate": "2027-07-26"
+      },
+      {
+        "symbol": "B2902A",
+        "lastUpdated": "2026-02-09T07:35:47Z",
+        "couponCount": 11,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 5.0,
+        "maturityDate": "2029-02-12"
+      },
+      {
+        "symbol": "B3109A",
+        "lastUpdated": "2026-02-09T07:35:53Z",
+        "couponCount": 15,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 3.65,
+        "maturityDate": "2031-09-24"
+      },
+      {
+        "symbol": "BAC26",
+        "lastUpdated": "2026-02-09T07:35:57Z",
+        "couponCount": 76,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": null,
+        "maturityDate": "2026-11-01"
+      },
+      {
+        "symbol": "BAC26A",
+        "lastUpdated": "2026-02-09T07:36:02Z",
+        "couponCount": 73,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": null,
+        "maturityDate": "2026-11-01"
+      },
+      {
+        "symbol": "BAC26B",
+        "lastUpdated": "2026-02-09T07:36:07Z",
+        "couponCount": 69,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": null,
+        "maturityDate": "2026-11-01"
+      },
+      {
+        "symbol": "BCR26",
+        "lastUpdated": "2026-02-09T07:36:12Z",
+        "couponCount": 7,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 5.35,
+        "maturityDate": "2026-12-16"
+      },
+      {
+        "symbol": "BCR27",
+        "lastUpdated": "2026-02-09T07:36:17Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 6.76,
+        "maturityDate": "2027-03-31"
+      },
+      {
+        "symbol": "BCR27A",
+        "lastUpdated": "2026-02-09T07:36:22Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 9.079,
+        "maturityDate": "2027-06-14"
+      },
+      {
+        "symbol": "BCR27E",
+        "lastUpdated": "2026-02-09T07:36:27Z",
+        "couponCount": 7,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 7.625,
+        "maturityDate": "2027-05-19"
+      },
+      {
+        "symbol": "BCR28",
+        "lastUpdated": "2026-02-09T07:36:32Z",
+        "couponCount": 7,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 3.9,
+        "maturityDate": "2028-05-21"
+      },
+      {
+        "symbol": "BCR28A",
+        "lastUpdated": "2026-02-09T07:36:37Z",
+        "couponCount": 7,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 5.0,
+        "maturityDate": "2028-10-14"
+      },
+      {
+        "symbol": "BCR28B",
+        "lastUpdated": "2026-02-09T07:36:42Z",
+        "couponCount": 7,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 5.98,
+        "maturityDate": "2028-12-09"
+      },
+      {
+        "symbol": "BCR28C",
+        "lastUpdated": "2026-02-09T07:36:47Z",
+        "couponCount": 6,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 9.57,
+        "maturityDate": "2028-10-06"
+      },
+      {
+        "symbol": "BCR29",
+        "lastUpdated": "2026-02-09T07:36:52Z",
+        "couponCount": 6,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.55,
+        "maturityDate": "2029-12-11"
+      },
+      {
+        "symbol": "BCR31",
+        "lastUpdated": "2026-02-09T07:36:57Z",
+        "couponCount": 6,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.718,
+        "maturityDate": "2031-11-11"
+      },
+      {
+        "symbol": "BCR31E",
+        "lastUpdated": "2026-02-09T07:37:02Z",
+        "couponCount": 9,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 4.0,
+        "maturityDate": "2031-11-25"
+      },
+      {
+        "symbol": "BIH27",
+        "lastUpdated": "2026-02-09T07:37:07Z",
+        "couponCount": 34,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": null,
+        "maturityDate": "2027-12-15"
+      },
+      {
+        "symbol": "BIS29",
+        "lastUpdated": "2026-02-09T07:37:12Z",
+        "couponCount": 80,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 64.0,
+        "maturityDate": "2029-11-25"
+      },
+      {
+        "symbol": "BNET26E",
+        "lastUpdated": "2026-02-09T07:37:17Z",
+        "couponCount": 14,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 9.0,
+        "maturityDate": "2026-06-30"
+      },
+      {
+        "symbol": "BNET27A",
+        "lastUpdated": "2026-02-09T07:37:22Z",
+        "couponCount": 16,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 10.0,
+        "maturityDate": "2027-06-26"
+      },
+      {
+        "symbol": "BNET28",
+        "lastUpdated": "2026-02-09T07:37:27Z",
+        "couponCount": 18,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 9.6,
+        "maturityDate": "2028-06-15"
+      },
+      {
+        "symbol": "BNET28A",
+        "lastUpdated": "2026-02-09T07:37:32Z",
+        "couponCount": 16,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 9.0,
+        "maturityDate": "2028-04-18"
+      },
+      {
+        "symbol": "BRK26",
+        "lastUpdated": "2026-02-09T07:37:37Z",
+        "couponCount": 20,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.6,
+        "maturityDate": "2026-08-20"
+      },
+      {
+        "symbol": "CECRO28E",
+        "lastUpdated": "2026-02-09T07:37:42Z",
+        "couponCount": 8,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 7.5,
+        "maturityDate": "2028-02-07"
+      },
+      {
+        "symbol": "CECRO29E",
+        "lastUpdated": "2026-02-09T07:37:47Z",
+        "couponCount": 8,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.625,
+        "maturityDate": "2029-11-28"
+      },
+      {
+        "symbol": "CJC33E",
+        "lastUpdated": "2026-02-09T07:37:51Z",
+        "couponCount": 20,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": null,
+        "maturityDate": "2033-12-21"
+      },
+      {
+        "symbol": "DPAN30E",
+        "lastUpdated": "2026-02-09T07:37:59Z",
+        "couponCount": 0,
+        "hasCoupons": false,
+        "currency": null,
+        "couponRate": null,
+        "maturityDate": null
+      },
+      {
+        "symbol": "EL30E",
+        "lastUpdated": "2026-02-09T07:38:04Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 4.375,
+        "maturityDate": "2030-07-14"
+      },
+      {
+        "symbol": "ELF26",
+        "lastUpdated": "2026-02-09T07:38:09Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 9.0,
+        "maturityDate": "2026-11-26"
+      },
+      {
+        "symbol": "FOC26",
+        "lastUpdated": "2026-02-09T07:38:14Z",
+        "couponCount": 70,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 66.0,
+        "maturityDate": "2026-11-15"
+      },
+      {
+        "symbol": "FORTY28",
+        "lastUpdated": "2026-02-09T07:38:22Z",
+        "couponCount": 0,
+        "hasCoupons": false,
+        "currency": "RON",
+        "couponRate": null,
+        "maturityDate": null
+      },
+      {
+        "symbol": "HUE26",
+        "lastUpdated": "2026-02-09T07:38:26Z",
+        "couponCount": 80,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 77.0,
+        "maturityDate": "2026-08-15"
+      },
+      {
+        "symbol": "HUE26A",
+        "lastUpdated": "2026-02-09T07:38:31Z",
+        "couponCount": 79,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 76.0,
+        "maturityDate": "2026-08-15"
+      },
+      {
+        "symbol": "HUE26B",
+        "lastUpdated": "2026-02-09T07:38:36Z",
+        "couponCount": 77,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 74.0,
+        "maturityDate": "2026-08-15"
+      },
+      {
+        "symbol": "IAS28",
+        "lastUpdated": "2026-02-09T07:38:41Z",
+        "couponCount": 81,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": null,
+        "maturityDate": "2028-11-15"
+      },
+      {
+        "symbol": "IAS28A",
+        "lastUpdated": "2026-02-09T07:38:46Z",
+        "couponCount": 74,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": null,
+        "maturityDate": "2028-11-15"
+      },
+      {
+        "symbol": "IDS26E",
+        "lastUpdated": "2026-02-09T07:38:54Z",
+        "couponCount": 0,
+        "hasCoupons": false,
+        "currency": "EUR",
+        "couponRate": null,
+        "maturityDate": null
+      },
+      {
+        "symbol": "IMP26E",
+        "lastUpdated": "2026-02-09T07:38:59Z",
+        "couponCount": 12,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 6.4,
+        "maturityDate": "2026-12-24"
+      },
+      {
+        "symbol": "IMP27E",
+        "lastUpdated": "2026-02-09T07:39:04Z",
+        "couponCount": 6,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 9.0,
+        "maturityDate": "2027-02-28"
+      },
+      {
+        "symbol": "IMPI26E",
+        "lastUpdated": "2026-02-09T07:39:09Z",
+        "couponCount": 13,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 9.0,
+        "maturityDate": "2026-12-04"
+      },
+      {
+        "symbol": "IMPI27E",
+        "lastUpdated": "2026-02-09T07:39:15Z",
+        "couponCount": 13,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 9.0,
+        "maturityDate": "2027-06-20"
+      },
+      {
+        "symbol": "ISSA26E",
+        "lastUpdated": "2026-02-09T07:39:20Z",
+        "couponCount": 20,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 8.0,
+        "maturityDate": "2026-12-10"
+      },
+      {
+        "symbol": "JOBS26E",
+        "lastUpdated": "2026-02-09T07:39:24Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.8,
+        "maturityDate": "2026-05-20"
+      },
+      {
+        "symbol": "LIBRA28E",
+        "lastUpdated": "2026-02-09T07:39:29Z",
+        "couponCount": 7,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 4.25,
+        "maturityDate": "2028-09-28"
+      },
+      {
+        "symbol": "LIBRA30E",
+        "lastUpdated": "2026-02-09T07:39:34Z",
+        "couponCount": 20,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.0,
+        "maturityDate": "2030-03-26"
+      },
+      {
+        "symbol": "LIBRA32E",
+        "lastUpdated": "2026-02-09T07:39:39Z",
+        "couponCount": 20,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 6.5,
+        "maturityDate": "2032-07-29"
+      },
+      {
+        "symbol": "LIH28",
+        "lastUpdated": "2026-02-09T07:39:44Z",
+        "couponCount": 16,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 10.0,
+        "maturityDate": "2028-04-18"
+      },
+      {
+        "symbol": "MECE23",
+        "lastUpdated": "2026-02-09T07:39:52Z",
+        "couponCount": 0,
+        "hasCoupons": false,
+        "currency": "EUR",
+        "couponRate": null,
+        "maturityDate": null
+      },
+      {
+        "symbol": "MILK28E",
+        "lastUpdated": "2026-02-09T07:39:57Z",
+        "couponCount": 12,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 9.5,
+        "maturityDate": "2028-11-03"
+      },
+      {
+        "symbol": "MKR27E",
+        "lastUpdated": "2026-02-09T07:40:02Z",
+        "couponCount": 13,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 12.0,
+        "maturityDate": "2027-02-02"
+      },
+      {
+        "symbol": "MWGP27",
+        "lastUpdated": "2026-02-09T07:40:07Z",
+        "couponCount": 14,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 8.0,
+        "maturityDate": "2027-12-29"
+      },
+      {
+        "symbol": "NAV27",
+        "lastUpdated": "2026-02-09T07:40:11Z",
+        "couponCount": 37,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": null,
+        "maturityDate": "2027-10-22"
+      },
+      {
+        "symbol": "NRF29",
+        "lastUpdated": "2026-02-09T07:40:16Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 10.0,
+        "maturityDate": "2029-12-19"
+      },
+      {
+        "symbol": "NUSCO28",
+        "lastUpdated": "2026-02-09T07:40:22Z",
+        "couponCount": 14,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 9.0,
+        "maturityDate": "2028-08-05"
+      },
+      {
+        "symbol": "OCIFN26E",
+        "lastUpdated": "2026-02-09T07:40:27Z",
+        "couponCount": 20,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 8.75,
+        "maturityDate": "2026-07-23"
+      },
+      {
+        "symbol": "OMRO26",
+        "lastUpdated": "2026-02-09T07:40:31Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 9.5,
+        "maturityDate": "2027-02-01"
+      },
+      {
+        "symbol": "OMRO29E",
+        "lastUpdated": "2026-02-09T07:40:36Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 10.5,
+        "maturityDate": "2029-07-30"
+      },
+      {
+        "symbol": "OMRO32",
+        "lastUpdated": "2026-02-09T07:40:41Z",
+        "couponCount": 14,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": null,
+        "maturityDate": "2032-02-24"
+      },
+      {
+        "symbol": "ORS29",
+        "lastUpdated": "2026-02-09T07:40:46Z",
+        "couponCount": 80,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": null,
+        "maturityDate": "2029-05-15"
+      },
+      {
+        "symbol": "ORV27",
+        "lastUpdated": "2026-02-09T07:40:51Z",
+        "couponCount": 39,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": null,
+        "maturityDate": "2027-06-15"
+      },
+      {
+        "symbol": "PAY26E",
+        "lastUpdated": "2026-02-09T07:40:56Z",
+        "couponCount": 20,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.5,
+        "maturityDate": "2026-06-16"
+      },
+      {
+        "symbol": "PBK27E",
+        "lastUpdated": "2026-02-09T07:41:01Z",
+        "couponCount": 16,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 6.5,
+        "maturityDate": "2027-09-20"
+      },
+      {
+        "symbol": "PBK28E",
+        "lastUpdated": "2026-02-09T07:41:06Z",
+        "couponCount": 16,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 6.5,
+        "maturityDate": "2028-10-05"
+      },
+      {
+        "symbol": "PMB28",
+        "lastUpdated": "2026-02-09T07:41:11Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 5.6,
+        "maturityDate": "2028-04-23"
+      },
+      {
+        "symbol": "PMB30",
+        "lastUpdated": "2026-02-09T07:41:16Z",
+        "couponCount": 7,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 8.9,
+        "maturityDate": "2030-04-25"
+      },
+      {
+        "symbol": "PMB31",
+        "lastUpdated": "2026-02-09T07:41:21Z",
+        "couponCount": 12,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 8.47,
+        "maturityDate": "2031-04-23"
+      },
+      {
+        "symbol": "PMB32",
+        "lastUpdated": "2026-02-09T07:41:27Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.33,
+        "maturityDate": "2032-04-19"
+      },
+      {
+        "symbol": "PRD26",
+        "lastUpdated": "2026-02-09T07:41:32Z",
+        "couponCount": 40,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": null,
+        "maturityDate": "2026-05-15"
+      },
+      {
+        "symbol": "PRF26E",
+        "lastUpdated": "2026-02-09T07:41:37Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 7.5,
+        "maturityDate": "2026-07-23"
+      },
+      {
+        "symbol": "R2603A",
+        "lastUpdated": "2026-02-09T07:41:42Z",
+        "couponCount": 1,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 6.8,
+        "maturityDate": "2026-03-19"
+      },
+      {
+        "symbol": "R2603AE",
+        "lastUpdated": "2026-02-09T07:41:47Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 1.55,
+        "maturityDate": "2026-03-24"
+      },
+      {
+        "symbol": "R2603B",
+        "lastUpdated": "2026-02-09T07:41:53Z",
+        "couponCount": 1,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.8,
+        "maturityDate": "2026-03-19"
+      },
+      {
+        "symbol": "R2604A",
+        "lastUpdated": "2026-02-09T07:41:58Z",
+        "couponCount": 3,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.35,
+        "maturityDate": "2026-04-13"
+      },
+      {
+        "symbol": "R2604B",
+        "lastUpdated": "2026-02-09T07:42:04Z",
+        "couponCount": 1,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.6,
+        "maturityDate": "2026-04-16"
+      },
+      {
+        "symbol": "R2604C",
+        "lastUpdated": "2026-02-09T07:42:09Z",
+        "couponCount": 1,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 6.6,
+        "maturityDate": "2026-04-16"
+      },
+      {
+        "symbol": "R2605A",
+        "lastUpdated": "2026-02-09T07:42:15Z",
+        "couponCount": 1,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 6.75,
+        "maturityDate": "2026-05-21"
+      },
+      {
+        "symbol": "R2605B",
+        "lastUpdated": "2026-02-09T07:42:20Z",
+        "couponCount": 1,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.75,
+        "maturityDate": "2026-05-21"
+      },
+      {
+        "symbol": "R2608A",
+        "lastUpdated": "2026-02-09T07:42:25Z",
+        "couponCount": 3,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.2,
+        "maturityDate": "2026-08-02"
+      },
+      {
+        "symbol": "R2610A",
+        "lastUpdated": "2026-02-09T07:42:31Z",
+        "couponCount": 3,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.1,
+        "maturityDate": "2026-10-06"
+      },
+      {
+        "symbol": "R2610AE",
+        "lastUpdated": "2026-02-09T07:42:36Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 1.6,
+        "maturityDate": "2026-10-06"
+      },
+      {
+        "symbol": "R2612A",
+        "lastUpdated": "2026-02-09T07:42:42Z",
+        "couponCount": 3,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.25,
+        "maturityDate": "2026-12-20"
+      },
+      {
+        "symbol": "R2612AE",
+        "lastUpdated": "2026-02-09T07:42:47Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 1.8,
+        "maturityDate": "2026-12-15"
+      },
+      {
+        "symbol": "R2612BE",
+        "lastUpdated": "2026-02-09T07:42:53Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 3.75,
+        "maturityDate": "2026-12-23"
+      },
+      {
+        "symbol": "R2702AE",
+        "lastUpdated": "2026-02-09T07:42:58Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 4.0,
+        "maturityDate": "2027-02-19"
+      },
+      {
+        "symbol": "R2703A",
+        "lastUpdated": "2026-02-09T07:43:03Z",
+        "couponCount": 3,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 6.75,
+        "maturityDate": "2027-03-06"
+      },
+      {
+        "symbol": "R2703AE",
+        "lastUpdated": "2026-02-09T07:43:09Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 3.75,
+        "maturityDate": "2027-03-19"
+      },
+      {
+        "symbol": "R2704A",
+        "lastUpdated": "2026-02-09T07:43:14Z",
+        "couponCount": 3,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 6.85,
+        "maturityDate": "2027-04-22"
+      },
+      {
+        "symbol": "R2704AE",
+        "lastUpdated": "2026-02-09T07:43:20Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 3.6,
+        "maturityDate": "2027-04-16"
+      },
+      {
+        "symbol": "R2705AE",
+        "lastUpdated": "2026-02-09T07:43:25Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 3.85,
+        "maturityDate": "2027-05-21"
+      },
+      {
+        "symbol": "R2706A",
+        "lastUpdated": "2026-02-09T07:43:30Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.35,
+        "maturityDate": "2027-06-19"
+      },
+      {
+        "symbol": "R2706AE",
+        "lastUpdated": "2026-02-09T07:43:36Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 3.9,
+        "maturityDate": "2027-06-19"
+      },
+      {
+        "symbol": "R2706B",
+        "lastUpdated": "2026-02-09T07:43:41Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 8.35,
+        "maturityDate": "2027-06-19"
+      },
+      {
+        "symbol": "R2707A",
+        "lastUpdated": "2026-02-09T07:43:47Z",
+        "couponCount": 3,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 6.85,
+        "maturityDate": "2027-07-03"
+      },
+      {
+        "symbol": "R2707AE",
+        "lastUpdated": "2026-02-09T07:43:52Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 3.4,
+        "maturityDate": "2027-07-16"
+      },
+      {
+        "symbol": "R2707B",
+        "lastUpdated": "2026-02-09T07:43:58Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 8.25,
+        "maturityDate": "2027-07-16"
+      },
+      {
+        "symbol": "R2707BE",
+        "lastUpdated": "2026-02-09T07:44:03Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 4.4,
+        "maturityDate": "2027-07-16"
+      },
+      {
+        "symbol": "R2707C",
+        "lastUpdated": "2026-02-09T07:44:08Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.25,
+        "maturityDate": "2027-07-16"
+      },
+      {
+        "symbol": "R2708A",
+        "lastUpdated": "2026-02-09T07:44:14Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.2,
+        "maturityDate": "2027-08-13"
+      },
+      {
+        "symbol": "R2708AE",
+        "lastUpdated": "2026-02-09T07:44:19Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 3.1,
+        "maturityDate": "2027-08-13"
+      },
+      {
+        "symbol": "R2708B",
+        "lastUpdated": "2026-02-09T07:44:24Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 8.2,
+        "maturityDate": "2027-08-13"
+      },
+      {
+        "symbol": "R2708BE",
+        "lastUpdated": "2026-02-09T07:44:30Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 4.1,
+        "maturityDate": "2027-08-13"
+      },
+      {
+        "symbol": "R2709A",
+        "lastUpdated": "2026-02-09T07:44:36Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.2,
+        "maturityDate": "2027-09-17"
+      },
+      {
+        "symbol": "R2709AE",
+        "lastUpdated": "2026-02-09T07:44:41Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 3.1,
+        "maturityDate": "2027-09-17"
+      },
+      {
+        "symbol": "R2709B",
+        "lastUpdated": "2026-02-09T07:44:46Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 8.2,
+        "maturityDate": "2027-09-17"
+      },
+      {
+        "symbol": "R2709BE",
+        "lastUpdated": "2026-02-09T07:44:52Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 4.1,
+        "maturityDate": "2027-09-17"
+      },
+      {
+        "symbol": "R2710A",
+        "lastUpdated": "2026-02-09T07:44:57Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.2,
+        "maturityDate": "2027-10-22"
+      },
+      {
+        "symbol": "R2710B",
+        "lastUpdated": "2026-02-09T07:45:03Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 8.2,
+        "maturityDate": "2027-10-22"
+      },
+      {
+        "symbol": "R2711A",
+        "lastUpdated": "2026-02-09T07:45:08Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 6.95,
+        "maturityDate": "2027-11-19"
+      },
+      {
+        "symbol": "R2711B",
+        "lastUpdated": "2026-02-09T07:45:13Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.95,
+        "maturityDate": "2027-11-19"
+      },
+      {
+        "symbol": "R2712A",
+        "lastUpdated": "2026-02-09T07:45:19Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 6.55,
+        "maturityDate": "2027-12-17"
+      },
+      {
+        "symbol": "R2712B",
+        "lastUpdated": "2026-02-09T07:45:24Z",
+        "couponCount": 3,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.9,
+        "maturityDate": "2027-12-23"
+      },
+      {
+        "symbol": "R2712D",
+        "lastUpdated": "2026-02-09T07:45:30Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.55,
+        "maturityDate": "2027-12-17"
+      },
+      {
+        "symbol": "R2801A",
+        "lastUpdated": "2026-02-09T07:45:35Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 6.45,
+        "maturityDate": "2028-01-28"
+      },
+      {
+        "symbol": "R2801B",
+        "lastUpdated": "2026-02-09T07:45:40Z",
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.45,
+        "maturityDate": "2028-01-28"
+      },
+      {
+        "symbol": "R2802A",
+        "lastUpdated": "2026-02-09T07:45:46Z",
+        "couponCount": 3,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.65,
+        "maturityDate": "2028-02-19"
+      },
+      {
+        "symbol": "R2802B",
+        "lastUpdated": "2026-02-09T07:45:53Z",
+        "couponCount": 0,
+        "hasCoupons": false,
+        "currency": null,
+        "couponRate": null,
+        "maturityDate": null
+      },
+      {
+        "symbol": "R2802C",
+        "lastUpdated": "2026-02-09T07:46:01Z",
+        "couponCount": 0,
+        "hasCoupons": false,
+        "currency": null,
+        "couponRate": null,
+        "maturityDate": null
+      },
+      {
+        "symbol": "R2803A",
+        "lastUpdated": "2026-02-09T07:46:08Z",
+        "couponCount": 3,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.5,
+        "maturityDate": "2028-03-19"
+      },
+      {
+        "symbol": "R2804A",
+        "lastUpdated": "2026-02-09T07:46:13Z",
+        "couponCount": 3,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.3,
+        "maturityDate": "2028-04-15"
+      },
+      {
+        "symbol": "R2804AE",
+        "lastUpdated": "2026-02-09T07:46:18Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.8,
+        "maturityDate": "2028-04-13"
+      },
+      {
+        "symbol": "R2805A",
+        "lastUpdated": "2026-02-09T07:46:24Z",
+        "couponCount": 3,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.4,
+        "maturityDate": "2028-05-21"
+      },
+      {
+        "symbol": "R2808AE",
+        "lastUpdated": "2026-02-09T07:46:29Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.45,
+        "maturityDate": "2028-08-02"
+      },
+      {
+        "symbol": "R2810AE",
+        "lastUpdated": "2026-02-09T07:46:34Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.3,
+        "maturityDate": "2028-10-06"
+      },
+      {
+        "symbol": "R2810CE",
+        "lastUpdated": "2026-02-09T07:46:40Z",
+        "couponCount": 3,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 4.15,
+        "maturityDate": "2028-10-22"
+      },
+      {
+        "symbol": "R2811AE",
+        "lastUpdated": "2026-02-09T07:46:45Z",
+        "couponCount": 3,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 3.9,
+        "maturityDate": "2028-11-19"
+      },
+      {
+        "symbol": "R2812AE",
+        "lastUpdated": "2026-02-09T07:46:51Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.5,
+        "maturityDate": "2028-12-20"
+      },
+      {
+        "symbol": "R2812CE",
+        "lastUpdated": "2026-02-09T07:46:56Z",
+        "couponCount": 3,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 3.75,
+        "maturityDate": "2028-12-17"
+      },
+      {
+        "symbol": "R2901AE",
+        "lastUpdated": "2026-02-09T07:47:02Z",
+        "couponCount": 3,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 3.75,
+        "maturityDate": "2029-01-28"
+      },
+      {
+        "symbol": "R2902AE",
+        "lastUpdated": "2026-02-09T07:47:09Z",
+        "couponCount": 0,
+        "hasCoupons": false,
+        "currency": null,
+        "couponRate": null,
+        "maturityDate": null
+      },
+      {
+        "symbol": "R2903AE",
+        "lastUpdated": "2026-02-09T07:47:15Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.0,
+        "maturityDate": "2029-03-06"
+      },
+      {
+        "symbol": "R2904AE",
+        "lastUpdated": "2026-02-09T07:47:20Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.0,
+        "maturityDate": "2029-04-22"
+      },
+      {
+        "symbol": "R2906A",
+        "lastUpdated": "2026-02-09T07:47:26Z",
+        "couponCount": 4,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.7,
+        "maturityDate": "2029-06-19"
+      },
+      {
+        "symbol": "R2907A",
+        "lastUpdated": "2026-02-09T07:47:31Z",
+        "couponCount": 4,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.7,
+        "maturityDate": "2029-07-16"
+      },
+      {
+        "symbol": "R2907AE",
+        "lastUpdated": "2026-02-09T07:47:37Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.0,
+        "maturityDate": "2029-07-03"
+      },
+      {
+        "symbol": "R2908A",
+        "lastUpdated": "2026-02-09T07:47:42Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.0,
+        "maturityDate": "2029-08-23"
+      },
+      {
+        "symbol": "R2908AE",
+        "lastUpdated": "2026-02-09T07:47:48Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.0,
+        "maturityDate": "2029-08-23"
+      },
+      {
+        "symbol": "R2908C",
+        "lastUpdated": "2026-02-09T07:47:53Z",
+        "couponCount": 4,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.65,
+        "maturityDate": "2029-08-13"
+      },
+      {
+        "symbol": "R2909A",
+        "lastUpdated": "2026-02-09T07:47:59Z",
+        "couponCount": 4,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.6,
+        "maturityDate": "2029-09-17"
+      },
+      {
+        "symbol": "R2910A",
+        "lastUpdated": "2026-02-09T07:48:04Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.0,
+        "maturityDate": "2029-10-16"
+      },
+      {
+        "symbol": "R2910AE",
+        "lastUpdated": "2026-02-09T07:48:09Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.0,
+        "maturityDate": "2029-10-16"
+      },
+      {
+        "symbol": "R2910C",
+        "lastUpdated": "2026-02-09T07:48:15Z",
+        "couponCount": 4,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.6,
+        "maturityDate": "2029-10-22"
+      },
+      {
+        "symbol": "R2911A",
+        "lastUpdated": "2026-02-09T07:48:20Z",
+        "couponCount": 4,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.35,
+        "maturityDate": "2029-11-19"
+      },
+      {
+        "symbol": "R2912A",
+        "lastUpdated": "2026-02-09T07:48:26Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.6,
+        "maturityDate": "2029-12-23"
+      },
+      {
+        "symbol": "R2912C",
+        "lastUpdated": "2026-02-09T07:48:31Z",
+        "couponCount": 4,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.1,
+        "maturityDate": "2029-12-17"
+      },
+      {
+        "symbol": "R3001A",
+        "lastUpdated": "2026-02-09T07:48:36Z",
+        "couponCount": 4,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.1,
+        "maturityDate": "2030-01-28"
+      },
+      {
+        "symbol": "R3002A",
+        "lastUpdated": "2026-02-09T07:48:42Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.95,
+        "maturityDate": "2030-02-19"
+      },
+      {
+        "symbol": "R3002C",
+        "lastUpdated": "2026-02-09T07:48:50Z",
+        "couponCount": 0,
+        "hasCoupons": false,
+        "currency": null,
+        "couponRate": null,
+        "maturityDate": null
+      },
+      {
+        "symbol": "R3003A",
+        "lastUpdated": "2026-02-09T07:48:55Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.8,
+        "maturityDate": "2030-03-19"
+      },
+      {
+        "symbol": "R3004A",
+        "lastUpdated": "2026-02-09T07:49:00Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.6,
+        "maturityDate": "2030-04-16"
+      },
+      {
+        "symbol": "R3005A",
+        "lastUpdated": "2026-02-09T07:49:06Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.8,
+        "maturityDate": "2030-05-21"
+      },
+      {
+        "symbol": "R3006AE",
+        "lastUpdated": "2026-02-09T07:49:11Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.6,
+        "maturityDate": "2030-06-19"
+      },
+      {
+        "symbol": "R3007AE",
+        "lastUpdated": "2026-02-09T07:49:17Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.5,
+        "maturityDate": "2030-07-16"
+      },
+      {
+        "symbol": "R3008AE",
+        "lastUpdated": "2026-02-09T07:49:22Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.25,
+        "maturityDate": "2030-08-13"
+      },
+      {
+        "symbol": "R3009AE",
+        "lastUpdated": "2026-02-09T07:49:27Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.25,
+        "maturityDate": "2030-09-17"
+      },
+      {
+        "symbol": "R3010AE",
+        "lastUpdated": "2026-02-09T07:49:33Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.25,
+        "maturityDate": "2030-10-22"
+      },
+      {
+        "symbol": "R3011AE",
+        "lastUpdated": "2026-02-09T07:49:38Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.0,
+        "maturityDate": "2030-11-19"
+      },
+      {
+        "symbol": "R3012AE",
+        "lastUpdated": "2026-02-09T07:49:44Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 4.75,
+        "maturityDate": "2030-12-17"
+      },
+      {
+        "symbol": "R3101AE",
+        "lastUpdated": "2026-02-09T07:49:49Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 4.75,
+        "maturityDate": "2031-01-28"
+      },
+      {
+        "symbol": "R3102AE",
+        "lastUpdated": "2026-02-09T07:49:57Z",
+        "couponCount": 0,
+        "hasCoupons": false,
+        "currency": null,
+        "couponRate": null,
+        "maturityDate": null
+      },
+      {
+        "symbol": "R3106A",
+        "lastUpdated": "2026-02-09T07:50:02Z",
+        "couponCount": 6,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.95,
+        "maturityDate": "2031-06-19"
+      },
+      {
+        "symbol": "R3107A",
+        "lastUpdated": "2026-02-09T07:50:08Z",
+        "couponCount": 6,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.95,
+        "maturityDate": "2031-07-16"
+      },
+      {
+        "symbol": "R3108A",
+        "lastUpdated": "2026-02-09T07:50:13Z",
+        "couponCount": 6,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.9,
+        "maturityDate": "2031-08-13"
+      },
+      {
+        "symbol": "R3109A",
+        "lastUpdated": "2026-02-09T07:50:19Z",
+        "couponCount": 6,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.9,
+        "maturityDate": "2031-09-17"
+      },
+      {
+        "symbol": "R3110A",
+        "lastUpdated": "2026-02-09T07:50:24Z",
+        "couponCount": 6,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.9,
+        "maturityDate": "2031-10-22"
+      },
+      {
+        "symbol": "R3111A",
+        "lastUpdated": "2026-02-09T07:50:29Z",
+        "couponCount": 6,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.7,
+        "maturityDate": "2031-11-19"
+      },
+      {
+        "symbol": "R3112A",
+        "lastUpdated": "2026-02-09T07:50:35Z",
+        "couponCount": 6,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.5,
+        "maturityDate": "2031-12-17"
+      },
+      {
+        "symbol": "R3112AE",
+        "lastUpdated": "2026-02-09T07:50:40Z",
+        "couponCount": 7,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.75,
+        "maturityDate": "2031-12-23"
+      },
+      {
+        "symbol": "R3201A",
+        "lastUpdated": "2026-02-09T07:50:45Z",
+        "couponCount": 6,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.5,
+        "maturityDate": "2032-01-28"
+      },
+      {
+        "symbol": "R3202A",
+        "lastUpdated": "2026-02-09T07:50:53Z",
+        "couponCount": 0,
+        "hasCoupons": false,
+        "currency": null,
+        "couponRate": null,
+        "maturityDate": null
+      },
+      {
+        "symbol": "R3202AE",
+        "lastUpdated": "2026-02-09T07:50:59Z",
+        "couponCount": 7,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 6.25,
+        "maturityDate": "2032-02-19"
+      },
+      {
+        "symbol": "R3203AE",
+        "lastUpdated": "2026-02-09T07:51:04Z",
+        "couponCount": 7,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 6.0,
+        "maturityDate": "2032-03-19"
+      },
+      {
+        "symbol": "R3204AE",
+        "lastUpdated": "2026-02-09T07:51:09Z",
+        "couponCount": 7,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 6.0,
+        "maturityDate": "2032-04-16"
+      },
+      {
+        "symbol": "R3205AE",
+        "lastUpdated": "2026-02-09T07:51:15Z",
+        "couponCount": 7,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 6.25,
+        "maturityDate": "2032-05-21"
+      },
+      {
+        "symbol": "R3206AE",
+        "lastUpdated": "2026-02-09T07:51:20Z",
+        "couponCount": 7,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 6.5,
+        "maturityDate": "2032-06-19"
+      },
+      {
+        "symbol": "R3207AE",
+        "lastUpdated": "2026-02-09T07:51:26Z",
+        "couponCount": 7,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 6.3,
+        "maturityDate": "2032-07-16"
+      },
+      {
+        "symbol": "R3508AE",
+        "lastUpdated": "2026-02-09T07:51:31Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 6.5,
+        "maturityDate": "2035-08-13"
+      },
+      {
+        "symbol": "R3509AE",
+        "lastUpdated": "2026-02-09T07:51:36Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 6.5,
+        "maturityDate": "2035-09-17"
+      },
+      {
+        "symbol": "R3510AE",
+        "lastUpdated": "2026-02-09T07:51:42Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 6.5,
+        "maturityDate": "2035-10-22"
+      },
+      {
+        "symbol": "R3511AE",
+        "lastUpdated": "2026-02-09T07:51:47Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 6.3,
+        "maturityDate": "2035-11-19"
+      },
+      {
+        "symbol": "R3512AE",
+        "lastUpdated": "2026-02-09T07:51:53Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 6.2,
+        "maturityDate": "2035-12-17"
+      },
+      {
+        "symbol": "R3601AE",
+        "lastUpdated": "2026-02-09T07:51:58Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 6.2,
+        "maturityDate": "2036-01-28"
+      },
+      {
+        "symbol": "R3602AE",
+        "lastUpdated": "2026-02-09T07:52:06Z",
+        "couponCount": 0,
+        "hasCoupons": false,
+        "currency": null,
+        "couponRate": null,
+        "maturityDate": null
+      },
+      {
+        "symbol": "RBRO26",
+        "lastUpdated": "2026-02-09T07:52:11Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 3.086,
+        "maturityDate": "2026-05-14"
+      },
+      {
+        "symbol": "RBRO27",
+        "lastUpdated": "2026-02-09T07:52:16Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 8.927,
+        "maturityDate": "2027-06-15"
+      },
+      {
+        "symbol": "RBRO27A",
+        "lastUpdated": "2026-02-09T07:52:21Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 8.92,
+        "maturityDate": "2027-08-17"
+      },
+      {
+        "symbol": "RBRO27B",
+        "lastUpdated": "2026-02-09T07:52:25Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 9.404,
+        "maturityDate": "2027-10-18"
+      },
+      {
+        "symbol": "RBRO27C",
+        "lastUpdated": "2026-02-09T07:52:30Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 8.817,
+        "maturityDate": "2027-12-07"
+      },
+      {
+        "symbol": "RBRO28",
+        "lastUpdated": "2026-02-09T07:52:35Z",
+        "couponCount": 7,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 3.793,
+        "maturityDate": "2028-06-11"
+      },
+      {
+        "symbol": "REO29E",
+        "lastUpdated": "2026-02-09T07:52:43Z",
+        "couponCount": 0,
+        "hasCoupons": false,
+        "currency": null,
+        "couponRate": null,
+        "maturityDate": null
+      },
+      {
+        "symbol": "RES33E",
+        "lastUpdated": "2026-02-09T07:52:48Z",
+        "couponCount": 20,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": null,
+        "maturityDate": "2033-11-27"
+      },
+      {
+        "symbol": "SBET29",
+        "lastUpdated": "2026-02-09T07:52:53Z",
+        "couponCount": 8,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 11.0,
+        "maturityDate": "2029-02-13"
+      },
+      {
+        "symbol": "SKI29",
+        "lastUpdated": "2026-02-09T07:52:57Z",
+        "couponCount": 20,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 10.0,
+        "maturityDate": "2029-05-29"
+      },
+      {
+        "symbol": "SKI30",
+        "lastUpdated": "2026-02-09T07:53:05Z",
+        "couponCount": 0,
+        "hasCoupons": false,
+        "currency": null,
+        "couponRate": null,
+        "maturityDate": null
+      },
+      {
+        "symbol": "SLB29",
+        "lastUpdated": "2026-02-09T07:53:10Z",
+        "couponCount": 80,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 65.0,
+        "maturityDate": "2029-08-23"
+      },
+      {
+        "symbol": "SNG29E",
+        "lastUpdated": "2026-02-09T07:53:15Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 4.75,
+        "maturityDate": "2029-10-07"
+      },
+      {
+        "symbol": "SNG31E",
+        "lastUpdated": "2026-02-09T07:53:20Z",
+        "couponCount": 6,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 4.625,
+        "maturityDate": "2031-11-04"
+      },
+      {
+        "symbol": "SRE28",
+        "lastUpdated": "2026-02-09T07:53:25Z",
+        "couponCount": 38,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": null,
+        "maturityDate": "2028-03-01"
+      },
+      {
+        "symbol": "TEI26",
+        "lastUpdated": "2026-02-09T07:53:30Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 8.25,
+        "maturityDate": "2026-12-03"
+      },
+      {
+        "symbol": "TEI26E",
+        "lastUpdated": "2026-02-09T07:53:35Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.75,
+        "maturityDate": "2026-12-03"
+      },
+      {
+        "symbol": "TEI29",
+        "lastUpdated": "2026-02-09T07:53:40Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 9.5,
+        "maturityDate": "2029-10-30"
+      },
+      {
+        "symbol": "TEI29E",
+        "lastUpdated": "2026-02-09T07:53:44Z",
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 8.5,
+        "maturityDate": "2029-10-30"
+      },
+      {
+        "symbol": "TGM27",
+        "lastUpdated": "2026-02-09T07:53:49Z",
+        "couponCount": 80,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": null,
+        "maturityDate": "2027-08-15"
+      },
+      {
+        "symbol": "TGM27A",
+        "lastUpdated": "2026-02-09T07:53:54Z",
+        "couponCount": 78,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": null,
+        "maturityDate": "2027-08-15"
+      },
+      {
+        "symbol": "TIM26",
+        "lastUpdated": "2026-02-09T07:53:59Z",
+        "couponCount": 78,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 76.0,
+        "maturityDate": "2026-05-12"
+      },
+      {
+        "symbol": "TIM26A",
+        "lastUpdated": "2026-02-09T07:54:04Z",
+        "couponCount": 76,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 74.0,
+        "maturityDate": "2026-05-15"
+      },
+      {
+        "symbol": "TIM26B",
+        "lastUpdated": "2026-02-09T07:54:09Z",
+        "couponCount": 74,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 72.0,
+        "maturityDate": "2026-05-15"
+      },
+      {
+        "symbol": "TIM26C",
+        "lastUpdated": "2026-02-09T07:54:14Z",
+        "couponCount": 72,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 70.0,
+        "maturityDate": "2026-05-15"
+      },
+      {
+        "symbol": "TIM26D",
+        "lastUpdated": "2026-02-09T07:54:19Z",
+        "couponCount": 71,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 69.0,
+        "maturityDate": "2026-05-15"
+      },
+      {
+        "symbol": "TIM28",
+        "lastUpdated": "2026-02-09T07:54:24Z",
+        "couponCount": 68,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": null,
+        "maturityDate": "2028-04-07"
+      },
+      {
+        "symbol": "TLV28E",
+        "lastUpdated": "2026-02-09T07:54:29Z",
+        "couponCount": 20,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": null,
+        "maturityDate": "2028-06-28"
+      },
+      {
+        "symbol": "TLV32",
+        "lastUpdated": "2026-02-09T07:54:34Z",
+        "couponCount": 7,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 8.875,
+        "maturityDate": "2032-07-03"
+      },
+      {
+        "symbol": "TLV33E",
+        "lastUpdated": "2026-02-09T07:54:39Z",
+        "couponCount": 20,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": null,
+        "maturityDate": "2033-06-29"
+      },
+      {
+        "symbol": "TRI29",
+        "lastUpdated": "2026-02-09T07:54:44Z",
+        "couponCount": 20,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 11.0,
+        "maturityDate": "2029-03-04"
+      },
+      {
+        "symbol": "UCB27",
+        "lastUpdated": "2026-02-09T07:54:49Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 9.07,
+        "maturityDate": "2027-12-21"
+      },
+      {
+        "symbol": "UCB28",
+        "lastUpdated": "2026-02-09T07:54:54Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.82,
+        "maturityDate": "2028-11-24"
+      },
+      {
+        "symbol": "UCB29",
+        "lastUpdated": "2026-02-09T07:54:59Z",
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.67,
+        "maturityDate": "2029-11-22"
+      },
+      {
+        "symbol": "ZAL30",
+        "lastUpdated": "2026-02-09T07:55:04Z",
+        "couponCount": 80,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 61.0,
+        "maturityDate": "2030-09-15"
+      }
+    ]
   },
-  "bondList": {}
+  "bondList": {
+    "bondCount": 232,
+    "fetchedAt": "2026-02-09T07:34:48Z"
+  }
 }

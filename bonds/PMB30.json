@@ -1,0 +1,70 @@
+{
+  "symbol": "PMB30",
+  "lastUpdated": "2026-02-09T07:41:16Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 10000.0,
+    "currency": "RON",
+    "couponRate": 8.9,
+    "issueDate": "2023-04-25",
+    "maturityDate": "2030-04-25",
+    "couponFrequency": 1
+  },
+  "couponDates": [
+    {
+      "date": "2024-04-25",
+      "previousDate": "2023-04-25",
+      "referenceDate": "2024-04-17",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2025-04-25",
+      "previousDate": "2024-04-25",
+      "referenceDate": "2025-04-15",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2026-04-25",
+      "previousDate": "2025-04-25",
+      "referenceDate": "2026-04-17",
+      "rate": 3.0,
+      "number": 3
+    },
+    {
+      "date": "2027-04-25",
+      "previousDate": "2026-04-25",
+      "referenceDate": "2027-04-16",
+      "rate": 4.0,
+      "number": 4
+    },
+    {
+      "date": "2028-04-25",
+      "previousDate": "2027-04-25",
+      "referenceDate": "2028-04-13",
+      "rate": 5.0,
+      "number": 5
+    },
+    {
+      "date": "2029-04-25",
+      "previousDate": "2028-04-25",
+      "referenceDate": "2029-04-17",
+      "rate": 6.0,
+      "number": 6
+    },
+    {
+      "date": "2030-04-25",
+      "previousDate": "2029-04-25",
+      "referenceDate": "2030-04-17",
+      "rate": 7.0,
+      "number": 7
+    }
+  ],
+  "couponCount": 7,
+  "principalRepayments": [
+    {
+      "date": "2030-04-17"
+    }
+  ]
+}

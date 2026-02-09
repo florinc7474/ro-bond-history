@@ -1,0 +1,161 @@
+{
+  "symbol": "LIBRA32E",
+  "lastUpdated": "2026-02-09T07:39:39Z",
+  "source": "BVB",
+  "details": {
+    "couponFrequency": 1,
+    "faceValue": 500.0,
+    "currency": "EUR",
+    "couponRate": 6.5,
+    "issueDate": "2022-07-29",
+    "maturityDate": "2032-07-29"
+  },
+  "couponDates": [
+    {
+      "date": "2023-01-29",
+      "previousDate": "2022-07-29",
+      "referenceDate": "2023-01-13",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2023-07-29",
+      "previousDate": "2023-01-29",
+      "referenceDate": "2023-07-17",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2024-01-29",
+      "previousDate": "2023-07-29",
+      "referenceDate": "2024-01-12",
+      "rate": 3.0,
+      "number": 3
+    },
+    {
+      "date": "2024-07-29",
+      "previousDate": "2024-01-29",
+      "referenceDate": "2024-07-15",
+      "rate": 4.0,
+      "number": 4
+    },
+    {
+      "date": "2025-01-29",
+      "previousDate": "2024-07-29",
+      "referenceDate": "2025-01-14",
+      "rate": 5.0,
+      "number": 5
+    },
+    {
+      "date": "2025-07-29",
+      "previousDate": "2025-01-29",
+      "referenceDate": "2025-07-15",
+      "rate": 6.0,
+      "number": 6
+    },
+    {
+      "date": "2026-01-29",
+      "previousDate": "2025-07-29",
+      "referenceDate": "2026-01-15",
+      "rate": 7.0,
+      "number": 7
+    },
+    {
+      "date": "2026-07-29",
+      "previousDate": "2026-01-29",
+      "referenceDate": "2026-07-15",
+      "rate": 8.0,
+      "number": 8
+    },
+    {
+      "date": "2027-01-29",
+      "previousDate": "2026-07-29",
+      "referenceDate": "2027-01-15",
+      "rate": 9.0,
+      "number": 9
+    },
+    {
+      "date": "2027-07-29",
+      "previousDate": "2027-01-29",
+      "referenceDate": "2027-07-15",
+      "rate": 10.0,
+      "number": 10
+    },
+    {
+      "date": "2028-01-29",
+      "previousDate": "2027-07-29",
+      "referenceDate": "2028-01-14",
+      "rate": 11.0,
+      "number": 11
+    },
+    {
+      "date": "2028-07-29",
+      "previousDate": "2028-01-29",
+      "referenceDate": "2028-07-17",
+      "rate": 12.0,
+      "number": 12
+    },
+    {
+      "date": "2029-01-29",
+      "previousDate": "2028-07-29",
+      "referenceDate": "2029-01-12",
+      "rate": 13.0,
+      "number": 13
+    },
+    {
+      "date": "2029-07-29",
+      "previousDate": "2029-01-29",
+      "referenceDate": "2029-07-16",
+      "rate": 14.0,
+      "number": 14
+    },
+    {
+      "date": "2030-01-29",
+      "previousDate": "2029-07-29",
+      "referenceDate": "2030-01-14",
+      "rate": 15.0,
+      "number": 15
+    },
+    {
+      "date": "2030-07-29",
+      "previousDate": "2030-01-29",
+      "referenceDate": "2030-07-15",
+      "rate": 16.0,
+      "number": 16
+    },
+    {
+      "date": "2031-01-29",
+      "previousDate": "2030-07-29",
+      "referenceDate": "2031-01-14",
+      "rate": 17.0,
+      "number": 17
+    },
+    {
+      "date": "2031-07-29",
+      "previousDate": "2031-01-29",
+      "referenceDate": "2031-07-15",
+      "rate": 18.0,
+      "number": 18
+    },
+    {
+      "date": "2032-01-29",
+      "previousDate": "2031-07-29",
+      "referenceDate": "2032-01-15",
+      "rate": 19.0,
+      "number": 19
+    },
+    {
+      "date": "2032-07-29",
+      "previousDate": "2032-01-29",
+      "referenceDate": "2032-07-15",
+      "rate": 20.0,
+      "number": 20
+    }
+  ],
+  "couponCount": 20,
+  "principalRepayments": [
+    {
+      "date": "2032-07-15"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "symbol": "R2901AE",
+  "lastUpdated": "2026-02-09T07:47:02Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "EUR",
+    "couponRate": 3.75,
+    "issueDate": "2026-01-28",
+    "maturityDate": "2029-01-28",
+    "couponFrequency": 1
+  },
+  "couponDates": [
+    {
+      "date": "2027-01-28",
+      "previousDate": "2026-01-28",
+      "referenceDate": "2027-01-19",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2028-01-28",
+      "previousDate": "2027-01-28",
+      "referenceDate": "2028-01-18",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2029-01-28",
+      "previousDate": "2028-01-28",
+      "referenceDate": "2029-01-17",
+      "rate": 3.0,
+      "number": 3
+    }
+  ],
+  "couponCount": 3,
+  "principalRepayments": [
+    {
+      "date": "2029-01-17"
+    }
+  ]
+}

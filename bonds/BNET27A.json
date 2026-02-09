@@ -1,0 +1,133 @@
+{
+  "symbol": "BNET27A",
+  "lastUpdated": "2026-02-09T07:37:22Z",
+  "source": "BVB",
+  "details": {
+    "couponFrequency": 1,
+    "faceValue": 100.0,
+    "currency": "RON",
+    "couponRate": 10.0,
+    "issueDate": "2023-06-26",
+    "maturityDate": "2027-06-26"
+  },
+  "couponDates": [
+    {
+      "date": "2023-09-26",
+      "previousDate": "2023-06-26",
+      "referenceDate": "2023-09-19",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2023-12-26",
+      "previousDate": "2023-09-26",
+      "referenceDate": "2023-12-19",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2024-03-26",
+      "previousDate": "2023-12-26",
+      "referenceDate": "2024-03-19",
+      "rate": 3.0,
+      "number": 3
+    },
+    {
+      "date": "2024-06-26",
+      "previousDate": "2024-03-26",
+      "referenceDate": "2024-06-19",
+      "rate": 4.0,
+      "number": 4
+    },
+    {
+      "date": "2024-09-26",
+      "previousDate": "2024-06-26",
+      "referenceDate": "2024-09-19",
+      "rate": 5.0,
+      "number": 5
+    },
+    {
+      "date": "2024-12-26",
+      "previousDate": "2024-09-26",
+      "referenceDate": "2024-12-19",
+      "rate": 6.0,
+      "number": 6
+    },
+    {
+      "date": "2025-03-26",
+      "previousDate": "2024-12-26",
+      "referenceDate": "2025-03-19",
+      "rate": 7.0,
+      "number": 7
+    },
+    {
+      "date": "2025-06-26",
+      "previousDate": "2025-03-26",
+      "referenceDate": "2025-06-19",
+      "rate": 8.0,
+      "number": 8
+    },
+    {
+      "date": "2025-09-26",
+      "previousDate": "2025-06-26",
+      "referenceDate": "2025-09-19",
+      "rate": 9.0,
+      "number": 9
+    },
+    {
+      "date": "2025-12-26",
+      "previousDate": "2025-09-26",
+      "referenceDate": "2025-12-19",
+      "rate": 10.0,
+      "number": 10
+    },
+    {
+      "date": "2026-03-26",
+      "previousDate": "2025-12-26",
+      "referenceDate": "2026-03-19",
+      "rate": 11.0,
+      "number": 11
+    },
+    {
+      "date": "2026-06-26",
+      "previousDate": "2026-03-26",
+      "referenceDate": "2026-06-19",
+      "rate": 12.0,
+      "number": 12
+    },
+    {
+      "date": "2026-09-26",
+      "previousDate": "2026-06-26",
+      "referenceDate": "2026-09-18",
+      "rate": 13.0,
+      "number": 13
+    },
+    {
+      "date": "2026-12-26",
+      "previousDate": "2026-09-26",
+      "referenceDate": "2026-12-18",
+      "rate": 14.0,
+      "number": 14
+    },
+    {
+      "date": "2027-03-26",
+      "previousDate": "2026-12-26",
+      "referenceDate": "2027-03-19",
+      "rate": 15.0,
+      "number": 15
+    },
+    {
+      "date": "2027-06-26",
+      "previousDate": "2027-03-26",
+      "referenceDate": "2027-06-18",
+      "rate": 16.0,
+      "number": 16
+    }
+  ],
+  "couponCount": 16,
+  "principalRepayments": [
+    {
+      "date": "2027-06-18"
+    }
+  ]
+}

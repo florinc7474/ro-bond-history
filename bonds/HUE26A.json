@@ -1,0 +1,784 @@
+{
+  "symbol": "HUE26A",
+  "lastUpdated": "2026-02-09T07:38:31Z",
+  "source": "BVB",
+  "details": {
+    "couponRate": 76.0,
+    "faceValue": 100.0,
+    "currency": "RON",
+    "issueDate": "2007-01-10",
+    "maturityDate": "2026-08-15",
+    "couponFrequency": 4
+  },
+  "couponDates": [
+    {
+      "date": "2007-02-15",
+      "previousDate": "2007-01-10",
+      "referenceDate": "2007-02-12",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2007-05-15",
+      "previousDate": "2007-02-15",
+      "referenceDate": "2007-05-10",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2007-08-15",
+      "previousDate": "2007-05-15",
+      "referenceDate": "2007-08-10",
+      "rate": 3.0,
+      "number": 3
+    },
+    {
+      "date": "2007-11-15",
+      "previousDate": "2007-08-15",
+      "referenceDate": "2007-11-12",
+      "rate": 4.0,
+      "number": 4
+    },
+    {
+      "date": "2008-02-15",
+      "previousDate": "2007-11-15",
+      "referenceDate": "2008-02-12",
+      "rate": 5.0,
+      "number": 5
+    },
+    {
+      "date": "2008-05-15",
+      "previousDate": "2008-02-15",
+      "referenceDate": "2008-05-12",
+      "rate": 6.0,
+      "number": 6
+    },
+    {
+      "date": "2008-08-15",
+      "previousDate": "2008-05-15",
+      "referenceDate": "2008-08-12",
+      "rate": 7.0,
+      "number": 7
+    },
+    {
+      "date": "2008-11-15",
+      "previousDate": "2008-08-15",
+      "referenceDate": "2008-11-12",
+      "rate": 8.0,
+      "number": 8
+    },
+    {
+      "date": "2009-02-15",
+      "previousDate": "2008-11-15",
+      "referenceDate": "2009-02-11",
+      "rate": 9.0,
+      "number": 9
+    },
+    {
+      "date": "2009-05-15",
+      "previousDate": "2009-02-15",
+      "referenceDate": "2009-05-12",
+      "rate": 10.0,
+      "number": 10
+    },
+    {
+      "date": "2009-08-15",
+      "previousDate": "2009-05-15",
+      "referenceDate": "2009-08-12",
+      "rate": 11.0,
+      "number": 11
+    },
+    {
+      "date": "2009-11-15",
+      "previousDate": "2009-08-15",
+      "referenceDate": "2009-11-11",
+      "rate": 12.0,
+      "number": 12
+    },
+    {
+      "date": "2010-02-15",
+      "previousDate": "2009-11-15",
+      "referenceDate": "2010-02-10",
+      "rate": 13.0,
+      "number": 13
+    },
+    {
+      "date": "2010-05-15",
+      "previousDate": "2010-02-15",
+      "referenceDate": "2010-05-12",
+      "rate": 14.0,
+      "number": 14
+    },
+    {
+      "date": "2010-08-15",
+      "previousDate": "2010-05-15",
+      "referenceDate": "2010-08-11",
+      "rate": 15.0,
+      "number": 15
+    },
+    {
+      "date": "2010-11-15",
+      "previousDate": "2010-08-15",
+      "referenceDate": "2010-11-10",
+      "rate": 16.0,
+      "number": 16
+    },
+    {
+      "date": "2011-02-15",
+      "previousDate": "2010-11-15",
+      "referenceDate": "2011-02-10",
+      "rate": 17.0,
+      "number": 17
+    },
+    {
+      "date": "2011-05-15",
+      "previousDate": "2011-02-15",
+      "referenceDate": "2011-05-11",
+      "rate": 18.0,
+      "number": 18
+    },
+    {
+      "date": "2011-08-15",
+      "previousDate": "2011-05-15",
+      "referenceDate": "2011-08-10",
+      "rate": 19.0,
+      "number": 19
+    },
+    {
+      "date": "2011-11-15",
+      "previousDate": "2011-08-15",
+      "referenceDate": "2011-11-10",
+      "rate": 20.0,
+      "number": 20
+    },
+    {
+      "date": "2012-02-15",
+      "previousDate": "2011-11-15",
+      "referenceDate": "2012-02-10",
+      "rate": 21.0,
+      "number": 21
+    },
+    {
+      "date": "2012-05-15",
+      "previousDate": "2012-02-15",
+      "referenceDate": "2012-05-10",
+      "rate": 22.0,
+      "number": 22
+    },
+    {
+      "date": "2012-08-15",
+      "previousDate": "2012-05-15",
+      "referenceDate": "2012-08-10",
+      "rate": 23.0,
+      "number": 23
+    },
+    {
+      "date": "2012-11-15",
+      "previousDate": "2012-08-15",
+      "referenceDate": "2012-11-12",
+      "rate": 24.0,
+      "number": 24
+    },
+    {
+      "date": "2013-02-15",
+      "previousDate": "2012-11-15",
+      "referenceDate": "2013-02-12",
+      "rate": 25.0,
+      "number": 25
+    },
+    {
+      "date": "2013-05-15",
+      "previousDate": "2013-02-15",
+      "referenceDate": "2013-05-12",
+      "rate": 26.0,
+      "number": 26
+    },
+    {
+      "date": "2013-08-15",
+      "previousDate": "2013-05-15",
+      "referenceDate": "2013-08-12",
+      "rate": 27.0,
+      "number": 27
+    },
+    {
+      "date": "2013-11-15",
+      "previousDate": "2013-08-15",
+      "referenceDate": "2013-11-12",
+      "rate": 28.0,
+      "number": 28
+    },
+    {
+      "date": "2014-02-15",
+      "previousDate": "2013-11-15",
+      "referenceDate": "2014-02-12",
+      "rate": 29.0,
+      "number": 29
+    },
+    {
+      "date": "2014-05-15",
+      "previousDate": "2014-02-15",
+      "referenceDate": "2014-05-12",
+      "rate": 30.0,
+      "number": 30
+    },
+    {
+      "date": "2014-08-15",
+      "previousDate": "2014-05-15",
+      "referenceDate": "2014-08-12",
+      "rate": 31.0,
+      "number": 31
+    },
+    {
+      "date": "2014-11-15",
+      "previousDate": "2014-08-15",
+      "referenceDate": "2014-11-12",
+      "rate": 32.0,
+      "number": 32
+    },
+    {
+      "date": "2015-02-15",
+      "previousDate": "2014-11-15",
+      "referenceDate": "2015-02-11",
+      "rate": 33.0,
+      "number": 33
+    },
+    {
+      "date": "2015-05-15",
+      "previousDate": "2015-02-15",
+      "referenceDate": "2015-05-12",
+      "rate": 34.0,
+      "number": 34
+    },
+    {
+      "date": "2015-08-15",
+      "previousDate": "2015-05-15",
+      "referenceDate": "2015-08-12",
+      "rate": 35.0,
+      "number": 35
+    },
+    {
+      "date": "2015-11-15",
+      "previousDate": "2015-08-15",
+      "referenceDate": "2015-11-11",
+      "rate": 36.0,
+      "number": 36
+    },
+    {
+      "date": "2016-02-15",
+      "previousDate": "2015-11-15",
+      "referenceDate": "2016-02-10",
+      "rate": 37.0,
+      "number": 37
+    },
+    {
+      "date": "2016-05-15",
+      "previousDate": "2016-02-15",
+      "referenceDate": "2016-05-11",
+      "rate": 38.0,
+      "number": 38
+    },
+    {
+      "date": "2016-08-15",
+      "previousDate": "2016-05-15",
+      "referenceDate": "2016-08-10",
+      "rate": 39.0,
+      "number": 39
+    },
+    {
+      "date": "2016-11-15",
+      "previousDate": "2016-08-15",
+      "referenceDate": "2016-11-10",
+      "rate": 40.0,
+      "number": 40
+    },
+    {
+      "date": "2017-02-15",
+      "previousDate": "2016-11-15",
+      "referenceDate": "2017-02-10",
+      "rate": 41.0,
+      "number": 41
+    },
+    {
+      "date": "2017-05-15",
+      "previousDate": "2017-02-15",
+      "referenceDate": "2017-05-10",
+      "rate": 42.0,
+      "number": 42
+    },
+    {
+      "date": "2017-08-15",
+      "previousDate": "2017-05-15",
+      "referenceDate": "2017-08-10",
+      "rate": 43.0,
+      "number": 43
+    },
+    {
+      "date": "2017-11-15",
+      "previousDate": "2017-08-15",
+      "referenceDate": "2017-11-10",
+      "rate": 44.0,
+      "number": 44
+    },
+    {
+      "date": "2018-02-15",
+      "previousDate": "2017-11-15",
+      "referenceDate": "2018-02-12",
+      "rate": 45.0,
+      "number": 45
+    },
+    {
+      "date": "2018-05-15",
+      "previousDate": "2018-02-15",
+      "referenceDate": "2018-05-10",
+      "rate": 46.0,
+      "number": 46
+    },
+    {
+      "date": "2018-08-15",
+      "previousDate": "2018-05-15",
+      "referenceDate": "2018-08-10",
+      "rate": 47.0,
+      "number": 47
+    },
+    {
+      "date": "2018-11-15",
+      "previousDate": "2018-08-15",
+      "referenceDate": "2018-11-12",
+      "rate": 48.0,
+      "number": 48
+    },
+    {
+      "date": "2019-02-15",
+      "previousDate": "2018-11-15",
+      "referenceDate": "2019-02-12",
+      "rate": 49.0,
+      "number": 49
+    },
+    {
+      "date": "2019-05-15",
+      "previousDate": "2019-02-15",
+      "referenceDate": "2019-05-10",
+      "rate": 3.43,
+      "number": 50
+    },
+    {
+      "date": "2019-08-15",
+      "previousDate": "2019-05-15",
+      "referenceDate": "2019-08-12",
+      "rate": 4.43,
+      "number": 51
+    },
+    {
+      "date": "2019-11-15",
+      "previousDate": "2019-08-15",
+      "referenceDate": "2019-11-12",
+      "rate": 3.43,
+      "number": 52
+    },
+    {
+      "date": "2020-02-15",
+      "previousDate": "2019-11-15",
+      "referenceDate": "2020-02-12",
+      "rate": 3.43,
+      "number": 53
+    },
+    {
+      "date": "2020-05-15",
+      "previousDate": "2020-02-15",
+      "referenceDate": "2020-05-12",
+      "rate": 4.43,
+      "number": 54
+    },
+    {
+      "date": "2020-08-15",
+      "previousDate": "2020-05-15",
+      "referenceDate": "2020-08-12",
+      "rate": 3.43,
+      "number": 55
+    },
+    {
+      "date": "2020-11-15",
+      "previousDate": "2020-08-15",
+      "referenceDate": "2020-11-11",
+      "rate": 2.43,
+      "number": 56
+    },
+    {
+      "date": "2021-02-15",
+      "previousDate": "2020-11-15",
+      "referenceDate": "2021-02-10",
+      "rate": 2.43,
+      "number": 57
+    },
+    {
+      "date": "2021-05-15",
+      "previousDate": "2021-02-15",
+      "referenceDate": "2021-05-12",
+      "rate": 2.43,
+      "number": 58
+    },
+    {
+      "date": "2021-08-15",
+      "previousDate": "2021-05-15",
+      "referenceDate": "2021-08-11",
+      "rate": 2.43,
+      "number": 59
+    },
+    {
+      "date": "2021-11-15",
+      "previousDate": "2021-08-15",
+      "referenceDate": "2021-11-10",
+      "rate": 2.43,
+      "number": 60
+    },
+    {
+      "date": "2022-02-15",
+      "previousDate": "2021-11-15",
+      "referenceDate": "2022-02-10",
+      "rate": 3.43,
+      "number": 61
+    },
+    {
+      "date": "2022-05-15",
+      "previousDate": "2022-02-15",
+      "referenceDate": "2022-05-11",
+      "rate": 4.43,
+      "number": 62
+    },
+    {
+      "date": "2022-08-15",
+      "previousDate": "2022-05-15",
+      "referenceDate": "2022-08-10",
+      "rate": 6.43,
+      "number": 63
+    },
+    {
+      "date": "2022-11-15",
+      "previousDate": "2022-08-15",
+      "referenceDate": "2022-11-10",
+      "rate": 8.43,
+      "number": 64
+    },
+    {
+      "date": "2023-02-15",
+      "previousDate": "2022-11-15",
+      "referenceDate": "2023-02-10",
+      "rate": 9.43,
+      "number": 65
+    },
+    {
+      "date": "2023-05-15",
+      "previousDate": "2023-02-15",
+      "referenceDate": "2023-05-10",
+      "rate": 7.43,
+      "number": 66
+    },
+    {
+      "date": "2023-08-15",
+      "previousDate": "2023-05-15",
+      "referenceDate": "2023-08-10",
+      "rate": 7.43,
+      "number": 67
+    },
+    {
+      "date": "2023-11-15",
+      "previousDate": "2023-08-15",
+      "referenceDate": "2023-11-10",
+      "rate": 7.43,
+      "number": 68
+    },
+    {
+      "date": "2024-02-15",
+      "previousDate": "2023-11-15",
+      "referenceDate": "2024-02-12",
+      "rate": 7.43,
+      "number": 69
+    },
+    {
+      "date": "2024-05-15",
+      "previousDate": "2024-02-15",
+      "referenceDate": "2024-05-10",
+      "rate": 6.43,
+      "number": 70
+    },
+    {
+      "date": "2024-08-15",
+      "previousDate": "2024-05-15",
+      "referenceDate": "2024-08-12",
+      "rate": 6.43,
+      "number": 71
+    },
+    {
+      "date": "2024-11-15",
+      "previousDate": "2024-08-15",
+      "referenceDate": "2024-11-12",
+      "rate": 6.43,
+      "number": 72
+    },
+    {
+      "date": "2025-02-15",
+      "previousDate": "2024-11-15",
+      "referenceDate": "2025-02-12",
+      "rate": 6.43,
+      "number": 73
+    },
+    {
+      "date": "2025-05-15",
+      "previousDate": "2025-02-15",
+      "referenceDate": "2025-05-12",
+      "rate": 6.43,
+      "number": 74
+    },
+    {
+      "date": "2025-08-15",
+      "previousDate": "2025-05-15",
+      "referenceDate": "2025-08-12",
+      "rate": 7.43,
+      "number": 75
+    },
+    {
+      "date": "2025-11-15",
+      "previousDate": "2025-08-15",
+      "referenceDate": "2025-11-12",
+      "rate": 7.43,
+      "number": 76
+    },
+    {
+      "date": "2026-02-15",
+      "previousDate": "2025-11-15",
+      "referenceDate": "2026-02-11",
+      "rate": 7.43,
+      "number": 77
+    },
+    {
+      "date": "2026-05-15",
+      "previousDate": "2026-02-15",
+      "referenceDate": "2026-05-12",
+      "rate": 15.02,
+      "number": 78
+    },
+    {
+      "date": "2026-08-15",
+      "previousDate": "2026-05-15",
+      "referenceDate": "2026-08-12",
+      "rate": 15.05,
+      "number": 79
+    }
+  ],
+  "couponCount": 79,
+  "principalRepayments": [
+    {
+      "date": "2009-02-11"
+    },
+    {
+      "date": "2009-05-12"
+    },
+    {
+      "date": "2009-08-12"
+    },
+    {
+      "date": "2009-11-11"
+    },
+    {
+      "date": "2010-02-10"
+    },
+    {
+      "date": "2010-05-12"
+    },
+    {
+      "date": "2010-08-11"
+    },
+    {
+      "date": "2010-11-10"
+    },
+    {
+      "date": "2011-02-10"
+    },
+    {
+      "date": "2011-05-11"
+    },
+    {
+      "date": "2011-08-10"
+    },
+    {
+      "date": "2011-11-10"
+    },
+    {
+      "date": "2012-02-10"
+    },
+    {
+      "date": "2012-05-10"
+    },
+    {
+      "date": "2012-08-10"
+    },
+    {
+      "date": "2012-11-12"
+    },
+    {
+      "date": "2013-02-12"
+    },
+    {
+      "date": "2013-05-12"
+    },
+    {
+      "date": "2013-08-12"
+    },
+    {
+      "date": "2013-11-12"
+    },
+    {
+      "date": "2014-02-12"
+    },
+    {
+      "date": "2014-05-12"
+    },
+    {
+      "date": "2014-08-12"
+    },
+    {
+      "date": "2014-11-12"
+    },
+    {
+      "date": "2015-02-11"
+    },
+    {
+      "date": "2015-05-12"
+    },
+    {
+      "date": "2015-08-12"
+    },
+    {
+      "date": "2015-11-11"
+    },
+    {
+      "date": "2016-02-10"
+    },
+    {
+      "date": "2016-05-11"
+    },
+    {
+      "date": "2016-08-10"
+    },
+    {
+      "date": "2016-11-10"
+    },
+    {
+      "date": "2017-02-10"
+    },
+    {
+      "date": "2017-05-10"
+    },
+    {
+      "date": "2017-08-10"
+    },
+    {
+      "date": "2017-11-10"
+    },
+    {
+      "date": "2018-02-12"
+    },
+    {
+      "date": "2018-05-10"
+    },
+    {
+      "date": "2018-08-10"
+    },
+    {
+      "date": "2018-11-12"
+    },
+    {
+      "date": "2019-02-12"
+    },
+    {
+      "date": "2019-05-10"
+    },
+    {
+      "date": "2019-08-12"
+    },
+    {
+      "date": "2019-11-12"
+    },
+    {
+      "date": "2020-02-12"
+    },
+    {
+      "date": "2020-05-12"
+    },
+    {
+      "date": "2020-08-12"
+    },
+    {
+      "date": "2020-11-11"
+    },
+    {
+      "date": "2021-02-10"
+    },
+    {
+      "date": "2021-05-12"
+    },
+    {
+      "date": "2021-08-11"
+    },
+    {
+      "date": "2021-11-10"
+    },
+    {
+      "date": "2022-02-10"
+    },
+    {
+      "date": "2022-05-11"
+    },
+    {
+      "date": "2022-08-10"
+    },
+    {
+      "date": "2022-11-10"
+    },
+    {
+      "date": "2023-02-10"
+    },
+    {
+      "date": "2023-05-10"
+    },
+    {
+      "date": "2023-08-10"
+    },
+    {
+      "date": "2023-11-10"
+    },
+    {
+      "date": "2024-02-12"
+    },
+    {
+      "date": "2024-05-10"
+    },
+    {
+      "date": "2024-08-12"
+    },
+    {
+      "date": "2024-11-12"
+    },
+    {
+      "date": "2025-02-12"
+    },
+    {
+      "date": "2025-05-12"
+    },
+    {
+      "date": "2025-08-12"
+    },
+    {
+      "date": "2025-11-12"
+    },
+    {
+      "date": "2026-02-11"
+    },
+    {
+      "date": "2026-05-12"
+    },
+    {
+      "date": "2026-08-12"
+    }
+  ]
+}

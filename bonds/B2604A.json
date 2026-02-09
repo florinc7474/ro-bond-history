@@ -1,0 +1,77 @@
+{
+  "symbol": "B2604A",
+  "lastUpdated": "2026-02-09T07:35:36Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 5000.0,
+    "currency": "RON",
+    "couponRate": 4.85,
+    "issueDate": "2018-11-14",
+    "maturityDate": "2026-04-22",
+    "couponFrequency": 1
+  },
+  "couponDates": [
+    {
+      "date": "2019-04-22",
+      "previousDate": "2018-04-22",
+      "referenceDate": "2019-04-19",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2020-04-22",
+      "previousDate": "2019-04-22",
+      "referenceDate": "2020-04-21",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2021-04-22",
+      "previousDate": "2020-04-22",
+      "referenceDate": "2021-04-21",
+      "rate": 3.0,
+      "number": 3
+    },
+    {
+      "date": "2022-04-22",
+      "previousDate": "2021-04-22",
+      "referenceDate": "2022-04-21",
+      "rate": 4.0,
+      "number": 4
+    },
+    {
+      "date": "2023-04-22",
+      "previousDate": "2022-04-22",
+      "referenceDate": "2023-04-21",
+      "rate": 5.0,
+      "number": 5
+    },
+    {
+      "date": "2024-04-22",
+      "previousDate": "2023-04-22",
+      "referenceDate": "2024-04-19",
+      "rate": 6.0,
+      "number": 6
+    },
+    {
+      "date": "2025-04-22",
+      "previousDate": "2024-04-22",
+      "referenceDate": "2025-04-21",
+      "rate": 7.0,
+      "number": 7
+    },
+    {
+      "date": "2026-04-22",
+      "previousDate": "2025-04-22",
+      "referenceDate": "2026-04-21",
+      "rate": 8.0,
+      "number": 8
+    }
+  ],
+  "couponCount": 8,
+  "principalRepayments": [
+    {
+      "date": "2026-04-21"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "symbol": "BCR28A",
+  "lastUpdated": "2026-02-09T07:36:37Z",
+  "source": "BVB",
+  "details": {
+    "couponFrequency": 1,
+    "faceValue": 500000.0,
+    "currency": "RON",
+    "couponRate": 5.0,
+    "issueDate": "2021-10-14",
+    "maturityDate": "2028-10-14"
+  },
+  "couponDates": [
+    {
+      "date": "2022-10-14",
+      "previousDate": "2021-10-14",
+      "referenceDate": "2022-09-29",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2023-10-14",
+      "previousDate": "2022-10-14",
+      "referenceDate": "2023-09-29",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2024-10-14",
+      "previousDate": "2023-10-14",
+      "referenceDate": "2024-09-30",
+      "rate": 3.0,
+      "number": 3
+    },
+    {
+      "date": "2025-10-14",
+      "previousDate": "2024-10-14",
+      "referenceDate": "2025-09-29",
+      "rate": 4.0,
+      "number": 4
+    },
+    {
+      "date": "2026-10-14",
+      "previousDate": "2025-10-14",
+      "referenceDate": "2026-09-29",
+      "rate": 5.0,
+      "number": 5
+    },
+    {
+      "date": "2027-10-14",
+      "previousDate": "2026-10-14",
+      "referenceDate": "2027-09-29",
+      "rate": 6.0,
+      "number": 6
+    },
+    {
+      "date": "2028-10-14",
+      "previousDate": "2027-10-14",
+      "referenceDate": "2028-09-29",
+      "rate": 7.0,
+      "number": 7
+    }
+  ],
+  "couponCount": 7,
+  "principalRepayments": [
+    {
+      "date": "2028-09-29"
+    }
+  ]
+}

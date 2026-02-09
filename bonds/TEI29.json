@@ -1,0 +1,91 @@
+{
+  "symbol": "TEI29",
+  "lastUpdated": "2026-02-09T07:53:40Z",
+  "source": "BVB",
+  "details": {
+    "couponFrequency": 1,
+    "faceValue": 100.0,
+    "currency": "RON",
+    "couponRate": 9.5,
+    "issueDate": "2024-10-30",
+    "maturityDate": "2029-10-30"
+  },
+  "couponDates": [
+    {
+      "date": "2025-04-30",
+      "previousDate": "2024-10-30",
+      "referenceDate": "2025-04-14",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2025-10-30",
+      "previousDate": "2025-04-30",
+      "referenceDate": "2025-10-16",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2026-04-30",
+      "previousDate": "2025-10-30",
+      "referenceDate": "2026-04-16",
+      "rate": 3.0,
+      "number": 3
+    },
+    {
+      "date": "2026-10-30",
+      "previousDate": "2026-04-30",
+      "referenceDate": "2026-10-16",
+      "rate": 4.0,
+      "number": 4
+    },
+    {
+      "date": "2027-04-30",
+      "previousDate": "2026-10-30",
+      "referenceDate": "2027-04-16",
+      "rate": 5.0,
+      "number": 5
+    },
+    {
+      "date": "2027-10-30",
+      "previousDate": "2027-04-30",
+      "referenceDate": "2027-10-18",
+      "rate": 6.0,
+      "number": 6
+    },
+    {
+      "date": "2028-04-30",
+      "previousDate": "2027-10-30",
+      "referenceDate": "2028-04-13",
+      "rate": 7.0,
+      "number": 7
+    },
+    {
+      "date": "2028-10-30",
+      "previousDate": "2028-04-30",
+      "referenceDate": "2028-10-16",
+      "rate": 8.0,
+      "number": 8
+    },
+    {
+      "date": "2029-04-30",
+      "previousDate": "2028-10-30",
+      "referenceDate": "2029-04-16",
+      "rate": 9.0,
+      "number": 9
+    },
+    {
+      "date": "2029-10-30",
+      "previousDate": "2029-04-30",
+      "referenceDate": "2029-10-16",
+      "rate": 10.0,
+      "number": 10
+    }
+  ],
+  "couponCount": 10,
+  "principalRepayments": [
+    {
+      "date": "2029-10-16"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "symbol": "R2605A",
+  "lastUpdated": "2026-02-09T07:42:15Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "RON",
+    "couponRate": 6.75,
+    "issueDate": "2025-05-21",
+    "maturityDate": "2026-05-21",
+    "couponFrequency": 1
+  },
+  "couponDates": [
+    {
+      "date": "2026-05-21",
+      "previousDate": "2025-05-21",
+      "referenceDate": "2026-05-12",
+      "rate": 1.0,
+      "number": 1
+    }
+  ],
+  "couponCount": 1,
+  "principalRepayments": [
+    {
+      "date": "2026-05-12"
+    }
+  ]
+}

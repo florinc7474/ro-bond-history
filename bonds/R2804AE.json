@@ -1,0 +1,56 @@
+{
+  "symbol": "R2804AE",
+  "lastUpdated": "2026-02-09T07:46:18Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "EUR",
+    "couponRate": 5.8,
+    "issueDate": "2023-04-13",
+    "maturityDate": "2028-04-13",
+    "couponFrequency": 1
+  },
+  "couponDates": [
+    {
+      "date": "2024-04-13",
+      "previousDate": "2023-04-13",
+      "referenceDate": "2024-04-04",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2025-04-13",
+      "previousDate": "2024-04-13",
+      "referenceDate": "2025-04-03",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2026-04-13",
+      "previousDate": "2025-04-13",
+      "referenceDate": "2026-04-01",
+      "rate": 3.0,
+      "number": 3
+    },
+    {
+      "date": "2027-04-13",
+      "previousDate": "2026-04-13",
+      "referenceDate": "2027-04-02",
+      "rate": 4.0,
+      "number": 4
+    },
+    {
+      "date": "2028-04-13",
+      "previousDate": "2027-04-13",
+      "referenceDate": "2028-04-04",
+      "rate": 5.0,
+      "number": 5
+    }
+  ],
+  "couponCount": 5,
+  "principalRepayments": [
+    {
+      "date": "2028-04-04"
+    }
+  ]
+}

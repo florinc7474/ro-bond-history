@@ -1,0 +1,105 @@
+{
+  "symbol": "IMP26E",
+  "lastUpdated": "2026-02-09T07:38:59Z",
+  "source": "BVB",
+  "details": {
+    "couponFrequency": 1,
+    "faceValue": 500.0,
+    "currency": "EUR",
+    "couponRate": 6.4,
+    "issueDate": "2020-12-24",
+    "maturityDate": "2026-12-24"
+  },
+  "couponDates": [
+    {
+      "date": "2021-06-24",
+      "previousDate": "2020-12-24",
+      "referenceDate": "2021-06-10",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2021-12-24",
+      "previousDate": "2021-06-24",
+      "referenceDate": "2021-12-10",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2022-06-24",
+      "previousDate": "2021-12-24",
+      "referenceDate": "2022-06-10",
+      "rate": 3.0,
+      "number": 3
+    },
+    {
+      "date": "2022-12-24",
+      "previousDate": "2022-06-24",
+      "referenceDate": "2022-12-12",
+      "rate": 4.0,
+      "number": 4
+    },
+    {
+      "date": "2023-06-24",
+      "previousDate": "2022-12-24",
+      "referenceDate": "2023-06-12",
+      "rate": 5.0,
+      "number": 5
+    },
+    {
+      "date": "2023-12-24",
+      "previousDate": "2023-06-24",
+      "referenceDate": "2023-12-11",
+      "rate": 6.0,
+      "number": 6
+    },
+    {
+      "date": "2024-06-24",
+      "previousDate": "2023-12-24",
+      "referenceDate": "2024-06-10",
+      "rate": 7.0,
+      "number": 7
+    },
+    {
+      "date": "2024-12-24",
+      "previousDate": "2024-06-24",
+      "referenceDate": "2024-12-10",
+      "rate": 8.0,
+      "number": 8
+    },
+    {
+      "date": "2025-06-24",
+      "previousDate": "2024-12-24",
+      "referenceDate": "2025-06-10",
+      "rate": 9.0,
+      "number": 9
+    },
+    {
+      "date": "2025-12-24",
+      "previousDate": "2025-06-24",
+      "referenceDate": "2025-12-10",
+      "rate": 10.0,
+      "number": 10
+    },
+    {
+      "date": "2026-06-24",
+      "previousDate": "2025-12-24",
+      "referenceDate": "2026-06-10",
+      "rate": 11.0,
+      "number": 11
+    },
+    {
+      "date": "2026-12-24",
+      "previousDate": "2026-06-24",
+      "referenceDate": "2026-12-10",
+      "rate": 12.0,
+      "number": 12
+    }
+  ],
+  "couponCount": 12,
+  "principalRepayments": [
+    {
+      "date": "2026-12-10"
+    }
+  ]
+}

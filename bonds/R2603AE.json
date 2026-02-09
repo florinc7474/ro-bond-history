@@ -1,0 +1,56 @@
+{
+  "symbol": "R2603AE",
+  "lastUpdated": "2026-02-09T07:41:47Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "EUR",
+    "couponRate": 1.55,
+    "issueDate": "2021-03-24",
+    "maturityDate": "2026-03-24",
+    "couponFrequency": 1
+  },
+  "couponDates": [
+    {
+      "date": "2022-03-24",
+      "previousDate": "2021-03-24",
+      "referenceDate": "2022-03-15",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2023-03-24",
+      "previousDate": "2022-03-24",
+      "referenceDate": "2023-03-15",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2024-03-24",
+      "previousDate": "2023-03-24",
+      "referenceDate": "2024-03-14",
+      "rate": 3.0,
+      "number": 3
+    },
+    {
+      "date": "2025-03-24",
+      "previousDate": "2024-03-24",
+      "referenceDate": "2025-03-13",
+      "rate": 4.0,
+      "number": 4
+    },
+    {
+      "date": "2026-03-24",
+      "previousDate": "2025-03-24",
+      "referenceDate": "2026-03-13",
+      "rate": 5.0,
+      "number": 5
+    }
+  ],
+  "couponCount": 5,
+  "principalRepayments": [
+    {
+      "date": "2026-03-13"
+    }
+  ]
+}

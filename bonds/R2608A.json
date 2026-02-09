@@ -1,0 +1,42 @@
+{
+  "symbol": "R2608A",
+  "lastUpdated": "2026-02-09T07:42:25Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "RON",
+    "couponRate": 7.2,
+    "issueDate": "2023-08-02",
+    "maturityDate": "2026-08-02",
+    "couponFrequency": 1
+  },
+  "couponDates": [
+    {
+      "date": "2024-08-02",
+      "previousDate": "2023-08-02",
+      "referenceDate": "2024-07-24",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2025-08-02",
+      "previousDate": "2024-08-02",
+      "referenceDate": "2025-07-24",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2026-08-02",
+      "previousDate": "2025-08-02",
+      "referenceDate": "2026-07-23",
+      "rate": 3.0,
+      "number": 3
+    }
+  ],
+  "couponCount": 3,
+  "principalRepayments": [
+    {
+      "date": "2026-07-23"
+    }
+  ]
+}

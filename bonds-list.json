@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-02-09T07:34:48Z",
+  "fetchedAt": "2026-02-15T08:21:25Z",
   "source": "BVB",
-  "bondCount": 232,
+  "bondCount": 231,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -4024,26 +4024,6 @@
       "status": "Tranzactionabila"
     },
     {
-      "symbol": "REO26",
-      "name": "Obligatiuni RESTART ENERGY ONE",
-      "isin": "ROSWAJ8VBNH9",
-      "issuer": "RESTART ENERGY ONE S.A.",
-      "taxId": "34583200",
-      "bondsIssued": 163612,
-      "faceValue": 100.0,
-      "issueValue": 16361200.0,
-      "issueDate": "2021-02-09",
-      "listingDate": "2021-04-21",
-      "maturityDate": "2026-02-09",
-      "couponCount": 10,
-      "convertible": "Da",
-      "type": "corporate",
-      "typeOriginal": "Obligatiuni corporative",
-      "market": "XRB",
-      "category": "Bonds-SMT",
-      "status": "Suspendata"
-    },
-    {
       "symbol": "REO29E",
       "name": "Obligatiuni RESTART ENERGY ONE",
       "isin": "ROSKWX0JR662",
@@ -4321,7 +4301,7 @@
       "typeOriginal": "Obligatiuni municipale",
       "market": "ORDB",
       "category": "Municipale",
-      "status": "Tranzactionabila"
+      "status": "Suspendata"
     },
     {
       "symbol": "TGM27A",
@@ -4341,7 +4321,7 @@
       "typeOriginal": "Obligatiuni municipale",
       "market": "ORDB",
       "category": "Municipale",
-      "status": "Tranzactionabila"
+      "status": "Suspendata"
     },
     {
       "symbol": "TIM26",

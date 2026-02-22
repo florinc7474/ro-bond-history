@@ -1,9 +1,9 @@
 {
   "symbol": "SLB29",
-  "lastUpdated": "2026-02-09T07:53:10Z",
+  "lastUpdated": "2026-02-22T08:38:01Z",
   "source": "BVB",
   "details": {
-    "couponRate": 65.0,
+    "couponRate": 66.0,
     "faceValue": 100.0,
     "currency": "RON",
     "issueDate": "2009-10-15",
@@ -477,7 +477,7 @@
       "date": "2026-05-15",
       "previousDate": "2026-02-15",
       "referenceDate": "2026-05-12",
-      "rate": 15.02,
+      "rate": 6.66,
       "number": 67
     },
     {

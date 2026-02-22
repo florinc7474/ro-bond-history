@@ -1,8 +1,56 @@
 {
   "symbol": "R3102AE",
-  "lastUpdated": "2026-02-09T07:49:57Z",
+  "lastUpdated": "2026-02-22T08:34:51Z",
   "source": "BVB",
-  "details": {},
-  "couponDates": [],
-  "couponCount": 0
+  "details": {
+    "faceValue": 100.0,
+    "currency": "EUR",
+    "couponRate": 4.5,
+    "issueDate": "2026-02-18",
+    "maturityDate": "2031-02-18",
+    "couponFrequency": 1
+  },
+  "couponDates": [
+    {
+      "date": "2027-02-18",
+      "previousDate": "2026-02-18",
+      "referenceDate": "2027-02-09",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2028-02-18",
+      "previousDate": "2027-02-18",
+      "referenceDate": "2028-02-09",
+      "rate": 2.0,
+      "number": 2
+    },
+    {
+      "date": "2029-02-18",
+      "previousDate": "2028-02-18",
+      "referenceDate": "2029-02-08",
+      "rate": 3.0,
+      "number": 3
+    },
+    {
+      "date": "2030-02-18",
+      "previousDate": "2029-02-18",
+      "referenceDate": "2030-02-07",
+      "rate": 4.0,
+      "number": 4
+    },
+    {
+      "date": "2031-02-18",
+      "previousDate": "2030-02-18",
+      "referenceDate": "2031-02-07",
+      "rate": 5.0,
+      "number": 5
+    }
+  ],
+  "couponCount": 5,
+  "principalRepayments": [
+    {
+      "date": "2031-02-07"
+    }
+  ]
 }

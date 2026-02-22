@@ -1,6 +1,6 @@
 {
   "symbol": "IAS28",
-  "lastUpdated": "2026-02-09T07:38:41Z",
+  "lastUpdated": "2026-02-22T08:23:47Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -504,14 +504,14 @@
       "date": "2026-05-15",
       "previousDate": "2026-02-15",
       "referenceDate": "2026-05-12",
-      "rate": 15.02,
+      "rate": 6.38,
       "number": 71
     },
     {
       "date": "2026-08-15",
       "previousDate": "2026-05-15",
       "referenceDate": "2026-08-12",
-      "rate": 15.05,
+      "rate": 6.38,
       "number": 72
     },
     {

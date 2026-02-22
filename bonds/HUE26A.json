@@ -1,9 +1,9 @@
 {
   "symbol": "HUE26A",
-  "lastUpdated": "2026-02-09T07:38:31Z",
+  "lastUpdated": "2026-02-22T08:23:37Z",
   "source": "BVB",
   "details": {
-    "couponRate": 76.0,
+    "couponRate": 77.0,
     "faceValue": 100.0,
     "currency": "RON",
     "issueDate": "2007-01-10",
@@ -554,7 +554,7 @@
       "date": "2026-05-15",
       "previousDate": "2026-02-15",
       "referenceDate": "2026-05-12",
-      "rate": 15.02,
+      "rate": 6.43,
       "number": 78
     },
     {

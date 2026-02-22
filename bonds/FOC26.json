@@ -1,9 +1,9 @@
 {
   "symbol": "FOC26",
-  "lastUpdated": "2026-02-09T07:38:14Z",
+  "lastUpdated": "2026-02-22T08:23:19Z",
   "source": "BVB",
   "details": {
-    "couponRate": 66.0,
+    "couponRate": 67.0,
     "faceValue": 100.0,
     "currency": "RON",
     "issueDate": "2009-06-10",
@@ -484,7 +484,7 @@
       "date": "2026-05-15",
       "previousDate": "2026-02-15",
       "referenceDate": "2026-05-12",
-      "rate": 15.02,
+      "rate": 6.58,
       "number": 68
     },
     {

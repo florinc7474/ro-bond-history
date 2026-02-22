@@ -1,8 +1,35 @@
 {
   "symbol": "R2802C",
-  "lastUpdated": "2026-02-09T07:46:01Z",
+  "lastUpdated": "2026-02-22T08:31:04Z",
   "source": "BVB",
-  "details": {},
-  "couponDates": [],
-  "couponCount": 0
+  "details": {
+    "faceValue": 100.0,
+    "currency": "RON",
+    "couponRate": 6.15,
+    "issueDate": "2026-02-18",
+    "maturityDate": "2028-02-18",
+    "couponFrequency": 1
+  },
+  "couponDates": [
+    {
+      "date": "2027-02-18",
+      "previousDate": "2026-02-18",
+      "referenceDate": "2027-02-09",
+      "rate": 1.0,
+      "number": 1
+    },
+    {
+      "date": "2028-02-18",
+      "previousDate": "2027-02-18",
+      "referenceDate": "2028-02-09",
+      "rate": 2.0,
+      "number": 2
+    }
+  ],
+  "couponCount": 2,
+  "principalRepayments": [
+    {
+      "date": "2028-02-09"
+    }
+  ]
 }

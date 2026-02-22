@@ -1,9 +1,9 @@
 {
   "symbol": "TIM26A",
-  "lastUpdated": "2026-02-09T07:54:04Z",
+  "lastUpdated": "2026-02-22T08:38:56Z",
   "source": "BVB",
   "details": {
-    "couponRate": 74.0,
+    "couponRate": 75.0,
     "faceValue": 100.0,
     "currency": "RON",
     "issueDate": "2007-06-27",
@@ -540,7 +540,7 @@
       "date": "2026-05-15",
       "previousDate": "2026-02-15",
       "referenceDate": "2026-05-12",
-      "rate": 15.02,
+      "rate": 5.81,
       "number": 76
     }
   ],

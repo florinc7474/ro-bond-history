@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T14:26:45Z",
+  "lastUpdated": "2026-02-24T16:10:18Z",
   "tradingDates": {
     "count": 17,
     "first": "2026-01-30",
@@ -147,7 +147,7 @@
       },
       {
         "symbol": "BAC26",
-        "lastUpdated": "2026-02-24T14:07:29Z",
+        "lastUpdated": "2026-02-24T16:09:58Z",
         "couponCount": 76,
         "hasCoupons": true,
         "currency": "RON",
@@ -642,7 +642,7 @@
       },
       {
         "symbol": "OMRO32",
-        "lastUpdated": "2026-02-24T14:12:16Z",
+        "lastUpdated": "2026-02-24T16:10:03Z",
         "couponCount": 14,
         "hasCoupons": true,
         "currency": "RON",
@@ -732,7 +732,7 @@
       },
       {
         "symbol": "PRD26",
-        "lastUpdated": "2026-02-24T14:13:07Z",
+        "lastUpdated": "2026-02-24T16:10:08Z",
         "couponCount": 40,
         "hasCoupons": true,
         "currency": "RON",
@@ -1938,7 +1938,7 @@
       },
       {
         "symbol": "TGM27",
-        "lastUpdated": "2026-02-24T14:25:16Z",
+        "lastUpdated": "2026-02-24T16:10:13Z",
         "couponCount": 80,
         "hasCoupons": true,
         "currency": "RON",
@@ -1947,7 +1947,7 @@
       },
       {
         "symbol": "TGM27A",
-        "lastUpdated": "2026-02-24T14:25:21Z",
+        "lastUpdated": "2026-02-24T16:10:18Z",
         "couponCount": 78,
         "hasCoupons": true,
         "currency": "RON",
@@ -2102,6 +2102,6 @@
   },
   "bondList": {
     "bondCount": 230,
-    "fetchedAt": "2026-02-24T14:06:18Z"
+    "fetchedAt": "2026-02-24T16:09:54Z"
   }
 }

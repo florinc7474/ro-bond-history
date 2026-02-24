@@ -1,10 +1,12 @@
 {
   "symbol": "PRD26",
-  "lastUpdated": "2026-02-24T16:10:08Z",
+  "lastUpdated": "2026-02-24T18:06:43Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
     "currency": "RON",
+    "couponFormula": "[(BUBID6M + BUBOR6M)/2] + 1,5",
+    "interestType": "floating",
     "issueDate": "2006-06-22",
     "maturityDate": "2026-05-15",
     "couponFrequency": 2

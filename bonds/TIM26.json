@@ -1,11 +1,13 @@
 {
   "symbol": "TIM26",
-  "lastUpdated": "2026-02-24T14:25:26Z",
+  "lastUpdated": "2026-02-24T18:18:46Z",
   "source": "BVB",
   "details": {
     "couponRate": 77.0,
     "faceValue": 100.0,
     "currency": "RON",
+    "couponFormula": "[(BUBID3M + BUBOR3M)/2] + 0.1",
+    "interestType": "floating",
     "issueDate": "2006-12-30",
     "maturityDate": "2026-05-12",
     "couponFrequency": 4

@@ -1,11 +1,13 @@
 {
   "symbol": "HUE26",
-  "lastUpdated": "2026-02-24T14:10:00Z",
+  "lastUpdated": "2026-02-24T18:03:48Z",
   "source": "BVB",
   "details": {
     "couponRate": 78.0,
     "faceValue": 100.0,
     "currency": "RON",
+    "couponFormula": "[(BUBID3M + BUBOR3M)/2] + 1.43",
+    "interestType": "floating",
     "issueDate": "2006-09-06",
     "maturityDate": "2026-08-15",
     "couponFrequency": 4

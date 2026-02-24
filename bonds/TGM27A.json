@@ -1,10 +1,12 @@
 {
   "symbol": "TGM27A",
-  "lastUpdated": "2026-02-24T16:10:18Z",
+  "lastUpdated": "2026-02-24T18:18:41Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
     "currency": "RON",
+    "couponFormula": "[(BUBID3M + BUBOR3M)/2] + 0.75",
+    "interestType": "floating",
     "issueDate": "2008-03-07",
     "maturityDate": "2027-08-15",
     "couponFrequency": 4

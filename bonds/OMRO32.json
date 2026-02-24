@@ -1,11 +1,13 @@
 {
   "symbol": "OMRO32",
-  "lastUpdated": "2026-02-24T16:10:03Z",
+  "lastUpdated": "2026-02-24T18:05:51Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
     "faceValue": 100.0,
     "currency": "RON",
+    "couponFormula": "INTEREST RATE MONETARY POLICY OF THE NBR+5.5",
+    "interestType": "floating",
     "issueDate": "2025-02-24",
     "maturityDate": "2032-02-24"
   },

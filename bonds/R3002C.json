@@ -1,6 +1,6 @@
 {
   "symbol": "R3002C",
-  "lastUpdated": "2026-02-24T18:13:54Z",
+  "fetchedAt": "2026-02-24T20:30:06Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,37 +11,39 @@
     "maturityDate": "2030-02-18",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 6.75,
+  "frequency": 1,
+  "couponCount": 4,
+  "payments": [
     {
-      "date": "2027-02-18",
+      "paymentDate": "2027-02-18",
       "previousDate": "2026-02-18",
       "referenceDate": "2027-02-09",
-      "rate": 6.75,
+      "couponRate": 6.75,
       "number": 1
     },
     {
-      "date": "2028-02-18",
+      "paymentDate": "2028-02-18",
       "previousDate": "2027-02-18",
       "referenceDate": "2028-02-09",
-      "rate": 6.75,
+      "couponRate": 6.75,
       "number": 2
     },
     {
-      "date": "2029-02-18",
+      "paymentDate": "2029-02-18",
       "previousDate": "2028-02-18",
       "referenceDate": "2029-02-08",
-      "rate": 6.75,
+      "couponRate": 6.75,
       "number": 3
     },
     {
-      "date": "2030-02-18",
+      "paymentDate": "2030-02-18",
       "previousDate": "2029-02-18",
       "referenceDate": "2030-02-07",
-      "rate": 6.75,
+      "couponRate": 6.75,
       "number": 4
     }
   ],
-  "couponCount": 4,
   "principalRepayments": [
     {
       "date": "2030-02-07",

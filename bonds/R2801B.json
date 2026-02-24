@@ -1,6 +1,6 @@
 {
   "symbol": "R2801B",
-  "lastUpdated": "2026-02-24T18:10:54Z",
+  "fetchedAt": "2026-02-24T20:27:14Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,23 +11,25 @@
     "maturityDate": "2028-01-28",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 7.45,
+  "frequency": 1,
+  "couponCount": 2,
+  "payments": [
     {
-      "date": "2027-01-28",
+      "paymentDate": "2027-01-28",
       "previousDate": "2026-01-28",
       "referenceDate": "2027-01-19",
-      "rate": 7.45,
+      "couponRate": 7.45,
       "number": 1
     },
     {
-      "date": "2028-01-28",
+      "paymentDate": "2028-01-28",
       "previousDate": "2027-01-28",
       "referenceDate": "2028-01-18",
-      "rate": 7.45,
+      "couponRate": 7.45,
       "number": 2
     }
   ],
-  "couponCount": 2,
   "principalRepayments": [
     {
       "date": "2028-01-18",

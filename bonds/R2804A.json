@@ -1,6 +1,6 @@
 {
   "symbol": "R2804A",
-  "lastUpdated": "2026-02-24T18:11:21Z",
+  "fetchedAt": "2026-02-24T20:27:40Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,30 +11,32 @@
     "maturityDate": "2028-04-15",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 7.3,
+  "frequency": 1,
+  "couponCount": 3,
+  "payments": [
     {
-      "date": "2026-04-16",
+      "paymentDate": "2026-04-16",
       "previousDate": "2025-04-16",
       "referenceDate": "2026-04-03",
-      "rate": 7.3,
+      "couponRate": 7.3,
       "number": 1
     },
     {
-      "date": "2027-04-16",
+      "paymentDate": "2027-04-16",
       "previousDate": "2026-04-16",
       "referenceDate": "2027-04-07",
-      "rate": 7.3,
+      "couponRate": 7.3,
       "number": 2
     },
     {
-      "date": "2028-04-16",
+      "paymentDate": "2028-04-16",
       "previousDate": "2027-04-16",
       "referenceDate": "2028-04-05",
-      "rate": 7.3,
+      "couponRate": 7.3,
       "number": 3
     }
   ],
-  "couponCount": 3,
   "principalRepayments": [
     {
       "date": "2028-04-05",

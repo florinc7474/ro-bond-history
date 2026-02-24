@@ -1,6 +1,6 @@
 {
   "symbol": "NUSCO28",
-  "lastUpdated": "2026-02-24T18:05:31Z",
+  "fetchedAt": "2026-02-24T20:22:06Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
@@ -11,107 +11,109 @@
     "issueDate": "2025-02-05",
     "maturityDate": "2028-08-05"
   },
-  "couponDates": [
+  "annualRate": 9.0,
+  "frequency": 1,
+  "couponCount": 14,
+  "payments": [
     {
-      "date": "2025-05-05",
+      "paymentDate": "2025-05-05",
       "previousDate": "2025-02-05",
       "referenceDate": "2025-04-24",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 1
     },
     {
-      "date": "2025-08-05",
+      "paymentDate": "2025-08-05",
       "previousDate": "2025-05-05",
       "referenceDate": "2025-07-25",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 2
     },
     {
-      "date": "2025-11-05",
+      "paymentDate": "2025-11-05",
       "previousDate": "2025-08-05",
       "referenceDate": "2025-10-27",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 3
     },
     {
-      "date": "2026-02-05",
+      "paymentDate": "2026-02-05",
       "previousDate": "2025-11-05",
       "referenceDate": "2026-01-27",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 4
     },
     {
-      "date": "2026-05-05",
+      "paymentDate": "2026-05-05",
       "previousDate": "2026-02-05",
       "referenceDate": "2026-04-24",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 5
     },
     {
-      "date": "2026-08-05",
+      "paymentDate": "2026-08-05",
       "previousDate": "2026-05-05",
       "referenceDate": "2026-07-27",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 6
     },
     {
-      "date": "2026-11-05",
+      "paymentDate": "2026-11-05",
       "previousDate": "2026-08-05",
       "referenceDate": "2026-10-27",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 7
     },
     {
-      "date": "2027-02-05",
+      "paymentDate": "2027-02-05",
       "previousDate": "2026-11-05",
       "referenceDate": "2027-01-27",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 8
     },
     {
-      "date": "2027-05-05",
+      "paymentDate": "2027-05-05",
       "previousDate": "2027-02-05",
       "referenceDate": "2027-04-26",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 9
     },
     {
-      "date": "2027-08-05",
+      "paymentDate": "2027-08-05",
       "previousDate": "2027-05-05",
       "referenceDate": "2027-07-27",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 10
     },
     {
-      "date": "2027-11-05",
+      "paymentDate": "2027-11-05",
       "previousDate": "2027-08-05",
       "referenceDate": "2027-10-27",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 11
     },
     {
-      "date": "2028-02-05",
+      "paymentDate": "2028-02-05",
       "previousDate": "2027-11-05",
       "referenceDate": "2028-01-27",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 12
     },
     {
-      "date": "2028-05-05",
+      "paymentDate": "2028-05-05",
       "previousDate": "2028-02-05",
       "referenceDate": "2028-04-26",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 13
     },
     {
-      "date": "2028-08-05",
+      "paymentDate": "2028-08-05",
       "previousDate": "2028-05-05",
       "referenceDate": "2028-07-27",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 14
     }
   ],
-  "couponCount": 14,
   "principalRepayments": [
     {
       "date": "2028-07-27",

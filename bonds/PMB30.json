@@ -1,6 +1,6 @@
 {
   "symbol": "PMB30",
-  "lastUpdated": "2026-02-24T18:06:27Z",
+  "fetchedAt": "2026-02-24T20:22:59Z",
   "source": "BVB",
   "details": {
     "faceValue": 10000.0,
@@ -11,58 +11,60 @@
     "maturityDate": "2030-04-25",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 8.9,
+  "frequency": 1,
+  "couponCount": 7,
+  "payments": [
     {
-      "date": "2024-04-25",
+      "paymentDate": "2024-04-25",
       "previousDate": "2023-04-25",
       "referenceDate": "2024-04-17",
-      "rate": 8.9,
+      "couponRate": 8.9,
       "number": 1
     },
     {
-      "date": "2025-04-25",
+      "paymentDate": "2025-04-25",
       "previousDate": "2024-04-25",
       "referenceDate": "2025-04-15",
-      "rate": 8.9,
+      "couponRate": 8.9,
       "number": 2
     },
     {
-      "date": "2026-04-25",
+      "paymentDate": "2026-04-25",
       "previousDate": "2025-04-25",
       "referenceDate": "2026-04-17",
-      "rate": 8.9,
+      "couponRate": 8.9,
       "number": 3
     },
     {
-      "date": "2027-04-25",
+      "paymentDate": "2027-04-25",
       "previousDate": "2026-04-25",
       "referenceDate": "2027-04-16",
-      "rate": 8.9,
+      "couponRate": 8.9,
       "number": 4
     },
     {
-      "date": "2028-04-25",
+      "paymentDate": "2028-04-25",
       "previousDate": "2027-04-25",
       "referenceDate": "2028-04-13",
-      "rate": 8.9,
+      "couponRate": 8.9,
       "number": 5
     },
     {
-      "date": "2029-04-25",
+      "paymentDate": "2029-04-25",
       "previousDate": "2028-04-25",
       "referenceDate": "2029-04-17",
-      "rate": 8.9,
+      "couponRate": 8.9,
       "number": 6
     },
     {
-      "date": "2030-04-25",
+      "paymentDate": "2030-04-25",
       "previousDate": "2029-04-25",
       "referenceDate": "2030-04-17",
-      "rate": 8.9,
+      "couponRate": 8.9,
       "number": 7
     }
   ],
-  "couponCount": 7,
   "principalRepayments": [
     {
       "date": "2030-04-17",

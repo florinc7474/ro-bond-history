@@ -1,6 +1,6 @@
 {
   "symbol": "R2612AE",
-  "lastUpdated": "2026-02-24T18:07:59Z",
+  "fetchedAt": "2026-02-24T20:24:27Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,44 +11,46 @@
     "maturityDate": "2026-12-15",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 1.8,
+  "frequency": 1,
+  "couponCount": 5,
+  "payments": [
     {
-      "date": "2022-12-15",
+      "paymentDate": "2022-12-15",
       "previousDate": "2021-12-15",
       "referenceDate": "2022-12-06",
-      "rate": 1.8,
+      "couponRate": 1.8,
       "number": 1
     },
     {
-      "date": "2023-12-15",
+      "paymentDate": "2023-12-15",
       "previousDate": "2022-12-15",
       "referenceDate": "2023-12-06",
-      "rate": 1.8,
+      "couponRate": 1.8,
       "number": 2
     },
     {
-      "date": "2024-12-15",
+      "paymentDate": "2024-12-15",
       "previousDate": "2023-12-15",
       "referenceDate": "2024-12-05",
-      "rate": 1.8,
+      "couponRate": 1.8,
       "number": 3
     },
     {
-      "date": "2025-12-15",
+      "paymentDate": "2025-12-15",
       "previousDate": "2024-12-15",
       "referenceDate": "2025-12-04",
-      "rate": 1.8,
+      "couponRate": 1.8,
       "number": 4
     },
     {
-      "date": "2026-12-15",
+      "paymentDate": "2026-12-15",
       "previousDate": "2025-12-15",
       "referenceDate": "2026-12-04",
-      "rate": 1.8,
+      "couponRate": 1.8,
       "number": 5
     }
   ],
-  "couponCount": 5,
   "principalRepayments": [
     {
       "date": "2026-12-04",

@@ -1,6 +1,6 @@
 {
   "symbol": "BCR27",
-  "lastUpdated": "2026-02-24T18:01:51Z",
+  "fetchedAt": "2026-02-24T20:18:36Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
@@ -11,44 +11,46 @@
     "issueDate": "2022-03-31",
     "maturityDate": "2027-03-31"
   },
-  "couponDates": [
+  "annualRate": 6.76,
+  "frequency": 1,
+  "couponCount": 5,
+  "payments": [
     {
-      "date": "2023-03-31",
+      "paymentDate": "2023-03-31",
       "previousDate": "2022-03-31",
       "referenceDate": "2023-03-16",
-      "rate": 6.76,
+      "couponRate": 6.76,
       "number": 1
     },
     {
-      "date": "2024-03-31",
+      "paymentDate": "2024-03-31",
       "previousDate": "2023-03-31",
       "referenceDate": "2024-03-18",
-      "rate": 6.76,
+      "couponRate": 6.76,
       "number": 2
     },
     {
-      "date": "2025-03-31",
+      "paymentDate": "2025-03-31",
       "previousDate": "2024-03-31",
       "referenceDate": "2025-03-17",
-      "rate": 6.76,
+      "couponRate": 6.76,
       "number": 3
     },
     {
-      "date": "2026-03-31",
+      "paymentDate": "2026-03-31",
       "previousDate": "2025-03-31",
       "referenceDate": "2026-03-16",
-      "rate": 6.76,
+      "couponRate": 6.76,
       "number": 4
     },
     {
-      "date": "2027-03-31",
+      "paymentDate": "2027-03-31",
       "previousDate": "2026-03-31",
       "referenceDate": "2027-03-16",
-      "rate": 6.76,
+      "couponRate": 6.76,
       "number": 5
     }
   ],
-  "couponCount": 5,
   "principalRepayments": [
     {
       "date": "2027-03-16",

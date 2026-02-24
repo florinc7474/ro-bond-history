@@ -1,6 +1,6 @@
 {
   "symbol": "BCR31",
-  "lastUpdated": "2026-02-24T18:02:32Z",
+  "fetchedAt": "2026-02-24T20:19:15Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
@@ -11,51 +11,53 @@
     "issueDate": "2025-11-11",
     "maturityDate": "2031-11-11"
   },
-  "couponDates": [
+  "annualRate": 7.718,
+  "frequency": 1,
+  "couponCount": 6,
+  "payments": [
     {
-      "date": "2026-11-11",
+      "paymentDate": "2026-11-11",
       "previousDate": "2025-11-11",
       "referenceDate": "2026-10-27",
-      "rate": 7.718,
+      "couponRate": 7.718,
       "number": 1
     },
     {
-      "date": "2027-11-11",
+      "paymentDate": "2027-11-11",
       "previousDate": "2026-11-11",
       "referenceDate": "2027-10-27",
-      "rate": 7.718,
+      "couponRate": 7.718,
       "number": 2
     },
     {
-      "date": "2028-11-11",
+      "paymentDate": "2028-11-11",
       "previousDate": "2027-11-11",
       "referenceDate": "2028-10-27",
-      "rate": 7.718,
+      "couponRate": 7.718,
       "number": 3
     },
     {
-      "date": "2029-11-11",
+      "paymentDate": "2029-11-11",
       "previousDate": "2028-11-11",
       "referenceDate": "2029-10-29",
-      "rate": 7.718,
+      "couponRate": 7.718,
       "number": 4
     },
     {
-      "date": "2030-11-11",
+      "paymentDate": "2030-11-11",
       "previousDate": "2029-11-11",
       "referenceDate": "2030-10-28",
-      "rate": 7.718,
+      "couponRate": 7.718,
       "number": 5
     },
     {
-      "date": "2031-11-11",
+      "paymentDate": "2031-11-11",
       "previousDate": "2030-11-11",
       "referenceDate": "2031-10-27",
-      "rate": 7.718,
+      "couponRate": 7.718,
       "number": 6
     }
   ],
-  "couponCount": 6,
   "principalRepayments": [
     {
       "date": "2031-10-27",

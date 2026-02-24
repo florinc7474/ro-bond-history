@@ -1,6 +1,6 @@
 {
   "symbol": "R2704A",
-  "lastUpdated": "2026-02-24T18:08:26Z",
+  "fetchedAt": "2026-02-24T20:24:53Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,30 +11,32 @@
     "maturityDate": "2027-04-22",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 6.85,
+  "frequency": 1,
+  "couponCount": 3,
+  "payments": [
     {
-      "date": "2025-04-22",
+      "paymentDate": "2025-04-22",
       "previousDate": "2024-04-22",
       "referenceDate": "2025-04-09",
-      "rate": 6.85,
+      "couponRate": 6.85,
       "number": 1
     },
     {
-      "date": "2026-04-22",
+      "paymentDate": "2026-04-22",
       "previousDate": "2025-04-22",
       "referenceDate": "2026-04-09",
-      "rate": 6.85,
+      "couponRate": 6.85,
       "number": 2
     },
     {
-      "date": "2027-04-22",
+      "paymentDate": "2027-04-22",
       "previousDate": "2026-04-22",
       "referenceDate": "2027-04-13",
-      "rate": 6.85,
+      "couponRate": 6.85,
       "number": 3
     }
   ],
-  "couponCount": 3,
   "principalRepayments": [
     {
       "date": "2027-04-13",

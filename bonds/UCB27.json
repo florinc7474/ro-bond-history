@@ -1,6 +1,6 @@
 {
   "symbol": "UCB27",
-  "lastUpdated": "2026-02-24T18:19:37Z",
+  "fetchedAt": "2026-02-24T20:35:34Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
@@ -11,44 +11,46 @@
     "issueDate": "2022-12-21",
     "maturityDate": "2027-12-21"
   },
-  "couponDates": [
+  "annualRate": 9.07,
+  "frequency": 1,
+  "couponCount": 5,
+  "payments": [
     {
-      "date": "2023-12-21",
+      "paymentDate": "2023-12-21",
       "previousDate": "2022-12-21",
       "referenceDate": "2023-11-28",
-      "rate": 9.07,
+      "couponRate": 9.07,
       "number": 1
     },
     {
-      "date": "2024-12-21",
+      "paymentDate": "2024-12-21",
       "previousDate": "2023-12-21",
       "referenceDate": "2024-12-02",
-      "rate": 9.07,
+      "couponRate": 9.07,
       "number": 2
     },
     {
-      "date": "2025-12-21",
+      "paymentDate": "2025-12-21",
       "previousDate": "2024-12-21",
       "referenceDate": "2025-11-28",
-      "rate": 9.07,
+      "couponRate": 9.07,
       "number": 3
     },
     {
-      "date": "2026-12-21",
+      "paymentDate": "2026-12-21",
       "previousDate": "2025-12-21",
       "referenceDate": "2026-11-26",
-      "rate": 9.07,
+      "couponRate": 9.07,
       "number": 4
     },
     {
-      "date": "2027-12-21",
+      "paymentDate": "2027-12-21",
       "previousDate": "2026-12-21",
       "referenceDate": "2027-11-26",
-      "rate": 9.07,
+      "couponRate": 9.07,
       "number": 5
     }
   ],
-  "couponCount": 5,
   "principalRepayments": [
     {
       "date": "2027-11-26",

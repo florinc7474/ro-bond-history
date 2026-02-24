@@ -1,6 +1,6 @@
 {
   "symbol": "SNG29E",
-  "lastUpdated": "2026-02-24T18:18:01Z",
+  "fetchedAt": "2026-02-24T20:34:02Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
@@ -11,44 +11,46 @@
     "issueDate": "2024-10-07",
     "maturityDate": "2029-10-07"
   },
-  "couponDates": [
+  "annualRate": 4.75,
+  "frequency": 1,
+  "couponCount": 5,
+  "payments": [
     {
-      "date": "2025-10-07",
+      "paymentDate": "2025-10-07",
       "previousDate": "2024-10-07",
       "referenceDate": "2025-10-06",
-      "rate": 4.75,
+      "couponRate": 4.75,
       "number": 1
     },
     {
-      "date": "2026-10-07",
+      "paymentDate": "2026-10-07",
       "previousDate": "2025-10-07",
       "referenceDate": "2026-10-06",
-      "rate": 4.75,
+      "couponRate": 4.75,
       "number": 2
     },
     {
-      "date": "2027-10-07",
+      "paymentDate": "2027-10-07",
       "previousDate": "2026-10-07",
       "referenceDate": "2027-10-06",
-      "rate": 4.75,
+      "couponRate": 4.75,
       "number": 3
     },
     {
-      "date": "2028-10-07",
+      "paymentDate": "2028-10-07",
       "previousDate": "2027-10-07",
       "referenceDate": "2028-10-06",
-      "rate": 4.75,
+      "couponRate": 4.75,
       "number": 4
     },
     {
-      "date": "2029-10-07",
+      "paymentDate": "2029-10-07",
       "previousDate": "2028-10-07",
       "referenceDate": "2029-10-05",
-      "rate": 4.75,
+      "couponRate": 4.75,
       "number": 5
     }
   ],
-  "couponCount": 5,
   "principalRepayments": [
     {
       "date": "2029-10-05",

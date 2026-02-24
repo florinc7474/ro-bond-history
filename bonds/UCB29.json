@@ -1,6 +1,6 @@
 {
   "symbol": "UCB29",
-  "lastUpdated": "2026-02-24T18:19:47Z",
+  "fetchedAt": "2026-02-24T20:35:43Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
@@ -11,44 +11,46 @@
     "issueDate": "2024-11-22",
     "maturityDate": "2029-11-22"
   },
-  "couponDates": [
+  "annualRate": 7.67,
+  "frequency": 1,
+  "couponCount": 5,
+  "payments": [
     {
-      "date": "2025-11-22",
+      "paymentDate": "2025-11-22",
       "previousDate": "2024-11-22",
       "referenceDate": "2025-11-03",
-      "rate": 7.67,
+      "couponRate": 7.67,
       "number": 1
     },
     {
-      "date": "2026-11-22",
+      "paymentDate": "2026-11-22",
       "previousDate": "2025-11-22",
       "referenceDate": "2026-11-02",
-      "rate": 7.67,
+      "couponRate": 7.67,
       "number": 2
     },
     {
-      "date": "2027-11-22",
+      "paymentDate": "2027-11-22",
       "previousDate": "2026-11-22",
       "referenceDate": "2027-11-01",
-      "rate": 7.67,
+      "couponRate": 7.67,
       "number": 3
     },
     {
-      "date": "2028-11-22",
+      "paymentDate": "2028-11-22",
       "previousDate": "2027-11-22",
       "referenceDate": "2028-11-01",
-      "rate": 7.67,
+      "couponRate": 7.67,
       "number": 4
     },
     {
-      "date": "2029-11-22",
+      "paymentDate": "2029-11-22",
       "previousDate": "2028-11-22",
       "referenceDate": "2029-11-01",
-      "rate": 7.67,
+      "couponRate": 7.67,
       "number": 5
     }
   ],
-  "couponCount": 5,
   "principalRepayments": [
     {
       "date": "2029-11-01",

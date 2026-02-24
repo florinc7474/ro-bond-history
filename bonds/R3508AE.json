@@ -1,6 +1,6 @@
 {
   "symbol": "R3508AE",
-  "lastUpdated": "2026-02-24T18:16:33Z",
+  "fetchedAt": "2026-02-24T20:32:38Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,79 +11,81 @@
     "maturityDate": "2035-08-13",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 6.5,
+  "frequency": 1,
+  "couponCount": 10,
+  "payments": [
     {
-      "date": "2026-08-13",
+      "paymentDate": "2026-08-13",
       "previousDate": "2025-08-13",
       "referenceDate": "2026-08-04",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 1
     },
     {
-      "date": "2027-08-13",
+      "paymentDate": "2027-08-13",
       "previousDate": "2026-08-13",
       "referenceDate": "2027-08-04",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 2
     },
     {
-      "date": "2028-08-13",
+      "paymentDate": "2028-08-13",
       "previousDate": "2027-08-13",
       "referenceDate": "2028-08-03",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 3
     },
     {
-      "date": "2029-08-13",
+      "paymentDate": "2029-08-13",
       "previousDate": "2028-08-13",
       "referenceDate": "2029-08-02",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 4
     },
     {
-      "date": "2030-08-13",
+      "paymentDate": "2030-08-13",
       "previousDate": "2029-08-13",
       "referenceDate": "2030-08-02",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 5
     },
     {
-      "date": "2031-08-13",
+      "paymentDate": "2031-08-13",
       "previousDate": "2030-08-13",
       "referenceDate": "2031-08-04",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 6
     },
     {
-      "date": "2032-08-13",
+      "paymentDate": "2032-08-13",
       "previousDate": "2031-08-13",
       "referenceDate": "2032-08-04",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 7
     },
     {
-      "date": "2033-08-13",
+      "paymentDate": "2033-08-13",
       "previousDate": "2032-08-13",
       "referenceDate": "2033-08-04",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 8
     },
     {
-      "date": "2034-08-13",
+      "paymentDate": "2034-08-13",
       "previousDate": "2033-08-13",
       "referenceDate": "2034-08-03",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 9
     },
     {
-      "date": "2035-08-13",
+      "paymentDate": "2035-08-13",
       "previousDate": "2034-08-13",
       "referenceDate": "2035-08-02",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 10
     }
   ],
-  "couponCount": 10,
   "principalRepayments": [
     {
       "date": "2035-08-02",

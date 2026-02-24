@@ -1,6 +1,6 @@
 {
   "symbol": "CJC33E",
-  "lastUpdated": "2026-02-24T18:03:28Z",
+  "fetchedAt": "2026-02-24T20:20:08Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,149 +11,151 @@
     "maturityDate": "2033-12-21",
     "couponFrequency": 2
   },
-  "couponDates": [
+  "annualRate": null,
+  "frequency": 2,
+  "couponCount": 20,
+  "payments": [
     {
-      "date": "2024-06-21",
+      "paymentDate": "2024-06-21",
       "previousDate": "2023-12-21",
       "referenceDate": "2024-06-06",
-      "rate": 7.172,
+      "couponRate": 7.172,
       "number": 1
     },
     {
-      "date": "2024-12-21",
+      "paymentDate": "2024-12-21",
       "previousDate": "2024-06-21",
       "referenceDate": "2024-12-06",
-      "rate": 6.945,
+      "couponRate": 6.945,
       "number": 2
     },
     {
-      "date": "2025-06-21",
+      "paymentDate": "2025-06-21",
       "previousDate": "2024-12-21",
       "referenceDate": "2025-06-06",
-      "rate": 5.902,
+      "couponRate": 5.902,
       "number": 3
     },
     {
-      "date": "2025-12-21",
+      "paymentDate": "2025-12-21",
       "previousDate": "2025-06-21",
       "referenceDate": "2025-12-05",
-      "rate": 5.311,
+      "couponRate": 5.311,
       "number": 4
     },
     {
-      "date": "2026-06-21",
+      "paymentDate": "2026-06-21",
       "previousDate": "2025-12-21",
       "referenceDate": "2026-06-05",
-      "rate": 5.394,
+      "couponRate": 5.394,
       "number": 5
     },
     {
-      "date": "2026-12-21",
+      "paymentDate": "2026-12-21",
       "previousDate": "2026-06-21",
       "referenceDate": "2026-12-04",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 6
     },
     {
-      "date": "2027-06-21",
+      "paymentDate": "2027-06-21",
       "previousDate": "2026-12-21",
       "referenceDate": "2027-06-04",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 7
     },
     {
-      "date": "2027-12-21",
+      "paymentDate": "2027-12-21",
       "previousDate": "2027-06-21",
       "referenceDate": "2027-12-03",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 8
     },
     {
-      "date": "2028-06-21",
+      "paymentDate": "2028-06-21",
       "previousDate": "2027-12-21",
       "referenceDate": "2028-06-06",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 9
     },
     {
-      "date": "2028-12-21",
+      "paymentDate": "2028-12-21",
       "previousDate": "2028-06-21",
       "referenceDate": "2028-12-06",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 10
     },
     {
-      "date": "2029-06-21",
+      "paymentDate": "2029-06-21",
       "previousDate": "2028-12-21",
       "referenceDate": "2029-06-07",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 11
     },
     {
-      "date": "2029-12-21",
+      "paymentDate": "2029-12-21",
       "previousDate": "2029-06-21",
       "referenceDate": "2029-12-06",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 12
     },
     {
-      "date": "2030-06-21",
+      "paymentDate": "2030-06-21",
       "previousDate": "2029-12-21",
       "referenceDate": "2030-06-06",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 13
     },
     {
-      "date": "2030-12-21",
+      "paymentDate": "2030-12-21",
       "previousDate": "2030-06-21",
       "referenceDate": "2030-12-06",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 14
     },
     {
-      "date": "2031-06-21",
+      "paymentDate": "2031-06-21",
       "previousDate": "2030-12-21",
       "referenceDate": "2031-06-06",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 15
     },
     {
-      "date": "2031-12-21",
+      "paymentDate": "2031-12-21",
       "previousDate": "2031-06-21",
       "referenceDate": "2031-12-05",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 16
     },
     {
-      "date": "2032-06-21",
+      "paymentDate": "2032-06-21",
       "previousDate": "2031-12-21",
       "referenceDate": "2032-06-04",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 17
     },
     {
-      "date": "2032-12-21",
+      "paymentDate": "2032-12-21",
       "previousDate": "2032-06-21",
       "referenceDate": "2032-12-06",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 18
     },
     {
-      "date": "2033-06-21",
+      "paymentDate": "2033-06-21",
       "previousDate": "2032-12-21",
       "referenceDate": "2033-06-06",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 19
     },
     {
-      "date": "2033-12-21",
+      "paymentDate": "2033-12-21",
       "previousDate": "2033-06-21",
       "referenceDate": "2033-12-06",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 20
     }
   ],
-  "couponCount": 20,
   "principalRepayments": [
     {
       "date": "2029-12-06",

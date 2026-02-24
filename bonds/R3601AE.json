@@ -1,6 +1,6 @@
 {
   "symbol": "R3601AE",
-  "lastUpdated": "2026-02-24T18:17:00Z",
+  "fetchedAt": "2026-02-24T20:33:04Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,79 +11,81 @@
     "maturityDate": "2036-01-28",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 6.2,
+  "frequency": 1,
+  "couponCount": 10,
+  "payments": [
     {
-      "date": "2027-01-28",
+      "paymentDate": "2027-01-28",
       "previousDate": "2026-01-28",
       "referenceDate": "2027-01-19",
-      "rate": 6.2,
+      "couponRate": 6.2,
       "number": 1
     },
     {
-      "date": "2028-01-28",
+      "paymentDate": "2028-01-28",
       "previousDate": "2027-01-28",
       "referenceDate": "2028-01-18",
-      "rate": 6.2,
+      "couponRate": 6.2,
       "number": 2
     },
     {
-      "date": "2029-01-28",
+      "paymentDate": "2029-01-28",
       "previousDate": "2028-01-28",
       "referenceDate": "2029-01-17",
-      "rate": 6.2,
+      "couponRate": 6.2,
       "number": 3
     },
     {
-      "date": "2030-01-28",
+      "paymentDate": "2030-01-28",
       "previousDate": "2029-01-28",
       "referenceDate": "2030-01-16",
-      "rate": 6.2,
+      "couponRate": 6.2,
       "number": 4
     },
     {
-      "date": "2031-01-28",
+      "paymentDate": "2031-01-28",
       "previousDate": "2030-01-28",
       "referenceDate": "2031-01-16",
-      "rate": 6.2,
+      "couponRate": 6.2,
       "number": 5
     },
     {
-      "date": "2032-01-28",
+      "paymentDate": "2032-01-28",
       "previousDate": "2031-01-28",
       "referenceDate": "2032-01-19",
-      "rate": 6.2,
+      "couponRate": 6.2,
       "number": 6
     },
     {
-      "date": "2033-01-28",
+      "paymentDate": "2033-01-28",
       "previousDate": "2032-01-28",
       "referenceDate": "2033-01-18",
-      "rate": 6.2,
+      "couponRate": 6.2,
       "number": 7
     },
     {
-      "date": "2034-01-28",
+      "paymentDate": "2034-01-28",
       "previousDate": "2033-01-28",
       "referenceDate": "2034-01-18",
-      "rate": 6.2,
+      "couponRate": 6.2,
       "number": 8
     },
     {
-      "date": "2035-01-28",
+      "paymentDate": "2035-01-28",
       "previousDate": "2034-01-28",
       "referenceDate": "2035-01-17",
-      "rate": 6.2,
+      "couponRate": 6.2,
       "number": 9
     },
     {
-      "date": "2036-01-28",
+      "paymentDate": "2036-01-28",
       "previousDate": "2035-01-28",
       "referenceDate": "2036-01-16",
-      "rate": 6.2,
+      "couponRate": 6.2,
       "number": 10
     }
   ],
-  "couponCount": 10,
   "principalRepayments": [
     {
       "date": "2036-01-16",

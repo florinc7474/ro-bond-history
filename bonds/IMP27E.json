@@ -1,6 +1,6 @@
 {
   "symbol": "IMP27E",
-  "lastUpdated": "2026-02-24T18:04:19Z",
+  "fetchedAt": "2026-02-24T20:20:57Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
@@ -11,51 +11,53 @@
     "issueDate": "2024-02-28",
     "maturityDate": "2027-02-28"
   },
-  "couponDates": [
+  "annualRate": 9.0,
+  "frequency": 1,
+  "couponCount": 6,
+  "payments": [
     {
-      "date": "2024-08-28",
+      "paymentDate": "2024-08-28",
       "previousDate": "2024-02-28",
       "referenceDate": "2024-08-13",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 1
     },
     {
-      "date": "2025-02-28",
+      "paymentDate": "2025-02-28",
       "previousDate": "2024-08-28",
       "referenceDate": "2025-02-14",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 2
     },
     {
-      "date": "2025-08-28",
+      "paymentDate": "2025-08-28",
       "previousDate": "2025-02-28",
       "referenceDate": "2025-08-13",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 3
     },
     {
-      "date": "2026-02-28",
+      "paymentDate": "2026-02-28",
       "previousDate": "2025-08-28",
       "referenceDate": "2026-02-13",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 4
     },
     {
-      "date": "2026-08-28",
+      "paymentDate": "2026-08-28",
       "previousDate": "2026-02-28",
       "referenceDate": "2026-08-14",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 5
     },
     {
-      "date": "2027-02-28",
+      "paymentDate": "2027-02-28",
       "previousDate": "2026-08-28",
       "referenceDate": "2027-02-12",
-      "rate": 9.0,
+      "couponRate": 9.0,
       "number": 6
     }
   ],
-  "couponCount": 6,
   "principalRepayments": [
     {
       "date": "2027-02-12",

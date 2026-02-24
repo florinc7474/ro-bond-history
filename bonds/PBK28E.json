@@ -1,6 +1,6 @@
 {
   "symbol": "PBK28E",
-  "lastUpdated": "2026-02-24T18:06:16Z",
+  "fetchedAt": "2026-02-24T20:22:49Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
@@ -11,121 +11,123 @@
     "issueDate": "2020-10-05",
     "maturityDate": "2028-10-05"
   },
-  "couponDates": [
+  "annualRate": 6.5,
+  "frequency": 1,
+  "couponCount": 16,
+  "payments": [
     {
-      "date": "2021-04-05",
+      "paymentDate": "2021-04-05",
       "previousDate": "2020-10-05",
       "referenceDate": "2021-03-15",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 1
     },
     {
-      "date": "2021-10-05",
+      "paymentDate": "2021-10-05",
       "previousDate": "2021-04-05",
       "referenceDate": "2021-09-13",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 2
     },
     {
-      "date": "2022-04-05",
+      "paymentDate": "2022-04-05",
       "previousDate": "2021-10-05",
       "referenceDate": "2022-03-15",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 3
     },
     {
-      "date": "2022-10-05",
+      "paymentDate": "2022-10-05",
       "previousDate": "2022-04-05",
       "referenceDate": "2022-09-14",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 4
     },
     {
-      "date": "2023-04-05",
+      "paymentDate": "2023-04-05",
       "previousDate": "2022-10-05",
       "referenceDate": "2023-03-15",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 5
     },
     {
-      "date": "2023-10-05",
+      "paymentDate": "2023-10-05",
       "previousDate": "2023-04-05",
       "referenceDate": "2023-09-14",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 6
     },
     {
-      "date": "2024-04-04",
+      "paymentDate": "2024-04-04",
       "previousDate": "2023-10-05",
       "referenceDate": "2024-03-14",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 7
     },
     {
-      "date": "2024-10-04",
+      "paymentDate": "2024-10-04",
       "previousDate": "2024-04-04",
       "referenceDate": "2024-09-13",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 8
     },
     {
-      "date": "2025-04-04",
+      "paymentDate": "2025-04-04",
       "previousDate": "2024-10-04",
       "referenceDate": "2025-03-14",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 9
     },
     {
-      "date": "2025-10-04",
+      "paymentDate": "2025-10-04",
       "previousDate": "2025-04-04",
       "referenceDate": "2025-09-15",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 10
     },
     {
-      "date": "2026-04-04",
+      "paymentDate": "2026-04-04",
       "previousDate": "2025-10-04",
       "referenceDate": "2026-03-16",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 11
     },
     {
-      "date": "2026-10-04",
+      "paymentDate": "2026-10-04",
       "previousDate": "2026-04-04",
       "referenceDate": "2026-09-14",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 12
     },
     {
-      "date": "2027-04-04",
+      "paymentDate": "2027-04-04",
       "previousDate": "2026-10-04",
       "referenceDate": "2027-03-15",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 13
     },
     {
-      "date": "2027-10-04",
+      "paymentDate": "2027-10-04",
       "previousDate": "2027-04-04",
       "referenceDate": "2027-09-13",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 14
     },
     {
-      "date": "2028-04-03",
+      "paymentDate": "2028-04-03",
       "previousDate": "2027-10-04",
       "referenceDate": "2028-03-13",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 15
     },
     {
-      "date": "2028-10-05",
+      "paymentDate": "2028-10-05",
       "previousDate": "2028-04-03",
       "referenceDate": "2028-09-14",
-      "rate": 6.5,
+      "couponRate": 6.5,
       "number": 16
     }
   ],
-  "couponCount": 16,
   "principalRepayments": [
     {
       "date": "2028-09-14",

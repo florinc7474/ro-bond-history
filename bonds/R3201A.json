@@ -1,6 +1,6 @@
 {
   "symbol": "R3201A",
-  "lastUpdated": "2026-02-24T18:15:50Z",
+  "fetchedAt": "2026-02-24T20:31:56Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,51 +11,53 @@
     "maturityDate": "2032-01-28",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 7.5,
+  "frequency": 1,
+  "couponCount": 6,
+  "payments": [
     {
-      "date": "2027-01-28",
+      "paymentDate": "2027-01-28",
       "previousDate": "2026-01-28",
       "referenceDate": "2027-01-19",
-      "rate": 7.5,
+      "couponRate": 7.5,
       "number": 1
     },
     {
-      "date": "2028-01-28",
+      "paymentDate": "2028-01-28",
       "previousDate": "2027-01-28",
       "referenceDate": "2028-01-18",
-      "rate": 7.5,
+      "couponRate": 7.5,
       "number": 2
     },
     {
-      "date": "2029-01-28",
+      "paymentDate": "2029-01-28",
       "previousDate": "2028-01-28",
       "referenceDate": "2029-01-17",
-      "rate": 7.5,
+      "couponRate": 7.5,
       "number": 3
     },
     {
-      "date": "2030-01-28",
+      "paymentDate": "2030-01-28",
       "previousDate": "2029-01-28",
       "referenceDate": "2030-01-16",
-      "rate": 7.5,
+      "couponRate": 7.5,
       "number": 4
     },
     {
-      "date": "2031-01-28",
+      "paymentDate": "2031-01-28",
       "previousDate": "2030-01-28",
       "referenceDate": "2031-01-16",
-      "rate": 7.5,
+      "couponRate": 7.5,
       "number": 5
     },
     {
-      "date": "2032-01-28",
+      "paymentDate": "2032-01-28",
       "previousDate": "2031-01-28",
       "referenceDate": "2032-01-19",
-      "rate": 7.5,
+      "couponRate": 7.5,
       "number": 6
     }
   ],
-  "couponCount": 6,
   "principalRepayments": [
     {
       "date": "2032-01-19",

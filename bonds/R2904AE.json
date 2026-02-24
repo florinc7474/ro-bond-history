@@ -1,6 +1,6 @@
 {
   "symbol": "R2904AE",
-  "lastUpdated": "2026-02-24T18:12:27Z",
+  "fetchedAt": "2026-02-24T20:28:43Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,44 +11,46 @@
     "maturityDate": "2029-04-22",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 5.0,
+  "frequency": 1,
+  "couponCount": 5,
+  "payments": [
     {
-      "date": "2025-04-22",
+      "paymentDate": "2025-04-22",
       "previousDate": "2024-04-22",
       "referenceDate": "2025-04-09",
-      "rate": 5.0,
+      "couponRate": 5.0,
       "number": 1
     },
     {
-      "date": "2026-04-22",
+      "paymentDate": "2026-04-22",
       "previousDate": "2025-04-22",
       "referenceDate": "2026-04-09",
-      "rate": 5.0,
+      "couponRate": 5.0,
       "number": 2
     },
     {
-      "date": "2027-04-22",
+      "paymentDate": "2027-04-22",
       "previousDate": "2026-04-22",
       "referenceDate": "2027-04-13",
-      "rate": 5.0,
+      "couponRate": 5.0,
       "number": 3
     },
     {
-      "date": "2028-04-22",
+      "paymentDate": "2028-04-22",
       "previousDate": "2027-04-22",
       "referenceDate": "2028-04-11",
-      "rate": 5.0,
+      "couponRate": 5.0,
       "number": 4
     },
     {
-      "date": "2029-04-22",
+      "paymentDate": "2029-04-22",
       "previousDate": "2028-04-22",
       "referenceDate": "2029-04-12",
-      "rate": 5.0,
+      "couponRate": 5.0,
       "number": 5
     }
   ],
-  "couponCount": 5,
   "principalRepayments": [
     {
       "date": "2029-04-12",

@@ -1,6 +1,6 @@
 {
   "symbol": "TLV32",
-  "lastUpdated": "2026-02-24T18:19:22Z",
+  "fetchedAt": "2026-02-24T20:35:19Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
@@ -11,58 +11,60 @@
     "issueDate": "2025-07-03",
     "maturityDate": "2032-07-03"
   },
-  "couponDates": [
+  "annualRate": 8.875,
+  "frequency": 1,
+  "couponCount": 7,
+  "payments": [
     {
-      "date": "2026-07-03",
+      "paymentDate": "2026-07-03",
       "previousDate": "2025-07-03",
       "referenceDate": "2026-06-12",
-      "rate": 8.875,
+      "couponRate": 8.875,
       "number": 1
     },
     {
-      "date": "2027-07-03",
+      "paymentDate": "2027-07-03",
       "previousDate": "2026-07-03",
       "referenceDate": "2027-06-11",
-      "rate": 8.875,
+      "couponRate": 8.875,
       "number": 2
     },
     {
-      "date": "2028-07-03",
+      "paymentDate": "2028-07-03",
       "previousDate": "2027-07-03",
       "referenceDate": "2028-06-12",
-      "rate": 8.875,
+      "couponRate": 8.875,
       "number": 3
     },
     {
-      "date": "2029-07-03",
+      "paymentDate": "2029-07-03",
       "previousDate": "2028-07-03",
       "referenceDate": "2029-06-13",
-      "rate": 8.875,
+      "couponRate": 8.875,
       "number": 4
     },
     {
-      "date": "2030-07-03",
+      "paymentDate": "2030-07-03",
       "previousDate": "2029-07-03",
       "referenceDate": "2030-06-11",
-      "rate": 8.875,
+      "couponRate": 8.875,
       "number": 5
     },
     {
-      "date": "2031-07-03",
+      "paymentDate": "2031-07-03",
       "previousDate": "2030-07-03",
       "referenceDate": "2031-06-11",
-      "rate": 8.875,
+      "couponRate": 8.875,
       "number": 6
     },
     {
-      "date": "2032-07-03",
+      "paymentDate": "2032-07-03",
       "previousDate": "2031-07-03",
       "referenceDate": "2032-06-14",
-      "rate": 8.875,
+      "couponRate": 8.875,
       "number": 7
     }
   ],
-  "couponCount": 7,
   "principalRepayments": [
     {
       "date": "2032-06-14",

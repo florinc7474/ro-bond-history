@@ -1,6 +1,6 @@
 {
   "symbol": "TEI26",
-  "lastUpdated": "2026-02-24T18:18:16Z",
+  "fetchedAt": "2026-02-24T20:34:16Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
@@ -11,79 +11,81 @@
     "issueDate": "2021-12-03",
     "maturityDate": "2026-12-03"
   },
-  "couponDates": [
+  "annualRate": 8.25,
+  "frequency": 1,
+  "couponCount": 10,
+  "payments": [
     {
-      "date": "2022-06-03",
+      "paymentDate": "2022-06-03",
       "previousDate": "2021-12-03",
       "referenceDate": "2022-05-12",
-      "rate": 8.25,
+      "couponRate": 8.25,
       "number": 1
     },
     {
-      "date": "2022-12-03",
+      "paymentDate": "2022-12-03",
       "previousDate": "2022-06-03",
       "referenceDate": "2022-11-10",
-      "rate": 8.25,
+      "couponRate": 8.25,
       "number": 2
     },
     {
-      "date": "2023-06-03",
+      "paymentDate": "2023-06-03",
       "previousDate": "2022-12-03",
       "referenceDate": "2023-05-12",
-      "rate": 8.25,
+      "couponRate": 8.25,
       "number": 3
     },
     {
-      "date": "2023-12-03",
+      "paymentDate": "2023-12-03",
       "previousDate": "2023-06-03",
       "referenceDate": "2023-11-09",
-      "rate": 8.25,
+      "couponRate": 8.25,
       "number": 4
     },
     {
-      "date": "2024-06-03",
+      "paymentDate": "2024-06-03",
       "previousDate": "2023-12-03",
       "referenceDate": "2024-05-13",
-      "rate": 8.25,
+      "couponRate": 8.25,
       "number": 5
     },
     {
-      "date": "2024-12-03",
+      "paymentDate": "2024-12-03",
       "previousDate": "2024-06-03",
       "referenceDate": "2024-11-12",
-      "rate": 8.25,
+      "couponRate": 8.25,
       "number": 6
     },
     {
-      "date": "2025-06-03",
+      "paymentDate": "2025-06-03",
       "previousDate": "2024-12-03",
       "referenceDate": "2025-05-13",
-      "rate": 8.25,
+      "couponRate": 8.25,
       "number": 7
     },
     {
-      "date": "2025-12-03",
+      "paymentDate": "2025-12-03",
       "previousDate": "2025-06-03",
       "referenceDate": "2025-11-11",
-      "rate": 8.25,
+      "couponRate": 8.25,
       "number": 8
     },
     {
-      "date": "2026-06-03",
+      "paymentDate": "2026-06-03",
       "previousDate": "2025-12-03",
       "referenceDate": "2026-05-12",
-      "rate": 8.25,
+      "couponRate": 8.25,
       "number": 9
     },
     {
-      "date": "2026-12-03",
+      "paymentDate": "2026-12-03",
       "previousDate": "2026-06-03",
       "referenceDate": "2026-11-10",
-      "rate": 8.25,
+      "couponRate": 8.25,
       "number": 10
     }
   ],
-  "couponCount": 10,
   "principalRepayments": [
     {
       "date": "2026-11-10",

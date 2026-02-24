@@ -1,6 +1,6 @@
 {
   "symbol": "CECRO29E",
-  "lastUpdated": "2026-02-24T18:03:23Z",
+  "fetchedAt": "2026-02-24T20:20:04Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
@@ -11,65 +11,67 @@
     "issueDate": "2024-11-28",
     "maturityDate": "2029-11-28"
   },
-  "couponDates": [
+  "annualRate": 5.625,
+  "frequency": 1,
+  "couponCount": 8,
+  "payments": [
     {
-      "date": "2025-11-28",
+      "paymentDate": "2025-11-28",
       "previousDate": "2024-11-28",
       "referenceDate": "2025-11-27",
-      "rate": 5.625,
+      "couponRate": 5.625,
       "number": 1
     },
     {
-      "date": "2026-11-28",
+      "paymentDate": "2026-11-28",
       "previousDate": "2025-11-28",
       "referenceDate": "2026-11-27",
-      "rate": 5.625,
+      "couponRate": 5.625,
       "number": 2
     },
     {
-      "date": "2027-11-28",
+      "paymentDate": "2027-11-28",
       "previousDate": "2026-11-28",
       "referenceDate": "2027-11-26",
-      "rate": 5.625,
+      "couponRate": 5.625,
       "number": 3
     },
     {
-      "date": "2028-11-28",
+      "paymentDate": "2028-11-28",
       "previousDate": "2027-11-28",
       "referenceDate": "2028-11-27",
-      "rate": 5.625,
+      "couponRate": 5.625,
       "number": 4
     },
     {
-      "date": "2029-02-28",
+      "paymentDate": "2029-02-28",
       "previousDate": "2028-11-28",
       "referenceDate": "2029-02-27",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 5
     },
     {
-      "date": "2029-05-28",
+      "paymentDate": "2029-05-28",
       "previousDate": "2029-02-28",
       "referenceDate": "2029-05-25",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 6
     },
     {
-      "date": "2029-08-28",
+      "paymentDate": "2029-08-28",
       "previousDate": "2029-05-28",
       "referenceDate": "2029-08-27",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 7
     },
     {
-      "date": "2029-11-28",
+      "paymentDate": "2029-11-28",
       "previousDate": "2029-08-28",
       "referenceDate": "2029-11-27",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 8
     }
   ],
-  "couponCount": 8,
   "principalRepayments": [
     {
       "date": "2029-11-27",

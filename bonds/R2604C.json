@@ -1,6 +1,6 @@
 {
   "symbol": "R2604C",
-  "lastUpdated": "2026-02-24T18:07:20Z",
+  "fetchedAt": "2026-02-24T20:23:50Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,16 +11,18 @@
     "maturityDate": "2026-04-16",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 6.6,
+  "frequency": 1,
+  "couponCount": 1,
+  "payments": [
     {
-      "date": "2026-04-16",
+      "paymentDate": "2026-04-16",
       "previousDate": "2025-04-16",
       "referenceDate": "2026-04-03",
-      "rate": 6.6,
+      "couponRate": 6.6,
       "number": 1
     }
   ],
-  "couponCount": 1,
   "principalRepayments": [
     {
       "date": "2026-04-03",

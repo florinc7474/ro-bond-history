@@ -1,6 +1,6 @@
 {
   "symbol": "R2810CE",
-  "lastUpdated": "2026-02-24T18:11:48Z",
+  "fetchedAt": "2026-02-24T20:28:06Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,30 +11,32 @@
     "maturityDate": "2028-10-22",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 4.15,
+  "frequency": 1,
+  "couponCount": 3,
+  "payments": [
     {
-      "date": "2026-10-22",
+      "paymentDate": "2026-10-22",
       "previousDate": "2025-10-22",
       "referenceDate": "2026-10-13",
-      "rate": 4.15,
+      "couponRate": 4.15,
       "number": 1
     },
     {
-      "date": "2027-10-22",
+      "paymentDate": "2027-10-22",
       "previousDate": "2026-10-22",
       "referenceDate": "2027-10-13",
-      "rate": 4.15,
+      "couponRate": 4.15,
       "number": 2
     },
     {
-      "date": "2028-10-22",
+      "paymentDate": "2028-10-22",
       "previousDate": "2027-10-22",
       "referenceDate": "2028-10-12",
-      "rate": 4.15,
+      "couponRate": 4.15,
       "number": 3
     }
   ],
-  "couponCount": 3,
   "principalRepayments": [
     {
       "date": "2028-10-12",

@@ -1,6 +1,6 @@
 {
   "symbol": "R2910A",
-  "lastUpdated": "2026-02-24T18:13:11Z",
+  "fetchedAt": "2026-02-24T20:29:24Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,44 +11,46 @@
     "maturityDate": "2029-10-16",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 7.0,
+  "frequency": 1,
+  "couponCount": 5,
+  "payments": [
     {
-      "date": "2025-10-16",
+      "paymentDate": "2025-10-16",
       "previousDate": "2024-10-16",
       "referenceDate": "2025-10-07",
-      "rate": 7.0,
+      "couponRate": 7.0,
       "number": 1
     },
     {
-      "date": "2026-10-16",
+      "paymentDate": "2026-10-16",
       "previousDate": "2025-10-16",
       "referenceDate": "2026-10-07",
-      "rate": 7.0,
+      "couponRate": 7.0,
       "number": 2
     },
     {
-      "date": "2027-10-16",
+      "paymentDate": "2027-10-16",
       "previousDate": "2026-10-16",
       "referenceDate": "2027-10-07",
-      "rate": 7.0,
+      "couponRate": 7.0,
       "number": 3
     },
     {
-      "date": "2028-10-16",
+      "paymentDate": "2028-10-16",
       "previousDate": "2027-10-16",
       "referenceDate": "2028-10-05",
-      "rate": 7.0,
+      "couponRate": 7.0,
       "number": 4
     },
     {
-      "date": "2029-10-16",
+      "paymentDate": "2029-10-16",
       "previousDate": "2028-10-16",
       "referenceDate": "2029-10-05",
-      "rate": 7.0,
+      "couponRate": 7.0,
       "number": 5
     }
   ],
-  "couponCount": 5,
   "principalRepayments": [
     {
       "date": "2029-10-05",

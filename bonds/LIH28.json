@@ -1,6 +1,6 @@
 {
   "symbol": "LIH28",
-  "lastUpdated": "2026-02-24T18:05:00Z",
+  "fetchedAt": "2026-02-24T20:21:36Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
@@ -11,121 +11,123 @@
     "issueDate": "2024-04-18",
     "maturityDate": "2028-04-18"
   },
-  "couponDates": [
+  "annualRate": 10.0,
+  "frequency": 1,
+  "couponCount": 16,
+  "payments": [
     {
-      "date": "2024-07-18",
+      "paymentDate": "2024-07-18",
       "previousDate": "2024-04-18",
       "referenceDate": "2024-07-11",
-      "rate": 10.0,
+      "couponRate": 10.0,
       "number": 1
     },
     {
-      "date": "2024-10-18",
+      "paymentDate": "2024-10-18",
       "previousDate": "2024-07-18",
       "referenceDate": "2024-10-11",
-      "rate": 10.0,
+      "couponRate": 10.0,
       "number": 2
     },
     {
-      "date": "2025-01-18",
+      "paymentDate": "2025-01-18",
       "previousDate": "2024-10-18",
       "referenceDate": "2025-01-13",
-      "rate": 10.0,
+      "couponRate": 10.0,
       "number": 3
     },
     {
-      "date": "2025-04-18",
+      "paymentDate": "2025-04-18",
       "previousDate": "2025-01-18",
       "referenceDate": "2025-04-11",
-      "rate": 10.0,
+      "couponRate": 10.0,
       "number": 4
     },
     {
-      "date": "2025-07-18",
+      "paymentDate": "2025-07-18",
       "previousDate": "2025-04-18",
       "referenceDate": "2025-07-11",
-      "rate": 10.0,
+      "couponRate": 10.0,
       "number": 5
     },
     {
-      "date": "2025-10-18",
+      "paymentDate": "2025-10-18",
       "previousDate": "2025-07-18",
       "referenceDate": "2025-10-13",
-      "rate": 10.0,
+      "couponRate": 10.0,
       "number": 6
     },
     {
-      "date": "2026-01-18",
+      "paymentDate": "2026-01-18",
       "previousDate": "2025-10-18",
       "referenceDate": "2026-01-12",
-      "rate": 10.0,
+      "couponRate": 10.0,
       "number": 7
     },
     {
-      "date": "2026-04-18",
+      "paymentDate": "2026-04-18",
       "previousDate": "2026-01-18",
       "referenceDate": "2026-04-09",
-      "rate": 10.0,
+      "couponRate": 10.0,
       "number": 8
     },
     {
-      "date": "2026-07-18",
+      "paymentDate": "2026-07-18",
       "previousDate": "2026-04-18",
       "referenceDate": "2026-07-13",
-      "rate": 10.0,
+      "couponRate": 10.0,
       "number": 9
     },
     {
-      "date": "2026-10-18",
+      "paymentDate": "2026-10-18",
       "previousDate": "2026-07-18",
       "referenceDate": "2026-10-12",
-      "rate": 10.0,
+      "couponRate": 10.0,
       "number": 10
     },
     {
-      "date": "2027-01-18",
+      "paymentDate": "2027-01-18",
       "previousDate": "2026-10-18",
       "referenceDate": "2027-01-11",
-      "rate": 10.0,
+      "couponRate": 10.0,
       "number": 11
     },
     {
-      "date": "2027-04-18",
+      "paymentDate": "2027-04-18",
       "previousDate": "2027-01-18",
       "referenceDate": "2027-04-12",
-      "rate": 10.0,
+      "couponRate": 10.0,
       "number": 12
     },
     {
-      "date": "2027-07-18",
+      "paymentDate": "2027-07-18",
       "previousDate": "2027-04-18",
       "referenceDate": "2027-07-12",
-      "rate": 10.0,
+      "couponRate": 10.0,
       "number": 13
     },
     {
-      "date": "2027-10-18",
+      "paymentDate": "2027-10-18",
       "previousDate": "2027-07-18",
       "referenceDate": "2027-10-11",
-      "rate": 10.0,
+      "couponRate": 10.0,
       "number": 14
     },
     {
-      "date": "2028-01-18",
+      "paymentDate": "2028-01-18",
       "previousDate": "2027-10-18",
       "referenceDate": "2028-01-11",
-      "rate": 10.0,
+      "couponRate": 10.0,
       "number": 15
     },
     {
-      "date": "2028-04-18",
+      "paymentDate": "2028-04-18",
       "previousDate": "2028-01-18",
       "referenceDate": "2028-04-11",
-      "rate": 10.0,
+      "couponRate": 10.0,
       "number": 16
     }
   ],
-  "couponCount": 16,
   "principalRepayments": [
     {
       "date": "2028-04-11",

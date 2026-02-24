@@ -1,6 +1,6 @@
 {
   "symbol": "R2707C",
-  "lastUpdated": "2026-02-24T18:09:20Z",
+  "fetchedAt": "2026-02-24T20:25:45Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,23 +11,25 @@
     "maturityDate": "2027-07-16",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 7.25,
+  "frequency": 1,
+  "couponCount": 2,
+  "payments": [
     {
-      "date": "2026-07-16",
+      "paymentDate": "2026-07-16",
       "previousDate": "2025-07-16",
       "referenceDate": "2026-07-07",
-      "rate": 7.25,
+      "couponRate": 7.25,
       "number": 1
     },
     {
-      "date": "2027-07-16",
+      "paymentDate": "2027-07-16",
       "previousDate": "2026-07-16",
       "referenceDate": "2027-07-07",
-      "rate": 7.25,
+      "couponRate": 7.25,
       "number": 2
     }
   ],
-  "couponCount": 2,
   "principalRepayments": [
     {
       "date": "2027-07-07",

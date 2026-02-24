@@ -1,6 +1,6 @@
 {
   "symbol": "EL30E",
-  "lastUpdated": "2026-02-24T18:03:33Z",
+  "fetchedAt": "2026-02-24T20:20:13Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
@@ -11,44 +11,46 @@
     "issueDate": "2025-07-14",
     "maturityDate": "2030-07-14"
   },
-  "couponDates": [
+  "annualRate": 4.375,
+  "frequency": 1,
+  "couponCount": 5,
+  "payments": [
     {
-      "date": "2026-06-30",
+      "paymentDate": "2026-06-30",
       "previousDate": "2025-07-14",
       "referenceDate": "2026-06-29",
-      "rate": 4.375,
+      "couponRate": 4.375,
       "number": 1
     },
     {
-      "date": "2027-06-30",
+      "paymentDate": "2027-06-30",
       "previousDate": "2026-07-14",
       "referenceDate": "2027-06-29",
-      "rate": 4.375,
+      "couponRate": 4.375,
       "number": 2
     },
     {
-      "date": "2028-06-30",
+      "paymentDate": "2028-06-30",
       "previousDate": "2027-07-14",
       "referenceDate": "2028-06-29",
-      "rate": 4.375,
+      "couponRate": 4.375,
       "number": 3
     },
     {
-      "date": "2029-07-02",
+      "paymentDate": "2029-07-02",
       "previousDate": "2028-07-14",
       "referenceDate": "2029-06-29",
-      "rate": 4.375,
+      "couponRate": 4.375,
       "number": 4
     },
     {
-      "date": "2030-07-02",
+      "paymentDate": "2030-07-02",
       "previousDate": "2029-07-14",
       "referenceDate": "2030-07-01",
-      "rate": 4.375,
+      "couponRate": 4.375,
       "number": 5
     }
   ],
-  "couponCount": 5,
   "principalRepayments": [
     {
       "date": "2030-07-01",

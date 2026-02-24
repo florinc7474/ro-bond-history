@@ -1,6 +1,6 @@
 {
   "symbol": "OMRO26",
-  "lastUpdated": "2026-02-24T18:05:41Z",
+  "fetchedAt": "2026-02-24T20:22:15Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
@@ -11,79 +11,81 @@
     "issueDate": "2022-02-01",
     "maturityDate": "2027-02-01"
   },
-  "couponDates": [
+  "annualRate": 9.5,
+  "frequency": 1,
+  "couponCount": 10,
+  "payments": [
     {
-      "date": "2022-08-01",
+      "paymentDate": "2022-08-01",
       "previousDate": "2022-02-01",
       "referenceDate": "2022-07-18",
-      "rate": 9.5,
+      "couponRate": 9.5,
       "number": 1
     },
     {
-      "date": "2023-02-01",
+      "paymentDate": "2023-02-01",
       "previousDate": "2022-08-01",
       "referenceDate": "2023-01-17",
-      "rate": 9.5,
+      "couponRate": 9.5,
       "number": 2
     },
     {
-      "date": "2023-08-01",
+      "paymentDate": "2023-08-01",
       "previousDate": "2023-02-01",
       "referenceDate": "2023-07-18",
-      "rate": 9.5,
+      "couponRate": 9.5,
       "number": 3
     },
     {
-      "date": "2024-02-01",
+      "paymentDate": "2024-02-01",
       "previousDate": "2023-08-01",
       "referenceDate": "2024-01-17",
-      "rate": 9.5,
+      "couponRate": 9.5,
       "number": 4
     },
     {
-      "date": "2024-08-01",
+      "paymentDate": "2024-08-01",
       "previousDate": "2024-02-01",
       "referenceDate": "2024-07-18",
-      "rate": 9.5,
+      "couponRate": 9.5,
       "number": 5
     },
     {
-      "date": "2025-02-01",
+      "paymentDate": "2025-02-01",
       "previousDate": "2024-08-01",
       "referenceDate": "2025-01-16",
-      "rate": 9.5,
+      "couponRate": 9.5,
       "number": 6
     },
     {
-      "date": "2025-08-01",
+      "paymentDate": "2025-08-01",
       "previousDate": "2025-02-01",
       "referenceDate": "2025-07-18",
-      "rate": 9.5,
+      "couponRate": 9.5,
       "number": 7
     },
     {
-      "date": "2026-02-01",
+      "paymentDate": "2026-02-01",
       "previousDate": "2025-08-01",
       "referenceDate": "2026-01-16",
-      "rate": 9.5,
+      "couponRate": 9.5,
       "number": 8
     },
     {
-      "date": "2026-08-01",
+      "paymentDate": "2026-08-01",
       "previousDate": "2026-02-01",
       "referenceDate": "2026-07-17",
-      "rate": 9.5,
+      "couponRate": 9.5,
       "number": 9
     },
     {
-      "date": "2027-02-01",
+      "paymentDate": "2027-02-01",
       "previousDate": "2026-08-01",
       "referenceDate": "2027-01-18",
-      "rate": 9.5,
+      "couponRate": 9.5,
       "number": 10
     }
   ],
-  "couponCount": 10,
   "principalRepayments": [
     {
       "date": "2027-01-18",

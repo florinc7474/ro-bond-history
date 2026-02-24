@@ -1,6 +1,6 @@
 {
   "symbol": "R2712D",
-  "lastUpdated": "2026-02-24T18:10:43Z",
+  "fetchedAt": "2026-02-24T20:27:04Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,23 +11,25 @@
     "maturityDate": "2027-12-17",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 7.55,
+  "frequency": 1,
+  "couponCount": 2,
+  "payments": [
     {
-      "date": "2026-12-17",
+      "paymentDate": "2026-12-17",
       "previousDate": "2025-12-17",
       "referenceDate": "2026-12-08",
-      "rate": 7.55,
+      "couponRate": 7.55,
       "number": 1
     },
     {
-      "date": "2027-12-17",
+      "paymentDate": "2027-12-17",
       "previousDate": "2026-12-17",
       "referenceDate": "2027-12-08",
-      "rate": 7.55,
+      "couponRate": 7.55,
       "number": 2
     }
   ],
-  "couponCount": 2,
   "principalRepayments": [
     {
       "date": "2027-12-08",

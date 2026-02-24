@@ -1,6 +1,6 @@
 {
   "symbol": "R2704AE",
-  "lastUpdated": "2026-02-24T18:08:31Z",
+  "fetchedAt": "2026-02-24T20:24:58Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,23 +11,25 @@
     "maturityDate": "2027-04-16",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 3.6,
+  "frequency": 1,
+  "couponCount": 2,
+  "payments": [
     {
-      "date": "2026-04-16",
+      "paymentDate": "2026-04-16",
       "previousDate": "2025-04-16",
       "referenceDate": "2026-04-03",
-      "rate": 3.6,
+      "couponRate": 3.6,
       "number": 1
     },
     {
-      "date": "2027-04-16",
+      "paymentDate": "2027-04-16",
       "previousDate": "2026-04-16",
       "referenceDate": "2027-04-07",
-      "rate": 3.6,
+      "couponRate": 3.6,
       "number": 2
     }
   ],
-  "couponCount": 2,
   "principalRepayments": [
     {
       "date": "2027-04-07",

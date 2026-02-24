@@ -1,6 +1,6 @@
 {
   "symbol": "R2803A",
-  "lastUpdated": "2026-02-24T18:11:16Z",
+  "fetchedAt": "2026-02-24T20:27:35Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,30 +11,32 @@
     "maturityDate": "2028-03-19",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 7.5,
+  "frequency": 1,
+  "couponCount": 3,
+  "payments": [
     {
-      "date": "2026-03-19",
+      "paymentDate": "2026-03-19",
       "previousDate": "2025-03-19",
       "referenceDate": "2026-03-10",
-      "rate": 7.5,
+      "couponRate": 7.5,
       "number": 1
     },
     {
-      "date": "2027-03-19",
+      "paymentDate": "2027-03-19",
       "previousDate": "2026-03-19",
       "referenceDate": "2027-03-10",
-      "rate": 7.5,
+      "couponRate": 7.5,
       "number": 2
     },
     {
-      "date": "2028-03-19",
+      "paymentDate": "2028-03-19",
       "previousDate": "2027-03-19",
       "referenceDate": "2028-03-09",
-      "rate": 7.5,
+      "couponRate": 7.5,
       "number": 3
     }
   ],
-  "couponCount": 3,
   "principalRepayments": [
     {
       "date": "2028-03-09",

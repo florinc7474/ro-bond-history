@@ -1,6 +1,6 @@
 {
   "symbol": "BCR26",
-  "lastUpdated": "2026-02-24T18:01:46Z",
+  "fetchedAt": "2026-02-24T20:18:31Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
@@ -11,58 +11,60 @@
     "issueDate": "2019-12-16",
     "maturityDate": "2026-12-16"
   },
-  "couponDates": [
+  "annualRate": 5.35,
+  "frequency": 1,
+  "couponCount": 7,
+  "payments": [
     {
-      "date": "2020-12-16",
+      "paymentDate": "2020-12-16",
       "previousDate": "2019-12-16",
       "referenceDate": "2020-12-14",
-      "rate": 5.35,
+      "couponRate": 5.35,
       "number": 1
     },
     {
-      "date": "2021-12-16",
+      "paymentDate": "2021-12-16",
       "previousDate": "2020-12-16",
       "referenceDate": "2021-12-14",
-      "rate": 5.35,
+      "couponRate": 5.35,
       "number": 2
     },
     {
-      "date": "2022-12-16",
+      "paymentDate": "2022-12-16",
       "previousDate": "2021-12-16",
       "referenceDate": "2022-12-14",
-      "rate": 5.35,
+      "couponRate": 5.35,
       "number": 3
     },
     {
-      "date": "2023-12-16",
+      "paymentDate": "2023-12-16",
       "previousDate": "2022-12-16",
       "referenceDate": "2023-12-14",
-      "rate": 5.35,
+      "couponRate": 5.35,
       "number": 4
     },
     {
-      "date": "2024-12-16",
+      "paymentDate": "2024-12-16",
       "previousDate": "2023-12-16",
       "referenceDate": "2024-12-12",
-      "rate": 5.35,
+      "couponRate": 5.35,
       "number": 5
     },
     {
-      "date": "2025-12-16",
+      "paymentDate": "2025-12-16",
       "previousDate": "2024-12-16",
       "referenceDate": "2025-12-12",
-      "rate": 5.35,
+      "couponRate": 5.35,
       "number": 6
     },
     {
-      "date": "2026-12-16",
+      "paymentDate": "2026-12-16",
       "previousDate": "2025-12-16",
       "referenceDate": "2026-12-14",
-      "rate": 5.35,
+      "couponRate": 5.35,
       "number": 7
     }
   ],
-  "couponCount": 7,
   "principalRepayments": [
     {
       "date": "2026-12-14",

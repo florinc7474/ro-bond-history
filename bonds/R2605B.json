@@ -1,6 +1,6 @@
 {
   "symbol": "R2605B",
-  "lastUpdated": "2026-02-24T18:07:31Z",
+  "fetchedAt": "2026-02-24T20:24:00Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,16 +11,18 @@
     "maturityDate": "2026-05-21",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 7.75,
+  "frequency": 1,
+  "couponCount": 1,
+  "payments": [
     {
-      "date": "2026-05-21",
+      "paymentDate": "2026-05-21",
       "previousDate": "2025-05-21",
       "referenceDate": "2026-05-12",
-      "rate": 7.75,
+      "couponRate": 7.75,
       "number": 1
     }
   ],
-  "couponCount": 1,
   "principalRepayments": [
     {
       "date": "2026-05-12",

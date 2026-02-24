@@ -1,6 +1,6 @@
 {
   "symbol": "R3012AE",
-  "lastUpdated": "2026-02-24T18:14:50Z",
+  "fetchedAt": "2026-02-24T20:30:58Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,44 +11,46 @@
     "maturityDate": "2030-12-17",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 4.75,
+  "frequency": 1,
+  "couponCount": 5,
+  "payments": [
     {
-      "date": "2026-12-17",
+      "paymentDate": "2026-12-17",
       "previousDate": "2025-12-17",
       "referenceDate": "2026-12-08",
-      "rate": 4.75,
+      "couponRate": 4.75,
       "number": 1
     },
     {
-      "date": "2027-12-17",
+      "paymentDate": "2027-12-17",
       "previousDate": "2026-12-17",
       "referenceDate": "2027-12-08",
-      "rate": 4.75,
+      "couponRate": 4.75,
       "number": 2
     },
     {
-      "date": "2028-12-17",
+      "paymentDate": "2028-12-17",
       "previousDate": "2027-12-17",
       "referenceDate": "2028-12-07",
-      "rate": 4.75,
+      "couponRate": 4.75,
       "number": 3
     },
     {
-      "date": "2029-12-17",
+      "paymentDate": "2029-12-17",
       "previousDate": "2028-12-17",
       "referenceDate": "2029-12-06",
-      "rate": 4.75,
+      "couponRate": 4.75,
       "number": 4
     },
     {
-      "date": "2030-12-17",
+      "paymentDate": "2030-12-17",
       "previousDate": "2029-12-17",
       "referenceDate": "2030-12-06",
-      "rate": 4.75,
+      "couponRate": 4.75,
       "number": 5
     }
   ],
-  "couponCount": 5,
   "principalRepayments": [
     {
       "date": "2030-12-06",

@@ -1,6 +1,6 @@
 {
   "symbol": "AGR28",
-  "lastUpdated": "2026-02-24T18:00:29Z",
+  "fetchedAt": "2026-02-24T20:17:17Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
@@ -11,65 +11,67 @@
     "issueDate": "2024-10-02",
     "maturityDate": "2028-10-02"
   },
-  "couponDates": [
+  "annualRate": 9.75,
+  "frequency": 1,
+  "couponCount": 8,
+  "payments": [
     {
-      "date": "2025-04-02",
+      "paymentDate": "2025-04-02",
       "previousDate": "2024-10-02",
       "referenceDate": "2025-03-19",
-      "rate": 9.75,
+      "couponRate": 9.75,
       "number": 1
     },
     {
-      "date": "2025-10-02",
+      "paymentDate": "2025-10-02",
       "previousDate": "2025-04-02",
       "referenceDate": "2025-09-18",
-      "rate": 9.75,
+      "couponRate": 9.75,
       "number": 2
     },
     {
-      "date": "2026-04-02",
+      "paymentDate": "2026-04-02",
       "previousDate": "2025-10-02",
       "referenceDate": "2026-03-19",
-      "rate": 9.75,
+      "couponRate": 9.75,
       "number": 3
     },
     {
-      "date": "2026-10-02",
+      "paymentDate": "2026-10-02",
       "previousDate": "2026-04-02",
       "referenceDate": "2026-09-18",
-      "rate": 9.75,
+      "couponRate": 9.75,
       "number": 4
     },
     {
-      "date": "2027-04-02",
+      "paymentDate": "2027-04-02",
       "previousDate": "2026-10-02",
       "referenceDate": "2027-03-19",
-      "rate": 9.75,
+      "couponRate": 9.75,
       "number": 5
     },
     {
-      "date": "2027-10-02",
+      "paymentDate": "2027-10-02",
       "previousDate": "2027-04-02",
       "referenceDate": "2027-09-20",
-      "rate": 9.75,
+      "couponRate": 9.75,
       "number": 6
     },
     {
-      "date": "2028-04-02",
+      "paymentDate": "2028-04-02",
       "previousDate": "2027-10-02",
       "referenceDate": "2028-03-20",
-      "rate": 9.75,
+      "couponRate": 9.75,
       "number": 7
     },
     {
-      "date": "2028-10-02",
+      "paymentDate": "2028-10-02",
       "previousDate": "2028-04-02",
       "referenceDate": "2028-09-18",
-      "rate": 9.75,
+      "couponRate": 9.75,
       "number": 8
     }
   ],
-  "couponCount": 8,
   "principalRepayments": [
     {
       "date": "2028-09-18",

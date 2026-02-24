@@ -1,6 +1,6 @@
 {
   "symbol": "RBRO27",
-  "lastUpdated": "2026-02-24T18:17:16Z",
+  "fetchedAt": "2026-02-24T20:33:19Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
@@ -11,44 +11,46 @@
     "issueDate": "2022-06-15",
     "maturityDate": "2027-06-15"
   },
-  "couponDates": [
+  "annualRate": 8.927,
+  "frequency": 1,
+  "couponCount": 5,
+  "payments": [
     {
-      "date": "2023-06-15",
+      "paymentDate": "2023-06-15",
       "previousDate": "2022-06-15",
       "referenceDate": "2023-05-31",
-      "rate": 8.927,
+      "couponRate": 8.927,
       "number": 1
     },
     {
-      "date": "2024-06-15",
+      "paymentDate": "2024-06-15",
       "previousDate": "2023-06-15",
       "referenceDate": "2024-05-31",
-      "rate": 8.927,
+      "couponRate": 8.927,
       "number": 2
     },
     {
-      "date": "2025-06-15",
+      "paymentDate": "2025-06-15",
       "previousDate": "2024-06-15",
       "referenceDate": "2025-05-30",
-      "rate": 8.927,
+      "couponRate": 8.927,
       "number": 3
     },
     {
-      "date": "2026-06-15",
+      "paymentDate": "2026-06-15",
       "previousDate": "2025-06-15",
       "referenceDate": "2026-05-29",
-      "rate": 8.927,
+      "couponRate": 8.927,
       "number": 4
     },
     {
-      "date": "2027-06-15",
+      "paymentDate": "2027-06-15",
       "previousDate": "2026-06-15",
       "referenceDate": "2027-05-31",
-      "rate": 8.927,
+      "couponRate": 8.927,
       "number": 5
     }
   ],
-  "couponCount": 5,
   "principalRepayments": [
     {
       "date": "2027-05-31",

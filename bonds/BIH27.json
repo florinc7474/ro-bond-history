@@ -1,6 +1,6 @@
 {
   "symbol": "BIH27",
-  "lastUpdated": "2026-02-24T18:02:43Z",
+  "fetchedAt": "2026-02-24T20:19:25Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,247 +11,249 @@
     "maturityDate": "2027-12-15",
     "couponFrequency": 2
   },
-  "couponDates": [
+  "annualRate": null,
+  "frequency": 2,
+  "couponCount": 34,
+  "payments": [
     {
-      "date": "2011-06-15",
+      "paymentDate": "2011-06-15",
       "previousDate": "2011-01-05",
       "referenceDate": "2011-06-10",
-      "rate": 7.39,
+      "couponRate": 7.39,
       "number": 1
     },
     {
-      "date": "2011-12-15",
+      "paymentDate": "2011-12-15",
       "previousDate": "2011-06-15",
       "referenceDate": "2011-12-12",
-      "rate": 6.76,
+      "couponRate": 6.76,
       "number": 2
     },
     {
-      "date": "2012-06-15",
+      "paymentDate": "2012-06-15",
       "previousDate": "2011-12-15",
       "referenceDate": "2012-06-12",
-      "rate": 7.08,
+      "couponRate": 7.08,
       "number": 3
     },
     {
-      "date": "2012-12-14",
+      "paymentDate": "2012-12-14",
       "previousDate": "2012-06-15",
       "referenceDate": "2012-12-11",
-      "rate": 5.87,
+      "couponRate": 5.87,
       "number": 4
     },
     {
-      "date": "2013-06-14",
+      "paymentDate": "2013-06-14",
       "previousDate": "2012-12-14",
       "referenceDate": "2013-06-11",
-      "rate": 6.7,
+      "couponRate": 6.7,
       "number": 5
     },
     {
-      "date": "2013-12-16",
+      "paymentDate": "2013-12-16",
       "previousDate": "2013-06-14",
       "referenceDate": "2013-12-11",
-      "rate": 5.2,
+      "couponRate": 5.2,
       "number": 6
     },
     {
-      "date": "2014-06-16",
+      "paymentDate": "2014-06-16",
       "previousDate": "2013-12-16",
       "referenceDate": "2014-06-11",
-      "rate": 3.53,
+      "couponRate": 3.53,
       "number": 7
     },
     {
-      "date": "2014-12-15",
+      "paymentDate": "2014-12-15",
       "previousDate": "2014-06-16",
       "referenceDate": "2014-12-10",
-      "rate": 3.33,
+      "couponRate": 3.33,
       "number": 8
     },
     {
-      "date": "2015-06-15",
+      "paymentDate": "2015-06-15",
       "previousDate": "2014-12-15",
       "referenceDate": "2015-06-10",
-      "rate": 2.37,
+      "couponRate": 2.37,
       "number": 9
     },
     {
-      "date": "2015-12-15",
+      "paymentDate": "2015-12-15",
       "previousDate": "2015-06-15",
       "referenceDate": "2015-12-10",
-      "rate": 1.91,
+      "couponRate": 1.91,
       "number": 10
     },
     {
-      "date": "2016-06-15",
+      "paymentDate": "2016-06-15",
       "previousDate": "2015-12-15",
       "referenceDate": "2016-06-10",
-      "rate": 1.74,
+      "couponRate": 1.74,
       "number": 11
     },
     {
-      "date": "2016-12-15",
+      "paymentDate": "2016-12-15",
       "previousDate": "2016-06-15",
       "referenceDate": "2016-12-12",
-      "rate": 1.41,
+      "couponRate": 1.41,
       "number": 12
     },
     {
-      "date": "2017-06-15",
+      "paymentDate": "2017-06-15",
       "previousDate": "2016-12-15",
       "referenceDate": "2017-06-12",
-      "rate": 1.45,
+      "couponRate": 1.45,
       "number": 13
     },
     {
-      "date": "2017-12-15",
+      "paymentDate": "2017-12-15",
       "previousDate": "2017-06-15",
       "referenceDate": "2017-12-12",
-      "rate": 1.41,
+      "couponRate": 1.41,
       "number": 14
     },
     {
-      "date": "2018-06-15",
+      "paymentDate": "2018-06-15",
       "previousDate": "2017-12-15",
       "referenceDate": "2018-06-12",
-      "rate": 2.71,
+      "couponRate": 2.71,
       "number": 15
     },
     {
-      "date": "2018-12-14",
+      "paymentDate": "2018-12-14",
       "previousDate": "2018-06-15",
       "referenceDate": "2018-12-11",
-      "rate": 3.4,
+      "couponRate": 3.4,
       "number": 16
     },
     {
-      "date": "2019-06-14",
+      "paymentDate": "2019-06-14",
       "previousDate": "2018-12-14",
       "referenceDate": "2019-06-11",
-      "rate": 3.75,
+      "couponRate": 3.75,
       "number": 17
     },
     {
-      "date": "2019-12-16",
+      "paymentDate": "2019-12-16",
       "previousDate": "2019-06-14",
       "referenceDate": "2019-12-11",
-      "rate": 3.77,
+      "couponRate": 3.77,
       "number": 18
     },
     {
-      "date": "2020-06-15",
+      "paymentDate": "2020-06-15",
       "previousDate": "2019-12-16",
       "referenceDate": "2020-06-10",
-      "rate": 3.53,
+      "couponRate": 3.53,
       "number": 19
     },
     {
-      "date": "2020-12-15",
+      "paymentDate": "2020-12-15",
       "previousDate": "2020-06-15",
       "referenceDate": "2020-12-10",
-      "rate": 2.73,
+      "couponRate": 2.73,
       "number": 20
     },
     {
-      "date": "2021-06-15",
+      "paymentDate": "2021-06-15",
       "previousDate": "2020-12-15",
       "referenceDate": "2021-06-10",
-      "rate": 2.51,
+      "couponRate": 2.51,
       "number": 21
     },
     {
-      "date": "2021-12-15",
+      "paymentDate": "2021-12-15",
       "previousDate": "2021-06-15",
       "referenceDate": "2021-12-10",
-      "rate": 2.02,
+      "couponRate": 2.02,
       "number": 22
     },
     {
-      "date": "2022-06-15",
+      "paymentDate": "2022-06-15",
       "previousDate": "2021-12-15",
       "referenceDate": "2022-06-10",
-      "rate": 3.32,
+      "couponRate": 3.32,
       "number": 23
     },
     {
-      "date": "2022-12-15",
+      "paymentDate": "2022-12-15",
       "previousDate": "2022-06-15",
       "referenceDate": "2022-12-12",
-      "rate": 6.68,
+      "couponRate": 6.68,
       "number": 24
     },
     {
-      "date": "2023-06-15",
+      "paymentDate": "2023-06-15",
       "previousDate": "2022-12-15",
       "referenceDate": "2023-06-12",
-      "rate": 8.28,
+      "couponRate": 8.28,
       "number": 25
     },
     {
-      "date": "2023-12-15",
+      "paymentDate": "2023-12-15",
       "previousDate": "2023-06-15",
       "referenceDate": "2023-12-12",
-      "rate": 7.04,
+      "couponRate": 7.04,
       "number": 26
     },
     {
-      "date": "2024-06-14",
+      "paymentDate": "2024-06-14",
       "previousDate": "2023-12-15",
       "referenceDate": "2024-06-11",
-      "rate": 6.71,
+      "couponRate": 6.71,
       "number": 27
     },
     {
-      "date": "2024-12-16",
+      "paymentDate": "2024-12-16",
       "previousDate": "2024-06-14",
       "referenceDate": "2024-12-11",
-      "rate": 6.45,
+      "couponRate": 6.45,
       "number": 28
     },
     {
-      "date": "2025-06-16",
+      "paymentDate": "2025-06-16",
       "previousDate": "2024-12-16",
       "referenceDate": "2025-06-11",
-      "rate": 6.37,
+      "couponRate": 6.37,
       "number": 29
     },
     {
-      "date": "2025-12-15",
+      "paymentDate": "2025-12-15",
       "previousDate": "2025-06-16",
       "referenceDate": "2025-12-10",
-      "rate": 7.62,
+      "couponRate": 7.62,
       "number": 30
     },
     {
-      "date": "2026-06-15",
+      "paymentDate": "2026-06-15",
       "previousDate": "2025-12-15",
       "referenceDate": "2026-06-10",
-      "rate": 6.74,
+      "couponRate": 6.74,
       "number": 31
     },
     {
-      "date": "2026-12-15",
+      "paymentDate": "2026-12-15",
       "previousDate": "2026-06-15",
       "referenceDate": "2026-12-10",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 32
     },
     {
-      "date": "2027-06-15",
+      "paymentDate": "2027-06-15",
       "previousDate": "2026-12-15",
       "referenceDate": "2027-06-10",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 33
     },
     {
-      "date": "2027-12-15",
+      "paymentDate": "2027-12-15",
       "previousDate": "2027-06-15",
       "referenceDate": "2027-12-10",
-      "rate": 0.0,
+      "couponRate": 0.0,
       "number": 34
     }
   ],
-  "couponCount": 34,
   "principalRepayments": [
     {
       "date": "2011-06-10",

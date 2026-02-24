@@ -1,6 +1,6 @@
 {
   "symbol": "R2908C",
-  "lastUpdated": "2026-02-24T18:13:00Z",
+  "fetchedAt": "2026-02-24T20:29:14Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -11,37 +11,39 @@
     "maturityDate": "2029-08-13",
     "couponFrequency": 1
   },
-  "couponDates": [
+  "annualRate": 7.65,
+  "frequency": 1,
+  "couponCount": 4,
+  "payments": [
     {
-      "date": "2026-08-13",
+      "paymentDate": "2026-08-13",
       "previousDate": "2025-08-13",
       "referenceDate": "2026-08-04",
-      "rate": 7.65,
+      "couponRate": 7.65,
       "number": 1
     },
     {
-      "date": "2027-08-13",
+      "paymentDate": "2027-08-13",
       "previousDate": "2026-08-13",
       "referenceDate": "2027-08-04",
-      "rate": 7.65,
+      "couponRate": 7.65,
       "number": 2
     },
     {
-      "date": "2028-08-13",
+      "paymentDate": "2028-08-13",
       "previousDate": "2027-08-13",
       "referenceDate": "2028-08-03",
-      "rate": 7.65,
+      "couponRate": 7.65,
       "number": 3
     },
     {
-      "date": "2029-08-13",
+      "paymentDate": "2029-08-13",
       "previousDate": "2028-08-13",
       "referenceDate": "2029-08-02",
-      "rate": 7.65,
+      "couponRate": 7.65,
       "number": 4
     }
   ],
-  "couponCount": 4,
   "principalRepayments": [
     {
       "date": "2029-08-02",

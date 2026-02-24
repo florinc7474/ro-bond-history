@@ -5,6 +5,10 @@
     "R3112AE": {
       "expectedCouponCount": 7,
       "reason": "BVB CSV says 9 coupons but detail page shows 7 (correct)"
+    },
+    "BCR27": {
+      "expectedCouponCount": 5,
+      "reason": "BVB CSV says 6 coupons but detail page shows 5 (correct)"
     }
   }
 }

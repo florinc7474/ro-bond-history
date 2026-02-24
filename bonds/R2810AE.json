@@ -1,11 +1,12 @@
 {
   "symbol": "R2810AE",
-  "lastUpdated": "2026-02-22T08:31:36Z",
+  "lastUpdated": "2026-02-24T14:18:08Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
     "currency": "EUR",
     "couponRate": 5.3,
+    "interestType": "fixed",
     "issueDate": "2023-10-06",
     "maturityDate": "2028-10-06",
     "couponFrequency": 1
@@ -15,42 +16,45 @@
       "date": "2024-10-06",
       "previousDate": "2023-10-06",
       "referenceDate": "2024-09-26",
-      "rate": 1.0,
+      "rate": 5.3,
       "number": 1
     },
     {
       "date": "2025-10-06",
       "previousDate": "2024-10-06",
       "referenceDate": "2025-09-25",
-      "rate": 2.0,
+      "rate": 5.3,
       "number": 2
     },
     {
       "date": "2026-10-06",
       "previousDate": "2025-10-06",
       "referenceDate": "2026-09-25",
-      "rate": 3.0,
+      "rate": 5.3,
       "number": 3
     },
     {
       "date": "2027-10-06",
       "previousDate": "2026-10-06",
       "referenceDate": "2027-09-27",
-      "rate": 4.0,
+      "rate": 5.3,
       "number": 4
     },
     {
       "date": "2028-10-06",
       "previousDate": "2027-10-06",
       "referenceDate": "2028-09-27",
-      "rate": 5.0,
+      "rate": 5.3,
       "number": 5
     }
   ],
   "couponCount": 5,
   "principalRepayments": [
     {
-      "date": "2028-09-27"
+      "date": "2028-09-27",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
     }
   ]
 }

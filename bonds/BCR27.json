@@ -1,12 +1,13 @@
 {
   "symbol": "BCR27",
-  "lastUpdated": "2026-02-22T08:21:20Z",
+  "lastUpdated": "2026-02-24T14:07:49Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
     "faceValue": 500000.0,
     "currency": "RON",
     "couponRate": 6.76,
+    "interestType": "fixed",
     "issueDate": "2022-03-31",
     "maturityDate": "2027-03-31"
   },
@@ -15,42 +16,45 @@
       "date": "2023-03-31",
       "previousDate": "2022-03-31",
       "referenceDate": "2023-03-16",
-      "rate": 1.0,
+      "rate": 6.76,
       "number": 1
     },
     {
       "date": "2024-03-31",
       "previousDate": "2023-03-31",
       "referenceDate": "2024-03-18",
-      "rate": 2.0,
+      "rate": 6.76,
       "number": 2
     },
     {
       "date": "2025-03-31",
       "previousDate": "2024-03-31",
       "referenceDate": "2025-03-17",
-      "rate": 3.0,
+      "rate": 6.76,
       "number": 3
     },
     {
       "date": "2026-03-31",
       "previousDate": "2025-03-31",
       "referenceDate": "2026-03-16",
-      "rate": 4.0,
+      "rate": 6.76,
       "number": 4
     },
     {
       "date": "2027-03-31",
       "previousDate": "2026-03-31",
       "referenceDate": "2027-03-16",
-      "rate": 5.0,
+      "rate": 6.76,
       "number": 5
     }
   ],
   "couponCount": 5,
   "principalRepayments": [
     {
-      "date": "2027-03-16"
+      "date": "2027-03-16",
+      "number": 1,
+      "principal": 500000.0,
+      "repaymentAmount": 500000.0
     }
   ]
 }

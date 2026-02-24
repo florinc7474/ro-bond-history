@@ -1,11 +1,12 @@
 {
   "symbol": "R3108A",
-  "lastUpdated": "2026-02-22T08:35:08Z",
+  "lastUpdated": "2026-02-24T14:21:42Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
     "currency": "RON",
     "couponRate": 7.9,
+    "interestType": "fixed",
     "issueDate": "2025-08-13",
     "maturityDate": "2031-08-13",
     "couponFrequency": 1
@@ -15,49 +16,52 @@
       "date": "2026-08-13",
       "previousDate": "2025-08-13",
       "referenceDate": "2026-08-04",
-      "rate": 1.0,
+      "rate": 7.9,
       "number": 1
     },
     {
       "date": "2027-08-13",
       "previousDate": "2026-08-13",
       "referenceDate": "2027-08-04",
-      "rate": 2.0,
+      "rate": 7.9,
       "number": 2
     },
     {
       "date": "2028-08-13",
       "previousDate": "2027-08-13",
       "referenceDate": "2028-08-03",
-      "rate": 3.0,
+      "rate": 7.9,
       "number": 3
     },
     {
       "date": "2029-08-13",
       "previousDate": "2028-08-13",
       "referenceDate": "2029-08-02",
-      "rate": 4.0,
+      "rate": 7.9,
       "number": 4
     },
     {
       "date": "2030-08-13",
       "previousDate": "2029-08-13",
       "referenceDate": "2030-08-02",
-      "rate": 5.0,
+      "rate": 7.9,
       "number": 5
     },
     {
       "date": "2031-08-13",
       "previousDate": "2030-08-13",
       "referenceDate": "2031-08-04",
-      "rate": 6.0,
+      "rate": 7.9,
       "number": 6
     }
   ],
   "couponCount": 6,
   "principalRepayments": [
     {
-      "date": "2031-08-04"
+      "date": "2031-08-04",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
     }
   ]
 }

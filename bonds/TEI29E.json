@@ -1,12 +1,13 @@
 {
   "symbol": "TEI29E",
-  "lastUpdated": "2026-02-22T08:38:36Z",
+  "lastUpdated": "2026-02-24T14:25:11Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
     "faceValue": 100.0,
     "currency": "EUR",
     "couponRate": 8.5,
+    "interestType": "fixed",
     "issueDate": "2024-10-30",
     "maturityDate": "2029-10-30"
   },
@@ -15,77 +16,80 @@
       "date": "2025-04-30",
       "previousDate": "2024-10-30",
       "referenceDate": "2025-04-14",
-      "rate": 1.0,
+      "rate": 8.5,
       "number": 1
     },
     {
       "date": "2025-10-30",
       "previousDate": "2025-04-30",
       "referenceDate": "2025-10-16",
-      "rate": 2.0,
+      "rate": 8.5,
       "number": 2
     },
     {
       "date": "2026-04-30",
       "previousDate": "2025-10-30",
       "referenceDate": "2026-04-16",
-      "rate": 3.0,
+      "rate": 8.5,
       "number": 3
     },
     {
       "date": "2026-10-30",
       "previousDate": "2026-04-30",
       "referenceDate": "2026-10-16",
-      "rate": 4.0,
+      "rate": 8.5,
       "number": 4
     },
     {
       "date": "2027-04-30",
       "previousDate": "2026-10-30",
       "referenceDate": "2027-04-16",
-      "rate": 5.0,
+      "rate": 8.5,
       "number": 5
     },
     {
       "date": "2027-10-30",
       "previousDate": "2027-04-30",
       "referenceDate": "2027-10-18",
-      "rate": 6.0,
+      "rate": 8.5,
       "number": 6
     },
     {
       "date": "2028-04-30",
       "previousDate": "2027-10-30",
       "referenceDate": "2028-04-13",
-      "rate": 7.0,
+      "rate": 8.5,
       "number": 7
     },
     {
       "date": "2028-10-30",
       "previousDate": "2028-04-30",
       "referenceDate": "2028-10-16",
-      "rate": 8.0,
+      "rate": 8.5,
       "number": 8
     },
     {
       "date": "2029-04-30",
       "previousDate": "2028-10-30",
       "referenceDate": "2029-04-16",
-      "rate": 9.0,
+      "rate": 8.5,
       "number": 9
     },
     {
       "date": "2029-10-30",
       "previousDate": "2029-04-30",
       "referenceDate": "2029-10-16",
-      "rate": 10.0,
+      "rate": 8.5,
       "number": 10
     }
   ],
   "couponCount": 10,
   "principalRepayments": [
     {
-      "date": "2029-10-16"
+      "date": "2029-10-16",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
     }
   ]
 }

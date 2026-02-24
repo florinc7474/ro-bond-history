@@ -1,6 +1,6 @@
 {
   "symbol": "PRD26",
-  "lastUpdated": "2026-02-22T08:26:40Z",
+  "lastUpdated": "2026-02-24T14:13:07Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
@@ -14,401 +14,518 @@
       "date": "2006-11-15",
       "previousDate": "2006-06-22",
       "referenceDate": "2006-11-09",
-      "rate": 1.0,
+      "rate": 8.5,
       "number": 1
     },
     {
       "date": "2007-05-15",
       "previousDate": "2006-11-15",
       "referenceDate": "2007-05-09",
-      "rate": 2.0,
+      "rate": 9.5,
       "number": 2
     },
     {
       "date": "2007-11-15",
       "previousDate": "2007-05-15",
       "referenceDate": "2007-11-09",
-      "rate": 3.0,
+      "rate": 8.5,
       "number": 3
     },
     {
       "date": "2008-05-15",
       "previousDate": "2007-11-15",
       "referenceDate": "2008-05-09",
-      "rate": 4.0,
+      "rate": 8.5,
       "number": 4
     },
     {
       "date": "2008-11-15",
       "previousDate": "2008-05-15",
       "referenceDate": "2008-11-09",
-      "rate": 5.0,
+      "rate": 12.5,
       "number": 5
     },
     {
       "date": "2009-05-15",
       "previousDate": "2008-11-15",
       "referenceDate": "2009-05-09",
-      "rate": 6.0,
+      "rate": 16.5,
       "number": 6
     },
     {
       "date": "2009-11-15",
       "previousDate": "2009-05-15",
       "referenceDate": "2009-11-09",
-      "rate": 7.0,
+      "rate": 13.5,
       "number": 7
     },
     {
       "date": "2010-05-15",
       "previousDate": "2009-11-15",
       "referenceDate": "2010-05-09",
-      "rate": 8.0,
+      "rate": 11.5,
       "number": 8
     },
     {
       "date": "2010-11-15",
       "previousDate": "2010-05-15",
       "referenceDate": "2010-11-09",
-      "rate": 9.0,
+      "rate": 7.5,
       "number": 9
     },
     {
       "date": "2011-05-15",
       "previousDate": "2010-11-15",
       "referenceDate": "2011-05-09",
-      "rate": 10.0,
+      "rate": 7.5,
       "number": 10
     },
     {
       "date": "2011-11-15",
       "previousDate": "2011-05-15",
       "referenceDate": "2011-11-09",
-      "rate": 11.0,
+      "rate": 7.5,
       "number": 11
     },
     {
       "date": "2012-05-15",
       "previousDate": "2011-11-15",
       "referenceDate": "2012-05-09",
-      "rate": 12.0,
+      "rate": 7.5,
       "number": 12
     },
     {
       "date": "2012-11-15",
       "previousDate": "2012-05-15",
       "referenceDate": "2012-11-09",
-      "rate": 13.0,
+      "rate": 5.5,
       "number": 13
     },
     {
       "date": "2013-05-15",
       "previousDate": "2012-11-15",
       "referenceDate": "2013-05-09",
-      "rate": 14.0,
+      "rate": 6.5,
       "number": 14
     },
     {
       "date": "2013-11-15",
       "previousDate": "2013-05-15",
       "referenceDate": "2013-11-09",
-      "rate": 15.0,
+      "rate": 5.5,
       "number": 15
     },
     {
       "date": "2014-05-15",
       "previousDate": "2013-11-15",
       "referenceDate": "2014-05-09",
-      "rate": 16.0,
+      "rate": 3.5,
       "number": 16
     },
     {
       "date": "2014-11-15",
       "previousDate": "2014-05-15",
       "referenceDate": "2014-11-09",
-      "rate": 17.0,
+      "rate": 4.5,
       "number": 17
     },
     {
       "date": "2015-05-15",
       "previousDate": "2014-11-15",
       "referenceDate": "2015-05-09",
-      "rate": 18.0,
+      "rate": 2.5,
       "number": 18
     },
     {
       "date": "2015-11-15",
       "previousDate": "2015-05-15",
       "referenceDate": "2015-11-09",
-      "rate": 19.0,
+      "rate": 2.5,
       "number": 19
     },
     {
       "date": "2016-05-15",
       "previousDate": "2015-11-15",
       "referenceDate": "2016-05-09",
-      "rate": 20.0,
+      "rate": 2.5,
       "number": 20
     },
     {
       "date": "2016-11-15",
       "previousDate": "2016-05-15",
       "referenceDate": "2016-11-09",
-      "rate": 21.0,
+      "rate": 1.5,
       "number": 21
     },
     {
       "date": "2017-05-15",
       "previousDate": "2016-11-15",
       "referenceDate": "2017-05-09",
-      "rate": 22.0,
+      "rate": 1.5,
       "number": 22
     },
     {
       "date": "2017-11-15",
       "previousDate": "2017-05-15",
       "referenceDate": "2017-11-09",
-      "rate": 23.0,
+      "rate": 1.5,
       "number": 23
     },
     {
       "date": "2018-05-15",
       "previousDate": "2017-11-15",
       "referenceDate": "2018-05-09",
-      "rate": 24.0,
+      "rate": 2.5,
       "number": 24
     },
     {
       "date": "2018-11-15",
       "previousDate": "2018-05-15",
       "referenceDate": "2018-11-09",
-      "rate": 25.0,
+      "rate": 3.5,
       "number": 25
     },
     {
       "date": "2019-05-15",
       "previousDate": "2018-11-15",
       "referenceDate": "2019-05-09",
-      "rate": 26.0,
+      "rate": 4.5,
       "number": 26
     },
     {
       "date": "2019-11-15",
       "previousDate": "2019-05-15",
       "referenceDate": "2019-11-09",
-      "rate": 27.0,
+      "rate": 4.5,
       "number": 27
     },
     {
       "date": "2020-05-15",
       "previousDate": "2019-11-15",
       "referenceDate": "2020-05-09",
-      "rate": 28.0,
+      "rate": 3.5,
       "number": 28
     },
     {
       "date": "2020-11-15",
       "previousDate": "2020-05-15",
       "referenceDate": "2020-11-09",
-      "rate": 29.0,
+      "rate": 3.5,
       "number": 29
     },
     {
       "date": "2021-05-15",
       "previousDate": "2020-11-15",
       "referenceDate": "2021-05-09",
-      "rate": 30.0,
+      "rate": 2.5,
       "number": 30
     },
     {
       "date": "2021-11-15",
       "previousDate": "2021-05-15",
       "referenceDate": "2021-11-09",
-      "rate": 31.0,
+      "rate": 2.5,
       "number": 31
     },
     {
       "date": "2022-05-15",
       "previousDate": "2021-11-15",
       "referenceDate": "2022-05-09",
-      "rate": 32.0,
+      "rate": 3.5,
       "number": 32
     },
     {
       "date": "2022-11-15",
       "previousDate": "2022-05-15",
       "referenceDate": "2022-11-09",
-      "rate": 33.0,
+      "rate": 6.5,
       "number": 33
     },
     {
       "date": "2023-05-15",
       "previousDate": "2022-11-15",
       "referenceDate": "2023-05-09",
-      "rate": 34.0,
+      "rate": 9.5,
       "number": 34
     },
     {
       "date": "2023-11-15",
       "previousDate": "2023-05-15",
       "referenceDate": "2023-11-09",
-      "rate": 35.0,
+      "rate": 7.5,
       "number": 35
     },
     {
       "date": "2024-05-15",
       "previousDate": "2023-11-15",
       "referenceDate": "2024-05-09",
-      "rate": 36.0,
+      "rate": 7.5,
       "number": 36
     },
     {
       "date": "2024-11-15",
       "previousDate": "2024-05-15",
       "referenceDate": "2024-11-09",
-      "rate": 37.0,
+      "rate": 6.5,
       "number": 37
     },
     {
       "date": "2025-05-15",
       "previousDate": "2024-11-15",
       "referenceDate": "2025-05-09",
-      "rate": 38.0,
+      "rate": 6.5,
       "number": 38
     },
     {
       "date": "2025-11-15",
       "previousDate": "2025-05-15",
       "referenceDate": "2025-11-09",
-      "rate": 39.0,
+      "rate": 7.5,
       "number": 39
     },
     {
       "date": "2026-05-15",
       "previousDate": "2025-11-15",
       "referenceDate": "2026-05-09",
-      "rate": 40.0,
+      "rate": 7.5,
       "number": 40
     }
   ],
   "couponCount": 40,
   "principalRepayments": [
     {
-      "date": "2007-05-09"
+      "date": "2007-05-09",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2007-11-09"
+      "date": "2007-11-09",
+      "number": 2,
+      "principal": 97.5,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2008-05-09"
+      "date": "2008-05-09",
+      "number": 3,
+      "principal": 95.0,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2008-11-09"
+      "date": "2008-11-09",
+      "number": 4,
+      "principal": 92.5,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2009-05-09"
+      "date": "2009-05-09",
+      "number": 5,
+      "principal": 90.0,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2009-11-09"
+      "date": "2009-11-09",
+      "number": 6,
+      "principal": 87.5,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2010-05-09"
+      "date": "2010-05-09",
+      "number": 7,
+      "principal": 85.0,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2010-11-09"
+      "date": "2010-11-09",
+      "number": 8,
+      "principal": 82.5,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2011-05-09"
+      "date": "2011-05-09",
+      "number": 9,
+      "principal": 80.0,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2011-11-09"
+      "date": "2011-11-09",
+      "number": 10,
+      "principal": 77.5,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2012-05-09"
+      "date": "2012-05-09",
+      "number": 11,
+      "principal": 75.0,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2012-11-09"
+      "date": "2012-11-09",
+      "number": 12,
+      "principal": 72.5,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2013-05-09"
+      "date": "2013-05-09",
+      "number": 13,
+      "principal": 70.0,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2013-11-09"
+      "date": "2013-11-09",
+      "number": 14,
+      "principal": 67.5,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2014-05-09"
+      "date": "2014-05-09",
+      "number": 15,
+      "principal": 65.0,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2014-11-09"
+      "date": "2014-11-09",
+      "number": 16,
+      "principal": 62.5,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2015-05-09"
+      "date": "2015-05-09",
+      "number": 17,
+      "principal": 60.0,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2015-11-09"
+      "date": "2015-11-09",
+      "number": 18,
+      "principal": 57.5,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2016-05-09"
+      "date": "2016-05-09",
+      "number": 19,
+      "principal": 55.0,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2016-11-09"
+      "date": "2016-11-09",
+      "number": 20,
+      "principal": 52.5,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2017-05-09"
+      "date": "2017-05-09",
+      "number": 21,
+      "principal": 50.0,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2017-11-09"
+      "date": "2017-11-09",
+      "number": 22,
+      "principal": 47.5,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2018-05-09"
+      "date": "2018-05-09",
+      "number": 23,
+      "principal": 45.0,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2018-11-09"
+      "date": "2018-11-09",
+      "number": 24,
+      "principal": 42.5,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2019-05-09"
+      "date": "2019-05-09",
+      "number": 25,
+      "principal": 40.0,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2019-11-09"
+      "date": "2019-11-09",
+      "number": 26,
+      "principal": 37.5,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2020-05-09"
+      "date": "2020-05-09",
+      "number": 27,
+      "principal": 35.0,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2020-11-09"
+      "date": "2020-11-09",
+      "number": 28,
+      "principal": 32.5,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2021-05-09"
+      "date": "2021-05-09",
+      "number": 29,
+      "principal": 30.0,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2021-11-09"
+      "date": "2021-11-09",
+      "number": 30,
+      "principal": 27.5,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2022-05-09"
+      "date": "2022-05-09",
+      "number": 31,
+      "principal": 25.0,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2022-11-09"
+      "date": "2022-11-09",
+      "number": 32,
+      "principal": 22.5,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2023-05-09"
+      "date": "2023-05-09",
+      "number": 33,
+      "principal": 20.0,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2023-11-09"
+      "date": "2023-11-09",
+      "number": 34,
+      "principal": 17.5,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2024-05-09"
+      "date": "2024-05-09",
+      "number": 35,
+      "principal": 15.0,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2024-11-09"
+      "date": "2024-11-09",
+      "number": 36,
+      "principal": 12.5,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2025-05-09"
+      "date": "2025-05-09",
+      "number": 37,
+      "principal": 10.0,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2025-11-09"
+      "date": "2025-11-09",
+      "number": 38,
+      "principal": 7.5,
+      "repaymentAmount": 2.5
     },
     {
-      "date": "2026-05-09"
+      "date": "2026-05-09",
+      "number": 39,
+      "principal": 5.0,
+      "repaymentAmount": 5.0
     }
   ]
 }

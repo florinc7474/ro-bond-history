@@ -1,11 +1,12 @@
 {
   "symbol": "R2904AE",
-  "lastUpdated": "2026-02-22T08:32:19Z",
+  "lastUpdated": "2026-02-24T14:18:51Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
     "currency": "EUR",
     "couponRate": 5.0,
+    "interestType": "fixed",
     "issueDate": "2024-04-22",
     "maturityDate": "2029-04-22",
     "couponFrequency": 1
@@ -15,28 +16,28 @@
       "date": "2025-04-22",
       "previousDate": "2024-04-22",
       "referenceDate": "2025-04-09",
-      "rate": 1.0,
+      "rate": 5.0,
       "number": 1
     },
     {
       "date": "2026-04-22",
       "previousDate": "2025-04-22",
       "referenceDate": "2026-04-09",
-      "rate": 2.0,
+      "rate": 5.0,
       "number": 2
     },
     {
       "date": "2027-04-22",
       "previousDate": "2026-04-22",
       "referenceDate": "2027-04-13",
-      "rate": 3.0,
+      "rate": 5.0,
       "number": 3
     },
     {
       "date": "2028-04-22",
       "previousDate": "2027-04-22",
       "referenceDate": "2028-04-11",
-      "rate": 4.0,
+      "rate": 5.0,
       "number": 4
     },
     {
@@ -50,7 +51,10 @@
   "couponCount": 5,
   "principalRepayments": [
     {
-      "date": "2029-04-12"
+      "date": "2029-04-12",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
     }
   ]
 }

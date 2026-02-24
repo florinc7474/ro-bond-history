@@ -1,12 +1,13 @@
 {
   "symbol": "MKR27E",
-  "lastUpdated": "2026-02-22T08:25:08Z",
+  "lastUpdated": "2026-02-24T14:11:37Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
     "faceValue": 100.0,
     "currency": "EUR",
     "couponRate": 12.0,
+    "interestType": "fixed",
     "issueDate": "2024-02-02",
     "maturityDate": "2027-02-02"
   },
@@ -15,77 +16,77 @@
       "date": "2024-03-31",
       "previousDate": "2024-02-02",
       "referenceDate": "2024-03-18",
-      "rate": 1.0,
+      "rate": 12.0,
       "number": 1
     },
     {
       "date": "2024-06-30",
       "previousDate": "2024-03-31",
       "referenceDate": "2024-06-17",
-      "rate": 2.0,
+      "rate": 12.0,
       "number": 2
     },
     {
       "date": "2024-09-30",
       "previousDate": "2024-06-30",
       "referenceDate": "2024-09-16",
-      "rate": 3.0,
+      "rate": 12.0,
       "number": 3
     },
     {
       "date": "2024-12-31",
       "previousDate": "2024-09-30",
       "referenceDate": "2024-12-17",
-      "rate": 4.0,
+      "rate": 12.0,
       "number": 4
     },
     {
       "date": "2025-03-31",
       "previousDate": "2024-12-31",
       "referenceDate": "2025-03-17",
-      "rate": 5.0,
+      "rate": 12.0,
       "number": 5
     },
     {
       "date": "2025-06-30",
       "previousDate": "2025-03-31",
       "referenceDate": "2025-06-16",
-      "rate": 6.0,
+      "rate": 12.0,
       "number": 6
     },
     {
       "date": "2025-09-30",
       "previousDate": "2025-06-30",
       "referenceDate": "2025-09-16",
-      "rate": 7.0,
+      "rate": 12.0,
       "number": 7
     },
     {
       "date": "2025-12-31",
       "previousDate": "2025-09-30",
       "referenceDate": "2025-12-17",
-      "rate": 8.0,
+      "rate": 12.0,
       "number": 8
     },
     {
       "date": "2026-03-31",
       "previousDate": "2025-12-31",
       "referenceDate": "2026-03-17",
-      "rate": 9.0,
+      "rate": 12.0,
       "number": 9
     },
     {
       "date": "2026-06-30",
       "previousDate": "2026-03-31",
       "referenceDate": "2026-06-16",
-      "rate": 10.0,
+      "rate": 12.0,
       "number": 10
     },
     {
       "date": "2026-09-30",
       "previousDate": "2026-06-30",
       "referenceDate": "2026-09-16",
-      "rate": 11.0,
+      "rate": 12.0,
       "number": 11
     },
     {
@@ -99,14 +100,17 @@
       "date": "2027-02-02",
       "previousDate": "2026-12-31",
       "referenceDate": "2027-01-19",
-      "rate": 13.0,
+      "rate": 12.0,
       "number": 13
     }
   ],
   "couponCount": 13,
   "principalRepayments": [
     {
-      "date": "2027-01-19"
+      "date": "2027-01-19",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
     }
   ]
 }

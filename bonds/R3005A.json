@@ -1,11 +1,12 @@
 {
   "symbol": "R3005A",
-  "lastUpdated": "2026-02-22T08:34:03Z",
+  "lastUpdated": "2026-02-24T14:20:37Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
     "currency": "RON",
     "couponRate": 7.8,
+    "interestType": "fixed",
     "issueDate": "2025-05-21",
     "maturityDate": "2030-05-21",
     "couponFrequency": 1
@@ -15,42 +16,45 @@
       "date": "2026-05-21",
       "previousDate": "2025-05-21",
       "referenceDate": "2026-05-12",
-      "rate": 1.0,
+      "rate": 7.8,
       "number": 1
     },
     {
       "date": "2027-05-21",
       "previousDate": "2026-05-21",
       "referenceDate": "2027-05-12",
-      "rate": 2.0,
+      "rate": 7.8,
       "number": 2
     },
     {
       "date": "2028-05-21",
       "previousDate": "2027-05-21",
       "referenceDate": "2028-05-11",
-      "rate": 3.0,
+      "rate": 7.8,
       "number": 3
     },
     {
       "date": "2029-05-21",
       "previousDate": "2028-05-21",
       "referenceDate": "2029-05-10",
-      "rate": 4.0,
+      "rate": 7.8,
       "number": 4
     },
     {
       "date": "2030-05-21",
       "previousDate": "2029-05-21",
       "referenceDate": "2030-05-10",
-      "rate": 5.0,
+      "rate": 7.8,
       "number": 5
     }
   ],
   "couponCount": 5,
   "principalRepayments": [
     {
-      "date": "2030-05-10"
+      "date": "2030-05-10",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
     }
   ]
 }

@@ -1,12 +1,13 @@
 {
   "symbol": "RBRO27B",
-  "lastUpdated": "2026-02-22T08:37:16Z",
+  "lastUpdated": "2026-02-24T14:23:51Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
     "faceValue": 525000.0,
     "currency": "RON",
     "couponRate": 9.404,
+    "interestType": "fixed",
     "issueDate": "2022-10-18",
     "maturityDate": "2027-10-18"
   },
@@ -15,42 +16,45 @@
       "date": "2023-10-18",
       "previousDate": "2022-10-18",
       "referenceDate": "2023-10-03",
-      "rate": 1.0,
+      "rate": 9.404,
       "number": 1
     },
     {
       "date": "2024-10-18",
       "previousDate": "2023-10-18",
       "referenceDate": "2024-10-03",
-      "rate": 2.0,
+      "rate": 9.404,
       "number": 2
     },
     {
       "date": "2025-10-18",
       "previousDate": "2024-10-18",
       "referenceDate": "2025-10-03",
-      "rate": 3.0,
+      "rate": 9.404,
       "number": 3
     },
     {
       "date": "2026-10-18",
       "previousDate": "2025-10-18",
       "referenceDate": "2026-10-02",
-      "rate": 4.0,
+      "rate": 9.404,
       "number": 4
     },
     {
       "date": "2027-10-18",
       "previousDate": "2026-10-18",
       "referenceDate": "2027-10-01",
-      "rate": 5.0,
+      "rate": 9.404,
       "number": 5
     }
   ],
   "couponCount": 5,
   "principalRepayments": [
     {
-      "date": "2027-10-01"
+      "date": "2027-10-01",
+      "number": 1,
+      "principal": 525000.0,
+      "repaymentAmount": 525000.0
     }
   ]
 }

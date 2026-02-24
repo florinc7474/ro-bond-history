@@ -1,11 +1,12 @@
 {
   "symbol": "R2604B",
-  "lastUpdated": "2026-02-22T08:27:12Z",
+  "lastUpdated": "2026-02-24T14:13:40Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
     "currency": "RON",
     "couponRate": 7.6,
+    "interestType": "fixed",
     "issueDate": "2025-04-16",
     "maturityDate": "2026-04-16",
     "couponFrequency": 1
@@ -15,14 +16,17 @@
       "date": "2026-04-16",
       "previousDate": "2025-04-16",
       "referenceDate": "2026-04-03",
-      "rate": 1.0,
+      "rate": 7.6,
       "number": 1
     }
   ],
   "couponCount": 1,
   "principalRepayments": [
     {
-      "date": "2026-04-03"
+      "date": "2026-04-03",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
     }
   ]
 }

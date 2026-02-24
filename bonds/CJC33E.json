@@ -1,10 +1,12 @@
 {
   "symbol": "CJC33E",
-  "lastUpdated": "2026-02-22T08:22:56Z",
+  "lastUpdated": "2026-02-24T14:09:24Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
     "currency": "EUR",
+    "couponFormula": "EURIBOR6M+3.25",
+    "interestType": "floating",
     "issueDate": "2023-12-21",
     "maturityDate": "2033-12-21",
     "couponFrequency": 2
@@ -14,159 +16,174 @@
       "date": "2024-06-21",
       "previousDate": "2023-12-21",
       "referenceDate": "2024-06-06",
-      "rate": 1.0,
+      "rate": 7.172,
       "number": 1
     },
     {
       "date": "2024-12-21",
       "previousDate": "2024-06-21",
       "referenceDate": "2024-12-06",
-      "rate": 2.0,
+      "rate": 6.945,
       "number": 2
     },
     {
       "date": "2025-06-21",
       "previousDate": "2024-12-21",
       "referenceDate": "2025-06-06",
-      "rate": 3.0,
+      "rate": 5.902,
       "number": 3
     },
     {
       "date": "2025-12-21",
       "previousDate": "2025-06-21",
       "referenceDate": "2025-12-05",
-      "rate": 4.0,
+      "rate": 5.311,
       "number": 4
     },
     {
       "date": "2026-06-21",
       "previousDate": "2025-12-21",
       "referenceDate": "2026-06-05",
-      "rate": 5.0,
+      "rate": 5.394,
       "number": 5
     },
     {
       "date": "2026-12-21",
       "previousDate": "2026-06-21",
       "referenceDate": "2026-12-04",
-      "rate": 6.0,
+      "rate": 0.0,
       "number": 6
     },
     {
       "date": "2027-06-21",
       "previousDate": "2026-12-21",
       "referenceDate": "2027-06-04",
-      "rate": 7.0,
+      "rate": 0.0,
       "number": 7
     },
     {
       "date": "2027-12-21",
       "previousDate": "2027-06-21",
       "referenceDate": "2027-12-03",
-      "rate": 8.0,
+      "rate": 0.0,
       "number": 8
     },
     {
       "date": "2028-06-21",
       "previousDate": "2027-12-21",
       "referenceDate": "2028-06-06",
-      "rate": 9.0,
+      "rate": 0.0,
       "number": 9
     },
     {
       "date": "2028-12-21",
       "previousDate": "2028-06-21",
       "referenceDate": "2028-12-06",
-      "rate": 10.0,
+      "rate": 0.0,
       "number": 10
     },
     {
       "date": "2029-06-21",
       "previousDate": "2028-12-21",
       "referenceDate": "2029-06-07",
-      "rate": 11.0,
+      "rate": 0.0,
       "number": 11
     },
     {
       "date": "2029-12-21",
       "previousDate": "2029-06-21",
       "referenceDate": "2029-12-06",
-      "rate": 12.0,
+      "rate": 0.0,
       "number": 12
     },
     {
       "date": "2030-06-21",
       "previousDate": "2029-12-21",
       "referenceDate": "2030-06-06",
-      "rate": 13.0,
+      "rate": 0.0,
       "number": 13
     },
     {
       "date": "2030-12-21",
       "previousDate": "2030-06-21",
       "referenceDate": "2030-12-06",
-      "rate": 14.0,
+      "rate": 0.0,
       "number": 14
     },
     {
       "date": "2031-06-21",
       "previousDate": "2030-12-21",
       "referenceDate": "2031-06-06",
-      "rate": 15.0,
+      "rate": 0.0,
       "number": 15
     },
     {
       "date": "2031-12-21",
       "previousDate": "2031-06-21",
       "referenceDate": "2031-12-05",
-      "rate": 16.0,
+      "rate": 0.0,
       "number": 16
     },
     {
       "date": "2032-06-21",
       "previousDate": "2031-12-21",
       "referenceDate": "2032-06-04",
-      "rate": 17.0,
+      "rate": 0.0,
       "number": 17
     },
     {
       "date": "2032-12-21",
       "previousDate": "2032-06-21",
       "referenceDate": "2032-12-06",
-      "rate": 18.0,
+      "rate": 0.0,
       "number": 18
     },
     {
       "date": "2033-06-21",
       "previousDate": "2032-12-21",
       "referenceDate": "2033-06-06",
-      "rate": 19.0,
+      "rate": 0.0,
       "number": 19
     },
     {
       "date": "2033-12-21",
       "previousDate": "2033-06-21",
       "referenceDate": "2033-12-06",
-      "rate": 20.0,
+      "rate": 0.0,
       "number": 20
     }
   ],
   "couponCount": 20,
   "principalRepayments": [
     {
-      "date": "2029-12-06"
+      "date": "2029-12-06",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 16.0
     },
     {
-      "date": "2030-12-06"
+      "date": "2030-12-06",
+      "number": 2,
+      "principal": 84.0,
+      "repaymentAmount": 18.0
     },
     {
-      "date": "2031-12-05"
+      "date": "2031-12-05",
+      "number": 3,
+      "principal": 66.0,
+      "repaymentAmount": 20.0
     },
     {
-      "date": "2032-12-06"
+      "date": "2032-12-06",
+      "number": 4,
+      "principal": 46.0,
+      "repaymentAmount": 24.0
     },
     {
-      "date": "2033-12-06"
+      "date": "2033-12-06",
+      "number": 5,
+      "principal": 22.0,
+      "repaymentAmount": 22.0
     }
   ]
 }

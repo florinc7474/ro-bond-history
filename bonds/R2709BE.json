@@ -1,11 +1,12 @@
 {
   "symbol": "R2709BE",
-  "lastUpdated": "2026-02-22T08:29:59Z",
+  "lastUpdated": "2026-02-24T14:16:29Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
     "currency": "EUR",
     "couponRate": 4.1,
+    "interestType": "fixed",
     "issueDate": "2025-09-17",
     "maturityDate": "2027-09-17",
     "couponFrequency": 1
@@ -15,21 +16,24 @@
       "date": "2026-09-17",
       "previousDate": "2025-09-17",
       "referenceDate": "2026-09-08",
-      "rate": 1.0,
+      "rate": 4.1,
       "number": 1
     },
     {
       "date": "2027-09-17",
       "previousDate": "2026-09-17",
       "referenceDate": "2027-09-08",
-      "rate": 2.0,
+      "rate": 4.1,
       "number": 2
     }
   ],
   "couponCount": 2,
   "principalRepayments": [
     {
-      "date": "2027-09-08"
+      "date": "2027-09-08",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
     }
   ]
 }

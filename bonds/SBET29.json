@@ -1,12 +1,13 @@
 {
   "symbol": "SBET29",
-  "lastUpdated": "2026-02-22T08:37:43Z",
+  "lastUpdated": "2026-02-24T14:24:18Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
     "faceValue": 100.0,
     "currency": "RON",
     "couponRate": 11.0,
+    "interestType": "fixed",
     "issueDate": "2025-02-13",
     "maturityDate": "2029-02-13"
   },
@@ -15,63 +16,66 @@
       "date": "2025-08-13",
       "previousDate": "2025-02-13",
       "referenceDate": "2025-07-30",
-      "rate": 1.0,
+      "rate": 11.0,
       "number": 1
     },
     {
       "date": "2026-02-13",
       "previousDate": "2025-08-13",
       "referenceDate": "2026-01-30",
-      "rate": 2.0,
+      "rate": 11.0,
       "number": 2
     },
     {
       "date": "2026-08-13",
       "previousDate": "2026-02-13",
       "referenceDate": "2026-07-30",
-      "rate": 3.0,
+      "rate": 11.0,
       "number": 3
     },
     {
       "date": "2027-02-13",
       "previousDate": "2026-08-13",
       "referenceDate": "2027-01-29",
-      "rate": 4.0,
+      "rate": 11.0,
       "number": 4
     },
     {
       "date": "2027-08-13",
       "previousDate": "2027-02-13",
       "referenceDate": "2027-07-30",
-      "rate": 5.0,
+      "rate": 11.0,
       "number": 5
     },
     {
       "date": "2028-02-13",
       "previousDate": "2027-08-13",
       "referenceDate": "2028-01-28",
-      "rate": 6.0,
+      "rate": 11.0,
       "number": 6
     },
     {
       "date": "2028-08-13",
       "previousDate": "2028-02-13",
       "referenceDate": "2028-07-28",
-      "rate": 7.0,
+      "rate": 11.0,
       "number": 7
     },
     {
       "date": "2029-02-13",
       "previousDate": "2028-08-13",
       "referenceDate": "2029-01-30",
-      "rate": 8.0,
+      "rate": 11.0,
       "number": 8
     }
   ],
   "couponCount": 8,
   "principalRepayments": [
     {
-      "date": "2029-01-30"
+      "date": "2029-01-30",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
     }
   ]
 }

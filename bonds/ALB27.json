@@ -1,10 +1,12 @@
 {
   "symbol": "ALB27",
-  "lastUpdated": "2026-02-22T08:20:09Z",
+  "lastUpdated": "2026-02-24T14:06:37Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
     "currency": "RON",
+    "couponFormula": "ROBOR6M+ 0.55",
+    "interestType": "floating",
     "issueDate": "2009-12-21",
     "maturityDate": "2027-11-15",
     "couponFrequency": 4
@@ -14,343 +16,343 @@
       "date": "2010-02-15",
       "previousDate": "2009-12-21",
       "referenceDate": "2010-02-10",
-      "rate": 1.0,
+      "rate": 10.96,
       "number": 1
     },
     {
       "date": "2010-05-15",
       "previousDate": "2010-02-15",
       "referenceDate": "2010-05-12",
-      "rate": 2.0,
+      "rate": 10.96,
       "number": 2
     },
     {
       "date": "2010-08-15",
       "previousDate": "2010-05-15",
       "referenceDate": "2010-08-11",
-      "rate": 3.0,
+      "rate": 7.406,
       "number": 3
     },
     {
       "date": "2010-11-15",
       "previousDate": "2010-08-15",
       "referenceDate": "2010-11-10",
-      "rate": 4.0,
+      "rate": 7.406,
       "number": 4
     },
     {
       "date": "2011-02-15",
       "previousDate": "2010-11-15",
       "referenceDate": "2011-02-10",
-      "rate": 5.0,
+      "rate": 7.692,
       "number": 5
     },
     {
       "date": "2011-05-15",
       "previousDate": "2011-02-15",
       "referenceDate": "2011-05-11",
-      "rate": 6.0,
+      "rate": 7.692,
       "number": 6
     },
     {
       "date": "2011-08-15",
       "previousDate": "2011-05-15",
       "referenceDate": "2011-08-10",
-      "rate": 7.0,
+      "rate": 7.02,
       "number": 7
     },
     {
       "date": "2011-11-15",
       "previousDate": "2011-08-15",
       "referenceDate": "2011-11-10",
-      "rate": 8.0,
+      "rate": 7.02,
       "number": 8
     },
     {
       "date": "2012-02-15",
       "previousDate": "2011-11-15",
       "referenceDate": "2012-02-10",
-      "rate": 9.0,
+      "rate": 7.196,
       "number": 9
     },
     {
       "date": "2012-05-15",
       "previousDate": "2012-02-15",
       "referenceDate": "2012-05-10",
-      "rate": 10.0,
+      "rate": 7.196,
       "number": 10
     },
     {
       "date": "2012-08-15",
       "previousDate": "2012-05-15",
       "referenceDate": "2012-08-10",
-      "rate": 11.0,
+      "rate": 5.596,
       "number": 11
     },
     {
       "date": "2012-11-15",
       "previousDate": "2012-08-15",
       "referenceDate": "2012-11-12",
-      "rate": 12.0,
+      "rate": 5.596,
       "number": 12
     },
     {
       "date": "2013-02-15",
       "previousDate": "2012-11-15",
       "referenceDate": "2013-02-12",
-      "rate": 13.0,
+      "rate": 6.628,
       "number": 13
     },
     {
       "date": "2013-05-15",
       "previousDate": "2013-02-15",
       "referenceDate": "2013-05-12",
-      "rate": 14.0,
+      "rate": 6.628,
       "number": 14
     },
     {
       "date": "2013-08-15",
       "previousDate": "2013-05-15",
       "referenceDate": "2013-08-12",
-      "rate": 15.0,
+      "rate": 5.348,
       "number": 15
     },
     {
       "date": "2013-11-15",
       "previousDate": "2013-08-15",
       "referenceDate": "2013-11-12",
-      "rate": 16.0,
+      "rate": 5.348,
       "number": 16
     },
     {
       "date": "2014-02-15",
       "previousDate": "2013-11-15",
       "referenceDate": "2014-02-12",
-      "rate": 17.0,
+      "rate": 3.742,
       "number": 17
     },
     {
       "date": "2014-05-15",
       "previousDate": "2014-02-15",
       "referenceDate": "2014-05-12",
-      "rate": 18.0,
+      "rate": 3.742,
       "number": 18
     },
     {
       "date": "2014-08-15",
       "previousDate": "2014-05-15",
       "referenceDate": "2014-08-12",
-      "rate": 19.0,
+      "rate": 3.954,
       "number": 19
     },
     {
       "date": "2014-11-15",
       "previousDate": "2014-08-15",
       "referenceDate": "2014-11-12",
-      "rate": 20.0,
+      "rate": 3.954,
       "number": 20
     },
     {
       "date": "2015-02-15",
       "previousDate": "2014-11-15",
       "referenceDate": "2015-02-11",
-      "rate": 21.0,
+      "rate": 2.774,
       "number": 21
     },
     {
       "date": "2015-05-15",
       "previousDate": "2015-02-15",
       "referenceDate": "2015-05-12",
-      "rate": 22.0,
+      "rate": 2.774,
       "number": 22
     },
     {
       "date": "2015-08-15",
       "previousDate": "2015-05-15",
       "referenceDate": "2015-08-12",
-      "rate": 23.0,
+      "rate": 2.164,
       "number": 23
     },
     {
       "date": "2015-11-15",
       "previousDate": "2015-08-15",
       "referenceDate": "2015-11-11",
-      "rate": 24.0,
+      "rate": 2.164,
       "number": 24
     },
     {
       "date": "2016-02-15",
       "previousDate": "2015-11-15",
       "referenceDate": "2016-02-10",
-      "rate": 25.0,
+      "rate": 1.966,
       "number": 25
     },
     {
       "date": "2016-05-15",
       "previousDate": "2016-02-15",
       "referenceDate": "2016-05-11",
-      "rate": 26.0,
+      "rate": 1.966,
       "number": 26
     },
     {
       "date": "2016-08-15",
       "previousDate": "2016-05-15",
       "referenceDate": "2016-08-10",
-      "rate": 27.0,
+      "rate": 1.568,
       "number": 27
     },
     {
       "date": "2016-11-15",
       "previousDate": "2016-08-15",
       "referenceDate": "2016-11-10",
-      "rate": 28.0,
+      "rate": 1.568,
       "number": 28
     },
     {
       "date": "2017-02-15",
       "previousDate": "2016-11-15",
       "referenceDate": "2017-02-10",
-      "rate": 29.0,
+      "rate": 1.492,
       "number": 29
     },
     {
       "date": "2017-05-15",
       "previousDate": "2017-02-15",
       "referenceDate": "2017-05-10",
-      "rate": 30.0,
+      "rate": 1.492,
       "number": 30
     },
     {
       "date": "2017-08-15",
       "previousDate": "2017-05-15",
       "referenceDate": "2017-08-10",
-      "rate": 31.0,
+      "rate": 1.668,
       "number": 31
     },
     {
       "date": "2017-11-15",
       "previousDate": "2017-08-15",
       "referenceDate": "2017-11-10",
-      "rate": 32.0,
+      "rate": 1.668,
       "number": 32
     },
     {
       "date": "2018-02-15",
       "previousDate": "2017-11-15",
       "referenceDate": "2018-02-12",
-      "rate": 33.0,
+      "rate": 2.57,
       "number": 33
     },
     {
       "date": "2018-05-15",
       "previousDate": "2018-02-15",
       "referenceDate": "2018-05-11",
-      "rate": 34.0,
+      "rate": 2.57,
       "number": 34
     },
     {
       "date": "2018-08-15",
       "previousDate": "2018-05-15",
       "referenceDate": "2018-08-10",
-      "rate": 35.0,
+      "rate": 3.316,
       "number": 35
     },
     {
       "date": "2018-11-15",
       "previousDate": "2018-08-15",
       "referenceDate": "2018-11-12",
-      "rate": 36.0,
+      "rate": 3.316,
       "number": 36
     },
     {
       "date": "2019-02-15",
       "previousDate": "2018-11-15",
       "referenceDate": "2019-02-12",
-      "rate": 37.0,
+      "rate": 4.024,
       "number": 37
     },
     {
       "date": "2019-05-15",
       "previousDate": "2019-02-15",
       "referenceDate": "2019-05-10",
-      "rate": 38.0,
+      "rate": 4.024,
       "number": 38
     },
     {
       "date": "2019-08-15",
       "previousDate": "2019-05-15",
       "referenceDate": "2019-08-12",
-      "rate": 39.0,
+      "rate": 3.948,
       "number": 39
     },
     {
       "date": "2019-11-15",
       "previousDate": "2019-08-15",
       "referenceDate": "2019-11-12",
-      "rate": 40.0,
+      "rate": 3.948,
       "number": 40
     },
     {
       "date": "2020-02-15",
       "previousDate": "2019-11-15",
       "referenceDate": "2020-02-12",
-      "rate": 41.0,
+      "rate": 3.608,
       "number": 41
     },
     {
       "date": "2020-05-15",
       "previousDate": "2020-02-15",
       "referenceDate": "2020-05-12",
-      "rate": 42.0,
+      "rate": 3.608,
       "number": 42
     },
     {
       "date": "2020-08-15",
       "previousDate": "2020-05-15",
       "referenceDate": "2020-08-12",
-      "rate": 43.0,
+      "rate": 3.09,
       "number": 43
     },
     {
       "date": "2020-11-15",
       "previousDate": "2020-08-15",
       "referenceDate": "2020-11-11",
-      "rate": 44.0,
+      "rate": 3.09,
       "number": 44
     },
     {
       "date": "2021-02-15",
       "previousDate": "2020-11-15",
       "referenceDate": "2021-02-10",
-      "rate": 45.0,
+      "rate": 2.7,
       "number": 45
     },
     {
       "date": "2021-05-15",
       "previousDate": "2021-02-15",
       "referenceDate": "2021-05-12",
-      "rate": 46.0,
+      "rate": 2.7,
       "number": 46
     },
     {
       "date": "2021-08-15",
       "previousDate": "2021-05-15",
       "referenceDate": "2021-08-11",
-      "rate": 47.0,
+      "rate": 2.226,
       "number": 47
     },
     {
       "date": "2021-11-15",
       "previousDate": "2021-08-15",
       "referenceDate": "2021-11-10",
-      "rate": 48.0,
+      "rate": 2.226,
       "number": 48
     },
     {
       "date": "2022-02-15",
       "previousDate": "2021-11-15",
       "referenceDate": "2022-02-10",
-      "rate": 49.0,
+      "rate": 3.082,
       "number": 49
     },
     {
@@ -476,262 +478,478 @@
       "date": "2026-08-15",
       "previousDate": "2026-05-15",
       "referenceDate": "2026-08-12",
-      "rate": 15.05,
+      "rate": 0.0,
       "number": 67
     },
     {
       "date": "2026-11-15",
       "previousDate": "2026-08-15",
       "referenceDate": "2026-11-11",
-      "rate": 15.08,
+      "rate": 0.0,
       "number": 68
     },
     {
       "date": "2027-02-15",
       "previousDate": "2026-11-15",
       "referenceDate": "2027-02-10",
-      "rate": 15.11,
+      "rate": 0.0,
       "number": 69
     },
     {
       "date": "2027-05-15",
       "previousDate": "2027-02-15",
       "referenceDate": "2027-05-12",
-      "rate": 15.02,
+      "rate": 0.0,
       "number": 70
     },
     {
       "date": "2027-08-15",
       "previousDate": "2027-05-15",
       "referenceDate": "2027-08-11",
-      "rate": 15.05,
+      "rate": 0.0,
       "number": 71
     },
     {
       "date": "2027-11-15",
       "previousDate": "2027-08-15",
       "referenceDate": "2027-11-10",
-      "rate": 15.08,
+      "rate": 0.0,
       "number": 72
     }
   ],
   "couponCount": 72,
   "principalRepayments": [
     {
-      "date": "2010-02-10"
+      "date": "2010-02-10",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2010-05-12"
+      "date": "2010-05-12",
+      "number": 2,
+      "principal": 98.61,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2010-08-11"
+      "date": "2010-08-11",
+      "number": 3,
+      "principal": 97.22,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2010-11-10"
+      "date": "2010-11-10",
+      "number": 4,
+      "principal": 95.83,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2011-02-10"
+      "date": "2011-02-10",
+      "number": 5,
+      "principal": 94.44,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2011-05-11"
+      "date": "2011-05-11",
+      "number": 6,
+      "principal": 93.05,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2011-08-10"
+      "date": "2011-08-10",
+      "number": 7,
+      "principal": 91.66,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2011-11-10"
+      "date": "2011-11-10",
+      "number": 8,
+      "principal": 90.27,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2012-02-10"
+      "date": "2012-02-10",
+      "number": 9,
+      "principal": 88.88,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2012-05-10"
+      "date": "2012-05-10",
+      "number": 10,
+      "principal": 87.49,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2012-08-10"
+      "date": "2012-08-10",
+      "number": 11,
+      "principal": 86.1,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2012-11-12"
+      "date": "2012-11-12",
+      "number": 12,
+      "principal": 84.71,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2013-02-12"
+      "date": "2013-02-12",
+      "number": 13,
+      "principal": 83.32,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2013-05-12"
+      "date": "2013-05-12",
+      "number": 14,
+      "principal": 81.93,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2013-08-12"
+      "date": "2013-08-12",
+      "number": 15,
+      "principal": 80.54,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2013-11-12"
+      "date": "2013-11-12",
+      "number": 16,
+      "principal": 79.15,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2014-02-12"
+      "date": "2014-02-12",
+      "number": 17,
+      "principal": 77.76,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2014-05-12"
+      "date": "2014-05-12",
+      "number": 18,
+      "principal": 76.37,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2014-08-12"
+      "date": "2014-08-12",
+      "number": 19,
+      "principal": 74.98,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2014-11-12"
+      "date": "2014-11-12",
+      "number": 20,
+      "principal": 73.59,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2015-02-11"
+      "date": "2015-02-11",
+      "number": 21,
+      "principal": 72.2,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2015-05-12"
+      "date": "2015-05-12",
+      "number": 22,
+      "principal": 70.81,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2015-08-12"
+      "date": "2015-08-12",
+      "number": 23,
+      "principal": 69.42,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2015-11-11"
+      "date": "2015-11-11",
+      "number": 24,
+      "principal": 68.03,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2016-02-10"
+      "date": "2016-02-10",
+      "number": 25,
+      "principal": 66.64,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2016-05-11"
+      "date": "2016-05-11",
+      "number": 26,
+      "principal": 65.25,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2016-08-10"
+      "date": "2016-08-10",
+      "number": 27,
+      "principal": 63.86,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2016-11-10"
+      "date": "2016-11-10",
+      "number": 28,
+      "principal": 62.47,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2017-02-10"
+      "date": "2017-02-10",
+      "number": 29,
+      "principal": 61.08,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2017-05-10"
+      "date": "2017-05-10",
+      "number": 30,
+      "principal": 59.69,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2017-08-10"
+      "date": "2017-08-10",
+      "number": 31,
+      "principal": 58.3,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2017-11-10"
+      "date": "2017-11-10",
+      "number": 32,
+      "principal": 56.91,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2018-02-12"
+      "date": "2018-02-12",
+      "number": 33,
+      "principal": 55.52,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2018-05-11"
+      "date": "2018-05-11",
+      "number": 34,
+      "principal": 54.13,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2018-08-10"
+      "date": "2018-08-10",
+      "number": 35,
+      "principal": 52.74,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2018-11-12"
+      "date": "2018-11-12",
+      "number": 36,
+      "principal": 51.35,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2019-02-12"
+      "date": "2019-02-12",
+      "number": 37,
+      "principal": 49.96,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2019-05-10"
+      "date": "2019-05-10",
+      "number": 38,
+      "principal": 48.57,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2019-08-12"
+      "date": "2019-08-12",
+      "number": 39,
+      "principal": 47.18,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2019-11-12"
+      "date": "2019-11-12",
+      "number": 40,
+      "principal": 45.79,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2020-02-12"
+      "date": "2020-02-12",
+      "number": 41,
+      "principal": 44.4,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2020-05-12"
+      "date": "2020-05-12",
+      "number": 42,
+      "principal": 43.01,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2020-08-12"
+      "date": "2020-08-12",
+      "number": 43,
+      "principal": 41.62,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2020-11-11"
+      "date": "2020-11-11",
+      "number": 44,
+      "principal": 40.23,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2021-02-10"
+      "date": "2021-02-10",
+      "number": 45,
+      "principal": 38.84,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2021-05-12"
+      "date": "2021-05-12",
+      "number": 46,
+      "principal": 37.45,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2021-08-11"
+      "date": "2021-08-11",
+      "number": 47,
+      "principal": 36.06,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2021-11-10"
+      "date": "2021-11-10",
+      "number": 48,
+      "principal": 34.67,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2022-02-10"
+      "date": "2022-02-10",
+      "number": 49,
+      "principal": 33.28,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2022-05-11"
+      "date": "2022-05-11",
+      "number": 50,
+      "principal": 31.89,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2022-08-10"
+      "date": "2022-08-10",
+      "number": 51,
+      "principal": 30.5,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2022-11-10"
+      "date": "2022-11-10",
+      "number": 52,
+      "principal": 29.11,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2023-02-10"
+      "date": "2023-02-10",
+      "number": 53,
+      "principal": 27.72,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2023-05-10"
+      "date": "2023-05-10",
+      "number": 54,
+      "principal": 26.33,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2023-08-10"
+      "date": "2023-08-10",
+      "number": 55,
+      "principal": 24.94,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2023-11-10"
+      "date": "2023-11-10",
+      "number": 56,
+      "principal": 23.55,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2024-02-12"
+      "date": "2024-02-12",
+      "number": 57,
+      "principal": 22.16,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2024-05-10"
+      "date": "2024-05-10",
+      "number": 58,
+      "principal": 20.77,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2024-08-12"
+      "date": "2024-08-12",
+      "number": 59,
+      "principal": 19.38,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2024-11-12"
+      "date": "2024-11-12",
+      "number": 60,
+      "principal": 17.99,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2025-02-12"
+      "date": "2025-02-12",
+      "number": 61,
+      "principal": 16.6,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2025-05-12"
+      "date": "2025-05-12",
+      "number": 62,
+      "principal": 15.21,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2025-08-12"
+      "date": "2025-08-12",
+      "number": 63,
+      "principal": 13.82,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2025-11-12"
+      "date": "2025-11-12",
+      "number": 64,
+      "principal": 12.43,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "number": 65,
+      "principal": 11.04,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2026-05-12"
+      "date": "2026-05-12",
+      "number": 66,
+      "principal": 9.65,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2026-08-12"
+      "date": "2026-08-12",
+      "number": 67,
+      "principal": 8.26,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2026-11-11"
+      "date": "2026-11-11",
+      "number": 68,
+      "principal": 6.87,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2027-02-10"
+      "date": "2027-02-10",
+      "number": 69,
+      "principal": 5.48,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2027-05-12"
+      "date": "2027-05-12",
+      "number": 70,
+      "principal": 4.09,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2027-08-11"
+      "date": "2027-08-11",
+      "number": 71,
+      "principal": 2.7,
+      "repaymentAmount": 1.39
     },
     {
-      "date": "2027-11-10"
+      "date": "2027-11-10",
+      "number": 72,
+      "principal": 1.31,
+      "repaymentAmount": 1.31
     }
   ]
 }

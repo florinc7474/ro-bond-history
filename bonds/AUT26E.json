@@ -1,12 +1,13 @@
 {
   "symbol": "AUT26E",
-  "lastUpdated": "2026-02-22T08:20:29Z",
+  "lastUpdated": "2026-02-24T14:06:57Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
     "faceValue": 10000.0,
     "currency": "EUR",
     "couponRate": 4.11,
+    "interestType": "fixed",
     "issueDate": "2021-11-23",
     "maturityDate": "2026-11-23"
   },
@@ -15,42 +16,45 @@
       "date": "2022-11-23",
       "previousDate": "2021-11-23",
       "referenceDate": "2022-11-03",
-      "rate": 1.0,
+      "rate": 4.11,
       "number": 1
     },
     {
       "date": "2023-11-23",
       "previousDate": "2022-11-23",
       "referenceDate": "2023-11-03",
-      "rate": 2.0,
+      "rate": 4.11,
       "number": 2
     },
     {
       "date": "2024-11-23",
       "previousDate": "2023-11-23",
       "referenceDate": "2024-11-04",
-      "rate": 3.0,
+      "rate": 4.11,
       "number": 3
     },
     {
       "date": "2025-11-23",
       "previousDate": "2024-11-23",
       "referenceDate": "2025-11-03",
-      "rate": 4.0,
+      "rate": 4.11,
       "number": 4
     },
     {
       "date": "2026-11-23",
       "previousDate": "2025-11-23",
       "referenceDate": "2026-11-02",
-      "rate": 5.0,
+      "rate": 4.11,
       "number": 5
     }
   ],
   "couponCount": 5,
   "principalRepayments": [
     {
-      "date": "2026-11-02"
+      "date": "2026-11-02",
+      "number": 1,
+      "principal": 10000.0,
+      "repaymentAmount": 10000.0
     }
   ]
 }

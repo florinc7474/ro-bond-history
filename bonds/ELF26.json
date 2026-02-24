@@ -1,12 +1,13 @@
 {
   "symbol": "ELF26",
-  "lastUpdated": "2026-02-22T08:23:14Z",
+  "lastUpdated": "2026-02-24T14:09:42Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
     "faceValue": 100.0,
     "currency": "RON",
     "couponRate": 9.0,
+    "interestType": "fixed",
     "issueDate": "2021-11-26",
     "maturityDate": "2026-11-26"
   },
@@ -15,56 +16,56 @@
       "date": "2022-05-26",
       "previousDate": "2021-11-26",
       "referenceDate": "2022-05-12",
-      "rate": 1.0,
+      "rate": 9.0,
       "number": 1
     },
     {
       "date": "2022-11-26",
       "previousDate": "2022-05-26",
       "referenceDate": "2022-11-14",
-      "rate": 2.0,
+      "rate": 9.0,
       "number": 2
     },
     {
       "date": "2023-05-26",
       "previousDate": "2022-11-26",
       "referenceDate": "2023-05-12",
-      "rate": 3.0,
+      "rate": 9.0,
       "number": 3
     },
     {
       "date": "2023-11-26",
       "previousDate": "2023-05-26",
       "referenceDate": "2023-11-13",
-      "rate": 4.0,
+      "rate": 9.0,
       "number": 4
     },
     {
       "date": "2024-05-26",
       "previousDate": "2023-11-26",
       "referenceDate": "2024-05-13",
-      "rate": 5.0,
+      "rate": 9.0,
       "number": 5
     },
     {
       "date": "2024-11-26",
       "previousDate": "2024-05-26",
       "referenceDate": "2024-11-12",
-      "rate": 6.0,
+      "rate": 9.0,
       "number": 6
     },
     {
       "date": "2025-05-26",
       "previousDate": "2024-11-26",
       "referenceDate": "2025-05-12",
-      "rate": 7.0,
+      "rate": 9.0,
       "number": 7
     },
     {
       "date": "2025-11-26",
       "previousDate": "2025-05-26",
       "referenceDate": "2025-11-12",
-      "rate": 8.0,
+      "rate": 9.0,
       "number": 8
     },
     {
@@ -78,14 +79,17 @@
       "date": "2026-11-26",
       "previousDate": "2026-05-26",
       "referenceDate": "2026-11-12",
-      "rate": 10.0,
+      "rate": 9.0,
       "number": 10
     }
   ],
   "couponCount": 10,
   "principalRepayments": [
     {
-      "date": "2026-11-12"
+      "date": "2026-11-12",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
     }
   ]
 }

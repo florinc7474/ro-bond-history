@@ -1,11 +1,13 @@
 {
   "symbol": "TLV28E",
-  "lastUpdated": "2026-02-22T08:39:21Z",
+  "lastUpdated": "2026-02-24T14:25:56Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
     "faceValue": 100000.0,
     "currency": "EUR",
+    "couponFormula": "EURIBOR6M+3,75",
+    "interestType": "floating",
     "issueDate": "2018-06-28",
     "maturityDate": "2028-06-28"
   },
@@ -14,147 +16,150 @@
       "date": "2018-12-28",
       "previousDate": "2018-06-28",
       "referenceDate": "2018-12-05",
-      "rate": 1.0,
+      "rate": 3.75,
       "number": 1
     },
     {
       "date": "2019-06-28",
       "previousDate": "2018-12-28",
       "referenceDate": "2019-06-06",
-      "rate": 2.0,
+      "rate": 3.75,
       "number": 2
     },
     {
       "date": "2019-12-28",
       "previousDate": "2019-06-28",
       "referenceDate": "2019-12-05",
-      "rate": 3.0,
+      "rate": 3.75,
       "number": 3
     },
     {
       "date": "2020-06-28",
       "previousDate": "2019-12-28",
       "referenceDate": "2020-06-06",
-      "rate": 4.0,
+      "rate": 3.75,
       "number": 4
     },
     {
       "date": "2020-12-28",
       "previousDate": "2020-06-28",
       "referenceDate": "2020-12-04",
-      "rate": 5.0,
+      "rate": 3.75,
       "number": 5
     },
     {
       "date": "2021-06-28",
       "previousDate": "2020-12-28",
       "referenceDate": "2021-06-04",
-      "rate": 6.0,
+      "rate": 3.75,
       "number": 6
     },
     {
       "date": "2021-12-28",
       "previousDate": "2021-06-28",
       "referenceDate": "2021-12-07",
-      "rate": 7.0,
+      "rate": 3.75,
       "number": 7
     },
     {
       "date": "2022-06-28",
       "previousDate": "2021-12-28",
       "referenceDate": "2022-06-06",
-      "rate": 8.0,
+      "rate": 3.75,
       "number": 8
     },
     {
       "date": "2022-12-28",
       "previousDate": "2022-06-28",
       "referenceDate": "2022-12-06",
-      "rate": 9.0,
+      "rate": 3.973,
       "number": 9
     },
     {
       "date": "2023-06-28",
       "previousDate": "2022-12-28",
       "referenceDate": "2023-06-07",
-      "rate": 10.0,
+      "rate": 6.451,
       "number": 10
     },
     {
       "date": "2023-12-28",
       "previousDate": "2023-06-28",
       "referenceDate": "2023-12-05",
-      "rate": 11.0,
+      "rate": 7.658,
       "number": 11
     },
     {
       "date": "2024-06-28",
       "previousDate": "2023-12-28",
       "referenceDate": "2024-06-06",
-      "rate": 12.0,
+      "rate": 7.645,
       "number": 12
     },
     {
       "date": "2024-12-28",
       "previousDate": "2024-06-28",
       "referenceDate": "2024-12-05",
-      "rate": 13.0,
+      "rate": 7.422,
       "number": 13
     },
     {
       "date": "2025-06-28",
       "previousDate": "2024-12-28",
       "referenceDate": "2025-06-06",
-      "rate": 14.0,
+      "rate": 6.347,
       "number": 14
     },
     {
       "date": "2025-12-28",
       "previousDate": "2025-06-28",
       "referenceDate": "2025-12-04",
-      "rate": 15.0,
+      "rate": 5.787,
       "number": 15
     },
     {
       "date": "2026-06-28",
       "previousDate": "2025-12-28",
       "referenceDate": "2026-06-04",
-      "rate": 16.0,
+      "rate": 5.881,
       "number": 16
     },
     {
       "date": "2026-12-28",
       "previousDate": "2026-06-28",
       "referenceDate": "2026-12-04",
-      "rate": 17.0,
+      "rate": 0.0,
       "number": 17
     },
     {
       "date": "2027-06-28",
       "previousDate": "2026-12-28",
       "referenceDate": "2027-06-04",
-      "rate": 18.0,
+      "rate": 0.0,
       "number": 18
     },
     {
       "date": "2027-12-28",
       "previousDate": "2027-06-28",
       "referenceDate": "2027-12-07",
-      "rate": 19.0,
+      "rate": 0.0,
       "number": 19
     },
     {
       "date": "2028-06-28",
       "previousDate": "2027-12-28",
       "referenceDate": "2028-06-07",
-      "rate": 20.0,
+      "rate": 0.0,
       "number": 20
     }
   ],
   "couponCount": 20,
   "principalRepayments": [
     {
-      "date": "2028-06-07"
+      "date": "2028-06-07",
+      "number": 1,
+      "principal": 100000.0,
+      "repaymentAmount": 100000.0
     }
   ]
 }

@@ -1,11 +1,12 @@
 {
   "symbol": "R2710B",
-  "lastUpdated": "2026-02-22T08:30:10Z",
+  "lastUpdated": "2026-02-24T14:16:40Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
     "currency": "RON",
     "couponRate": 8.2,
+    "interestType": "fixed",
     "issueDate": "2025-10-22",
     "maturityDate": "2027-10-22",
     "couponFrequency": 1
@@ -15,21 +16,24 @@
       "date": "2026-10-22",
       "previousDate": "2025-10-22",
       "referenceDate": "2026-10-13",
-      "rate": 1.0,
+      "rate": 8.2,
       "number": 1
     },
     {
       "date": "2027-10-22",
       "previousDate": "2026-10-22",
       "referenceDate": "2027-10-13",
-      "rate": 2.0,
+      "rate": 8.2,
       "number": 2
     }
   ],
   "couponCount": 2,
   "principalRepayments": [
     {
-      "date": "2027-10-13"
+      "date": "2027-10-13",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
     }
   ]
 }

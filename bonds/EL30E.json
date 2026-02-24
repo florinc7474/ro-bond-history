@@ -1,12 +1,13 @@
 {
   "symbol": "EL30E",
-  "lastUpdated": "2026-02-22T08:23:09Z",
+  "lastUpdated": "2026-02-24T14:09:37Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
     "faceValue": 1000.0,
     "currency": "EUR",
     "couponRate": 4.375,
+    "interestType": "fixed",
     "issueDate": "2025-07-14",
     "maturityDate": "2030-07-14"
   },
@@ -15,42 +16,45 @@
       "date": "2026-06-30",
       "previousDate": "2025-07-14",
       "referenceDate": "2026-06-29",
-      "rate": 1.0,
+      "rate": 4.375,
       "number": 1
     },
     {
       "date": "2027-06-30",
       "previousDate": "2026-07-14",
       "referenceDate": "2027-06-29",
-      "rate": 2.0,
+      "rate": 4.375,
       "number": 2
     },
     {
       "date": "2028-06-30",
       "previousDate": "2027-07-14",
       "referenceDate": "2028-06-29",
-      "rate": 3.0,
+      "rate": 4.375,
       "number": 3
     },
     {
       "date": "2029-07-02",
       "previousDate": "2028-07-14",
       "referenceDate": "2029-06-29",
-      "rate": 4.0,
+      "rate": 4.375,
       "number": 4
     },
     {
       "date": "2030-07-02",
       "previousDate": "2029-07-14",
       "referenceDate": "2030-07-01",
-      "rate": 5.0,
+      "rate": 4.375,
       "number": 5
     }
   ],
   "couponCount": 5,
   "principalRepayments": [
     {
-      "date": "2030-07-01"
+      "date": "2030-07-01",
+      "number": 1,
+      "principal": 1000.0,
+      "repaymentAmount": 1000.0
     }
   ]
 }

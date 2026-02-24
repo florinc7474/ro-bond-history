@@ -1,12 +1,13 @@
 {
   "symbol": "AGR28",
-  "lastUpdated": "2026-02-22T08:19:59Z",
+  "lastUpdated": "2026-02-24T14:06:27Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
     "faceValue": 100.0,
     "currency": "RON",
     "couponRate": 9.75,
+    "interestType": "fixed",
     "issueDate": "2024-10-02",
     "maturityDate": "2028-10-02"
   },
@@ -15,63 +16,66 @@
       "date": "2025-04-02",
       "previousDate": "2024-10-02",
       "referenceDate": "2025-03-19",
-      "rate": 1.0,
+      "rate": 9.75,
       "number": 1
     },
     {
       "date": "2025-10-02",
       "previousDate": "2025-04-02",
       "referenceDate": "2025-09-18",
-      "rate": 2.0,
+      "rate": 9.75,
       "number": 2
     },
     {
       "date": "2026-04-02",
       "previousDate": "2025-10-02",
       "referenceDate": "2026-03-19",
-      "rate": 3.0,
+      "rate": 9.75,
       "number": 3
     },
     {
       "date": "2026-10-02",
       "previousDate": "2026-04-02",
       "referenceDate": "2026-09-18",
-      "rate": 4.0,
+      "rate": 9.75,
       "number": 4
     },
     {
       "date": "2027-04-02",
       "previousDate": "2026-10-02",
       "referenceDate": "2027-03-19",
-      "rate": 5.0,
+      "rate": 9.75,
       "number": 5
     },
     {
       "date": "2027-10-02",
       "previousDate": "2027-04-02",
       "referenceDate": "2027-09-20",
-      "rate": 6.0,
+      "rate": 9.75,
       "number": 6
     },
     {
       "date": "2028-04-02",
       "previousDate": "2027-10-02",
       "referenceDate": "2028-03-20",
-      "rate": 7.0,
+      "rate": 9.75,
       "number": 7
     },
     {
       "date": "2028-10-02",
       "previousDate": "2028-04-02",
       "referenceDate": "2028-09-18",
-      "rate": 8.0,
+      "rate": 9.75,
       "number": 8
     }
   ],
   "couponCount": 8,
   "principalRepayments": [
     {
-      "date": "2028-09-18"
+      "date": "2028-09-18",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
     }
   ]
 }

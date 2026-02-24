@@ -1,12 +1,13 @@
 {
   "symbol": "LIBRA28E",
-  "lastUpdated": "2026-02-22T08:24:35Z",
+  "lastUpdated": "2026-02-24T14:11:03Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
     "faceValue": 100000.0,
     "currency": "EUR",
     "couponRate": 4.25,
+    "interestType": "fixed",
     "issueDate": "2021-09-28",
     "maturityDate": "2028-09-28"
   },
@@ -15,56 +16,59 @@
       "date": "2022-09-28",
       "previousDate": "2021-09-28",
       "referenceDate": "2022-09-14",
-      "rate": 1.0,
+      "rate": 4.25,
       "number": 1
     },
     {
       "date": "2023-09-28",
       "previousDate": "2022-09-28",
       "referenceDate": "2023-09-14",
-      "rate": 2.0,
+      "rate": 4.25,
       "number": 2
     },
     {
       "date": "2024-09-28",
       "previousDate": "2023-09-28",
       "referenceDate": "2024-09-16",
-      "rate": 3.0,
+      "rate": 4.25,
       "number": 3
     },
     {
       "date": "2025-09-28",
       "previousDate": "2024-09-28",
       "referenceDate": "2025-09-15",
-      "rate": 4.0,
+      "rate": 4.25,
       "number": 4
     },
     {
       "date": "2026-09-28",
       "previousDate": "2025-09-28",
       "referenceDate": "2026-09-14",
-      "rate": 5.0,
+      "rate": 4.25,
       "number": 5
     },
     {
       "date": "2027-09-28",
       "previousDate": "2026-09-28",
       "referenceDate": "2027-09-14",
-      "rate": 6.0,
+      "rate": 4.25,
       "number": 6
     },
     {
       "date": "2028-09-28",
       "previousDate": "2027-09-28",
       "referenceDate": "2028-09-14",
-      "rate": 7.0,
+      "rate": 4.25,
       "number": 7
     }
   ],
   "couponCount": 7,
   "principalRepayments": [
     {
-      "date": "2028-09-14"
+      "date": "2028-09-14",
+      "number": 1,
+      "principal": 100000.0,
+      "repaymentAmount": 100000.0
     }
   ]
 }

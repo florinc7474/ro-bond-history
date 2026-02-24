@@ -1,11 +1,12 @@
 {
   "symbol": "R2603B",
-  "lastUpdated": "2026-02-22T08:27:01Z",
+  "lastUpdated": "2026-02-24T14:13:29Z",
   "source": "BVB",
   "details": {
     "faceValue": 100.0,
     "currency": "RON",
     "couponRate": 7.8,
+    "interestType": "fixed",
     "issueDate": "2025-03-19",
     "maturityDate": "2026-03-19",
     "couponFrequency": 1
@@ -15,14 +16,17 @@
       "date": "2026-03-19",
       "previousDate": "2025-03-19",
       "referenceDate": "2026-03-10",
-      "rate": 1.0,
+      "rate": 7.8,
       "number": 1
     }
   ],
   "couponCount": 1,
   "principalRepayments": [
     {
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
     }
   ]
 }

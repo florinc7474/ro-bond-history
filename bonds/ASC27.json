@@ -1,12 +1,13 @@
 {
   "symbol": "ASC27",
-  "lastUpdated": "2026-02-22T08:20:19Z",
+  "lastUpdated": "2026-02-24T14:06:47Z",
   "source": "BVB",
   "details": {
     "couponFrequency": 1,
     "faceValue": 100.0,
     "currency": "RON",
     "couponRate": 10.0,
+    "interestType": "fixed",
     "issueDate": "2022-09-02",
     "maturityDate": "2027-09-02"
   },
@@ -15,63 +16,63 @@
       "date": "2023-03-02",
       "previousDate": "2022-09-02",
       "referenceDate": "2023-02-16",
-      "rate": 1.0,
+      "rate": 10.0,
       "number": 1
     },
     {
       "date": "2023-09-02",
       "previousDate": "2023-03-02",
       "referenceDate": "2023-08-21",
-      "rate": 2.0,
+      "rate": 10.0,
       "number": 2
     },
     {
       "date": "2024-03-02",
       "previousDate": "2023-09-02",
       "referenceDate": "2024-02-19",
-      "rate": 3.0,
+      "rate": 10.0,
       "number": 3
     },
     {
       "date": "2024-09-02",
       "previousDate": "2024-03-02",
       "referenceDate": "2024-08-19",
-      "rate": 4.0,
+      "rate": 10.0,
       "number": 4
     },
     {
       "date": "2025-03-02",
       "previousDate": "2024-09-02",
       "referenceDate": "2025-02-17",
-      "rate": 5.0,
+      "rate": 10.0,
       "number": 5
     },
     {
       "date": "2025-09-02",
       "previousDate": "2025-03-02",
       "referenceDate": "2025-08-19",
-      "rate": 6.0,
+      "rate": 10.0,
       "number": 6
     },
     {
       "date": "2026-03-02",
       "previousDate": "2025-09-02",
       "referenceDate": "2026-02-16",
-      "rate": 7.0,
+      "rate": 10.0,
       "number": 7
     },
     {
       "date": "2026-09-02",
       "previousDate": "2026-03-02",
       "referenceDate": "2026-08-19",
-      "rate": 8.0,
+      "rate": 10.0,
       "number": 8
     },
     {
       "date": "2027-03-02",
       "previousDate": "2026-09-02",
       "referenceDate": "2027-02-16",
-      "rate": 9.0,
+      "rate": 10.0,
       "number": 9
     },
     {
@@ -85,7 +86,10 @@
   "couponCount": 10,
   "principalRepayments": [
     {
-      "date": "2027-08-19"
+      "date": "2027-08-19",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
     }
   ]
 }

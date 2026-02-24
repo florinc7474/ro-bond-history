@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T17:52:18Z",
+  "lastUpdated": "2026-02-24T18:19:58Z",
   "tradingDates": {
     "count": 18,
     "first": "2026-01-30",
@@ -31,7 +31,7 @@
     "bonds": [
       {
         "symbol": "AAB26",
-        "lastUpdated": "2026-02-24T14:06:22Z",
+        "lastUpdated": "2026-02-24T18:00:24Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "RON",
@@ -40,7 +40,7 @@
       },
       {
         "symbol": "AGR28",
-        "lastUpdated": "2026-02-24T14:06:27Z",
+        "lastUpdated": "2026-02-24T18:00:29Z",
         "couponCount": 8,
         "hasCoupons": true,
         "currency": "RON",
@@ -49,7 +49,7 @@
       },
       {
         "symbol": "ALB26",
-        "lastUpdated": "2026-02-24T14:06:32Z",
+        "lastUpdated": "2026-02-24T18:00:34Z",
         "couponCount": 71,
         "hasCoupons": true,
         "currency": "RON",
@@ -58,7 +58,7 @@
       },
       {
         "symbol": "ALB27",
-        "lastUpdated": "2026-02-24T14:06:37Z",
+        "lastUpdated": "2026-02-24T18:00:39Z",
         "couponCount": 72,
         "hasCoupons": true,
         "currency": "RON",
@@ -67,7 +67,7 @@
       },
       {
         "symbol": "ANS26E",
-        "lastUpdated": "2026-02-24T14:06:42Z",
+        "lastUpdated": "2026-02-24T18:00:44Z",
         "couponCount": 20,
         "hasCoupons": true,
         "currency": "EUR",
@@ -76,7 +76,7 @@
       },
       {
         "symbol": "ASC27",
-        "lastUpdated": "2026-02-24T14:06:47Z",
+        "lastUpdated": "2026-02-24T18:00:49Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "RON",
@@ -85,7 +85,7 @@
       },
       {
         "symbol": "ATPR28",
-        "lastUpdated": "2026-02-24T14:06:52Z",
+        "lastUpdated": "2026-02-24T18:00:54Z",
         "couponCount": 8,
         "hasCoupons": true,
         "currency": "RON",
@@ -94,7 +94,7 @@
       },
       {
         "symbol": "AUT26E",
-        "lastUpdated": "2026-02-24T14:06:57Z",
+        "lastUpdated": "2026-02-24T18:00:59Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -103,7 +103,7 @@
       },
       {
         "symbol": "AUT29E",
-        "lastUpdated": "2026-02-24T14:07:02Z",
+        "lastUpdated": "2026-02-24T18:01:04Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -112,7 +112,7 @@
       },
       {
         "symbol": "B2604A",
-        "lastUpdated": "2026-02-24T14:07:07Z",
+        "lastUpdated": "2026-02-24T18:01:09Z",
         "couponCount": 8,
         "hasCoupons": true,
         "currency": "RON",
@@ -121,7 +121,7 @@
       },
       {
         "symbol": "B2707A",
-        "lastUpdated": "2026-02-24T14:07:13Z",
+        "lastUpdated": "2026-02-24T18:01:15Z",
         "couponCount": 16,
         "hasCoupons": true,
         "currency": "RON",
@@ -130,7 +130,7 @@
       },
       {
         "symbol": "B2902A",
-        "lastUpdated": "2026-02-24T14:07:18Z",
+        "lastUpdated": "2026-02-24T18:01:20Z",
         "couponCount": 11,
         "hasCoupons": true,
         "currency": "RON",
@@ -139,7 +139,7 @@
       },
       {
         "symbol": "B3109A",
-        "lastUpdated": "2026-02-24T14:07:24Z",
+        "lastUpdated": "2026-02-24T18:01:26Z",
         "couponCount": 15,
         "hasCoupons": true,
         "currency": "RON",
@@ -148,7 +148,7 @@
       },
       {
         "symbol": "BAC26",
-        "lastUpdated": "2026-02-24T16:09:58Z",
+        "lastUpdated": "2026-02-24T18:01:31Z",
         "couponCount": 76,
         "hasCoupons": true,
         "currency": "RON",
@@ -157,7 +157,7 @@
       },
       {
         "symbol": "BAC26A",
-        "lastUpdated": "2026-02-24T14:07:34Z",
+        "lastUpdated": "2026-02-24T18:01:36Z",
         "couponCount": 73,
         "hasCoupons": true,
         "currency": "RON",
@@ -166,7 +166,7 @@
       },
       {
         "symbol": "BAC26B",
-        "lastUpdated": "2026-02-24T14:07:39Z",
+        "lastUpdated": "2026-02-24T18:01:41Z",
         "couponCount": 69,
         "hasCoupons": true,
         "currency": "RON",
@@ -175,7 +175,7 @@
       },
       {
         "symbol": "BCR26",
-        "lastUpdated": "2026-02-24T14:07:44Z",
+        "lastUpdated": "2026-02-24T18:01:46Z",
         "couponCount": 7,
         "hasCoupons": true,
         "currency": "RON",
@@ -184,7 +184,7 @@
       },
       {
         "symbol": "BCR27",
-        "lastUpdated": "2026-02-24T14:07:49Z",
+        "lastUpdated": "2026-02-24T18:01:51Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "RON",
@@ -193,7 +193,7 @@
       },
       {
         "symbol": "BCR27A",
-        "lastUpdated": "2026-02-24T14:07:54Z",
+        "lastUpdated": "2026-02-24T18:01:56Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "RON",
@@ -202,7 +202,7 @@
       },
       {
         "symbol": "BCR27E",
-        "lastUpdated": "2026-02-24T14:07:59Z",
+        "lastUpdated": "2026-02-24T18:02:01Z",
         "couponCount": 7,
         "hasCoupons": true,
         "currency": "EUR",
@@ -211,7 +211,7 @@
       },
       {
         "symbol": "BCR28",
-        "lastUpdated": "2026-02-24T14:08:04Z",
+        "lastUpdated": "2026-02-24T18:02:06Z",
         "couponCount": 7,
         "hasCoupons": true,
         "currency": "RON",
@@ -220,7 +220,7 @@
       },
       {
         "symbol": "BCR28A",
-        "lastUpdated": "2026-02-24T14:08:09Z",
+        "lastUpdated": "2026-02-24T18:02:11Z",
         "couponCount": 7,
         "hasCoupons": true,
         "currency": "RON",
@@ -229,7 +229,7 @@
       },
       {
         "symbol": "BCR28B",
-        "lastUpdated": "2026-02-24T14:08:14Z",
+        "lastUpdated": "2026-02-24T18:02:16Z",
         "couponCount": 7,
         "hasCoupons": true,
         "currency": "RON",
@@ -238,7 +238,7 @@
       },
       {
         "symbol": "BCR28C",
-        "lastUpdated": "2026-02-24T14:08:19Z",
+        "lastUpdated": "2026-02-24T18:02:22Z",
         "couponCount": 6,
         "hasCoupons": true,
         "currency": "RON",
@@ -247,7 +247,7 @@
       },
       {
         "symbol": "BCR29",
-        "lastUpdated": "2026-02-24T14:08:24Z",
+        "lastUpdated": "2026-02-24T18:02:27Z",
         "couponCount": 6,
         "hasCoupons": true,
         "currency": "RON",
@@ -256,7 +256,7 @@
       },
       {
         "symbol": "BCR31",
-        "lastUpdated": "2026-02-24T14:08:29Z",
+        "lastUpdated": "2026-02-24T18:02:32Z",
         "couponCount": 6,
         "hasCoupons": true,
         "currency": "RON",
@@ -265,7 +265,7 @@
       },
       {
         "symbol": "BCR31E",
-        "lastUpdated": "2026-02-24T14:08:35Z",
+        "lastUpdated": "2026-02-24T18:02:38Z",
         "couponCount": 9,
         "hasCoupons": true,
         "currency": "EUR",
@@ -274,7 +274,7 @@
       },
       {
         "symbol": "BIH27",
-        "lastUpdated": "2026-02-24T14:08:40Z",
+        "lastUpdated": "2026-02-24T18:02:43Z",
         "couponCount": 34,
         "hasCoupons": true,
         "currency": "RON",
@@ -283,7 +283,7 @@
       },
       {
         "symbol": "BIS29",
-        "lastUpdated": "2026-02-24T14:08:45Z",
+        "lastUpdated": "2026-02-24T18:02:48Z",
         "couponCount": 80,
         "hasCoupons": true,
         "currency": "RON",
@@ -292,7 +292,7 @@
       },
       {
         "symbol": "BNET26E",
-        "lastUpdated": "2026-02-24T14:08:50Z",
+        "lastUpdated": "2026-02-24T18:02:53Z",
         "couponCount": 14,
         "hasCoupons": true,
         "currency": "EUR",
@@ -301,7 +301,7 @@
       },
       {
         "symbol": "BNET27A",
-        "lastUpdated": "2026-02-24T14:08:55Z",
+        "lastUpdated": "2026-02-24T18:02:58Z",
         "couponCount": 16,
         "hasCoupons": true,
         "currency": "RON",
@@ -310,7 +310,7 @@
       },
       {
         "symbol": "BNET28",
-        "lastUpdated": "2026-02-24T14:09:00Z",
+        "lastUpdated": "2026-02-24T18:03:03Z",
         "couponCount": 18,
         "hasCoupons": true,
         "currency": "RON",
@@ -319,7 +319,7 @@
       },
       {
         "symbol": "BNET28A",
-        "lastUpdated": "2026-02-24T14:09:05Z",
+        "lastUpdated": "2026-02-24T18:03:08Z",
         "couponCount": 16,
         "hasCoupons": true,
         "currency": "RON",
@@ -328,7 +328,7 @@
       },
       {
         "symbol": "BRK26",
-        "lastUpdated": "2026-02-24T14:09:10Z",
+        "lastUpdated": "2026-02-24T18:03:13Z",
         "couponCount": 20,
         "hasCoupons": true,
         "currency": "RON",
@@ -337,7 +337,7 @@
       },
       {
         "symbol": "CECRO28E",
-        "lastUpdated": "2026-02-24T14:09:15Z",
+        "lastUpdated": "2026-02-24T18:03:18Z",
         "couponCount": 8,
         "hasCoupons": true,
         "currency": "EUR",
@@ -346,7 +346,7 @@
       },
       {
         "symbol": "CECRO29E",
-        "lastUpdated": "2026-02-24T14:09:19Z",
+        "lastUpdated": "2026-02-24T18:03:23Z",
         "couponCount": 8,
         "hasCoupons": true,
         "currency": "EUR",
@@ -355,7 +355,7 @@
       },
       {
         "symbol": "CJC33E",
-        "lastUpdated": "2026-02-24T14:09:24Z",
+        "lastUpdated": "2026-02-24T18:03:28Z",
         "couponCount": 20,
         "hasCoupons": true,
         "currency": "EUR",
@@ -373,7 +373,7 @@
       },
       {
         "symbol": "EL30E",
-        "lastUpdated": "2026-02-24T14:09:37Z",
+        "lastUpdated": "2026-02-24T18:03:33Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -382,7 +382,7 @@
       },
       {
         "symbol": "ELF26",
-        "lastUpdated": "2026-02-24T14:09:42Z",
+        "lastUpdated": "2026-02-24T18:03:38Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "RON",
@@ -391,7 +391,7 @@
       },
       {
         "symbol": "FOC26",
-        "lastUpdated": "2026-02-24T14:09:47Z",
+        "lastUpdated": "2026-02-24T18:03:43Z",
         "couponCount": 70,
         "hasCoupons": true,
         "currency": "RON",
@@ -409,7 +409,7 @@
       },
       {
         "symbol": "HUE26",
-        "lastUpdated": "2026-02-24T14:10:00Z",
+        "lastUpdated": "2026-02-24T18:03:48Z",
         "couponCount": 80,
         "hasCoupons": true,
         "currency": "RON",
@@ -418,7 +418,7 @@
       },
       {
         "symbol": "HUE26A",
-        "lastUpdated": "2026-02-24T14:10:05Z",
+        "lastUpdated": "2026-02-24T18:03:53Z",
         "couponCount": 79,
         "hasCoupons": true,
         "currency": "RON",
@@ -427,7 +427,7 @@
       },
       {
         "symbol": "HUE26B",
-        "lastUpdated": "2026-02-24T14:10:10Z",
+        "lastUpdated": "2026-02-24T18:03:59Z",
         "couponCount": 77,
         "hasCoupons": true,
         "currency": "RON",
@@ -436,7 +436,7 @@
       },
       {
         "symbol": "IAS28",
-        "lastUpdated": "2026-02-24T14:10:15Z",
+        "lastUpdated": "2026-02-24T18:04:04Z",
         "couponCount": 81,
         "hasCoupons": true,
         "currency": "RON",
@@ -445,7 +445,7 @@
       },
       {
         "symbol": "IAS28A",
-        "lastUpdated": "2026-02-24T14:10:20Z",
+        "lastUpdated": "2026-02-24T18:04:09Z",
         "couponCount": 74,
         "hasCoupons": true,
         "currency": "RON",
@@ -463,7 +463,7 @@
       },
       {
         "symbol": "IMP26E",
-        "lastUpdated": "2026-02-24T14:10:33Z",
+        "lastUpdated": "2026-02-24T18:04:14Z",
         "couponCount": 12,
         "hasCoupons": true,
         "currency": "EUR",
@@ -472,7 +472,7 @@
       },
       {
         "symbol": "IMP27E",
-        "lastUpdated": "2026-02-24T14:10:38Z",
+        "lastUpdated": "2026-02-24T18:04:19Z",
         "couponCount": 6,
         "hasCoupons": true,
         "currency": "EUR",
@@ -481,7 +481,7 @@
       },
       {
         "symbol": "IMPI26E",
-        "lastUpdated": "2026-02-24T14:10:43Z",
+        "lastUpdated": "2026-02-24T18:04:24Z",
         "couponCount": 13,
         "hasCoupons": true,
         "currency": "EUR",
@@ -490,7 +490,7 @@
       },
       {
         "symbol": "IMPI27E",
-        "lastUpdated": "2026-02-24T14:10:49Z",
+        "lastUpdated": "2026-02-24T18:04:30Z",
         "couponCount": 13,
         "hasCoupons": true,
         "currency": "EUR",
@@ -499,7 +499,7 @@
       },
       {
         "symbol": "ISSA26E",
-        "lastUpdated": "2026-02-24T14:10:53Z",
+        "lastUpdated": "2026-02-24T18:04:35Z",
         "couponCount": 20,
         "hasCoupons": true,
         "currency": "EUR",
@@ -508,7 +508,7 @@
       },
       {
         "symbol": "JOBS26E",
-        "lastUpdated": "2026-02-24T14:10:58Z",
+        "lastUpdated": "2026-02-24T18:04:40Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "EUR",
@@ -517,7 +517,7 @@
       },
       {
         "symbol": "LIBRA28E",
-        "lastUpdated": "2026-02-24T14:11:03Z",
+        "lastUpdated": "2026-02-24T18:04:45Z",
         "couponCount": 7,
         "hasCoupons": true,
         "currency": "EUR",
@@ -526,7 +526,7 @@
       },
       {
         "symbol": "LIBRA30E",
-        "lastUpdated": "2026-02-24T14:11:08Z",
+        "lastUpdated": "2026-02-24T18:04:50Z",
         "couponCount": 20,
         "hasCoupons": true,
         "currency": "EUR",
@@ -535,7 +535,7 @@
       },
       {
         "symbol": "LIBRA32E",
-        "lastUpdated": "2026-02-24T14:11:13Z",
+        "lastUpdated": "2026-02-24T18:04:55Z",
         "couponCount": 20,
         "hasCoupons": true,
         "currency": "EUR",
@@ -544,7 +544,7 @@
       },
       {
         "symbol": "LIH28",
-        "lastUpdated": "2026-02-24T14:11:18Z",
+        "lastUpdated": "2026-02-24T18:05:00Z",
         "couponCount": 16,
         "hasCoupons": true,
         "currency": "RON",
@@ -562,7 +562,7 @@
       },
       {
         "symbol": "MILK28E",
-        "lastUpdated": "2026-02-24T14:11:31Z",
+        "lastUpdated": "2026-02-24T18:05:06Z",
         "couponCount": 12,
         "hasCoupons": true,
         "currency": "EUR",
@@ -571,7 +571,7 @@
       },
       {
         "symbol": "MKR27E",
-        "lastUpdated": "2026-02-24T14:11:37Z",
+        "lastUpdated": "2026-02-24T18:05:11Z",
         "couponCount": 13,
         "hasCoupons": true,
         "currency": "EUR",
@@ -580,7 +580,7 @@
       },
       {
         "symbol": "MWGP27",
-        "lastUpdated": "2026-02-24T14:11:41Z",
+        "lastUpdated": "2026-02-24T18:05:16Z",
         "couponCount": 14,
         "hasCoupons": true,
         "currency": "RON",
@@ -589,7 +589,7 @@
       },
       {
         "symbol": "NAV27",
-        "lastUpdated": "2026-02-24T14:11:46Z",
+        "lastUpdated": "2026-02-24T18:05:21Z",
         "couponCount": 37,
         "hasCoupons": true,
         "currency": "RON",
@@ -598,7 +598,7 @@
       },
       {
         "symbol": "NRF29",
-        "lastUpdated": "2026-02-24T14:11:51Z",
+        "lastUpdated": "2026-02-24T18:05:26Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "RON",
@@ -607,7 +607,7 @@
       },
       {
         "symbol": "NUSCO28",
-        "lastUpdated": "2026-02-24T14:11:57Z",
+        "lastUpdated": "2026-02-24T18:05:31Z",
         "couponCount": 14,
         "hasCoupons": true,
         "currency": "RON",
@@ -616,7 +616,7 @@
       },
       {
         "symbol": "OCIFN26E",
-        "lastUpdated": "2026-02-24T14:12:02Z",
+        "lastUpdated": "2026-02-24T18:05:36Z",
         "couponCount": 20,
         "hasCoupons": true,
         "currency": "EUR",
@@ -625,7 +625,7 @@
       },
       {
         "symbol": "OMRO26",
-        "lastUpdated": "2026-02-24T14:12:07Z",
+        "lastUpdated": "2026-02-24T18:05:41Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "RON",
@@ -634,7 +634,7 @@
       },
       {
         "symbol": "OMRO29E",
-        "lastUpdated": "2026-02-24T14:12:12Z",
+        "lastUpdated": "2026-02-24T18:05:46Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "EUR",
@@ -643,7 +643,7 @@
       },
       {
         "symbol": "OMRO32",
-        "lastUpdated": "2026-02-24T16:10:03Z",
+        "lastUpdated": "2026-02-24T18:05:51Z",
         "couponCount": 14,
         "hasCoupons": true,
         "currency": "RON",
@@ -652,7 +652,7 @@
       },
       {
         "symbol": "ORS29",
-        "lastUpdated": "2026-02-24T14:12:21Z",
+        "lastUpdated": "2026-02-24T18:05:56Z",
         "couponCount": 80,
         "hasCoupons": true,
         "currency": "RON",
@@ -661,7 +661,7 @@
       },
       {
         "symbol": "ORV27",
-        "lastUpdated": "2026-02-24T14:12:26Z",
+        "lastUpdated": "2026-02-24T18:06:01Z",
         "couponCount": 39,
         "hasCoupons": true,
         "currency": "RON",
@@ -670,7 +670,7 @@
       },
       {
         "symbol": "PAY26E",
-        "lastUpdated": "2026-02-24T14:12:31Z",
+        "lastUpdated": "2026-02-24T18:06:06Z",
         "couponCount": 20,
         "hasCoupons": true,
         "currency": "EUR",
@@ -679,7 +679,7 @@
       },
       {
         "symbol": "PBK27E",
-        "lastUpdated": "2026-02-24T14:12:36Z",
+        "lastUpdated": "2026-02-24T18:06:11Z",
         "couponCount": 16,
         "hasCoupons": true,
         "currency": "EUR",
@@ -688,7 +688,7 @@
       },
       {
         "symbol": "PBK28E",
-        "lastUpdated": "2026-02-24T14:12:41Z",
+        "lastUpdated": "2026-02-24T18:06:16Z",
         "couponCount": 16,
         "hasCoupons": true,
         "currency": "EUR",
@@ -697,7 +697,7 @@
       },
       {
         "symbol": "PMB28",
-        "lastUpdated": "2026-02-24T14:12:46Z",
+        "lastUpdated": "2026-02-24T18:06:21Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "RON",
@@ -706,7 +706,7 @@
       },
       {
         "symbol": "PMB30",
-        "lastUpdated": "2026-02-24T14:12:52Z",
+        "lastUpdated": "2026-02-24T18:06:27Z",
         "couponCount": 7,
         "hasCoupons": true,
         "currency": "RON",
@@ -715,7 +715,7 @@
       },
       {
         "symbol": "PMB31",
-        "lastUpdated": "2026-02-24T14:12:57Z",
+        "lastUpdated": "2026-02-24T18:06:32Z",
         "couponCount": 12,
         "hasCoupons": true,
         "currency": "RON",
@@ -724,7 +724,7 @@
       },
       {
         "symbol": "PMB32",
-        "lastUpdated": "2026-02-24T14:13:02Z",
+        "lastUpdated": "2026-02-24T18:06:38Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "RON",
@@ -733,7 +733,7 @@
       },
       {
         "symbol": "PRD26",
-        "lastUpdated": "2026-02-24T16:10:08Z",
+        "lastUpdated": "2026-02-24T18:06:43Z",
         "couponCount": 40,
         "hasCoupons": true,
         "currency": "RON",
@@ -742,7 +742,7 @@
       },
       {
         "symbol": "PRF26E",
-        "lastUpdated": "2026-02-24T14:13:12Z",
+        "lastUpdated": "2026-02-24T18:06:48Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "EUR",
@@ -751,7 +751,7 @@
       },
       {
         "symbol": "R2603A",
-        "lastUpdated": "2026-02-24T14:13:18Z",
+        "lastUpdated": "2026-02-24T18:06:53Z",
         "couponCount": 1,
         "hasCoupons": true,
         "currency": "RON",
@@ -760,7 +760,7 @@
       },
       {
         "symbol": "R2603AE",
-        "lastUpdated": "2026-02-24T14:13:23Z",
+        "lastUpdated": "2026-02-24T18:06:59Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -769,7 +769,7 @@
       },
       {
         "symbol": "R2603B",
-        "lastUpdated": "2026-02-24T14:13:29Z",
+        "lastUpdated": "2026-02-24T18:07:04Z",
         "couponCount": 1,
         "hasCoupons": true,
         "currency": "RON",
@@ -778,7 +778,7 @@
       },
       {
         "symbol": "R2604A",
-        "lastUpdated": "2026-02-24T14:13:34Z",
+        "lastUpdated": "2026-02-24T18:07:09Z",
         "couponCount": 3,
         "hasCoupons": true,
         "currency": "RON",
@@ -787,7 +787,7 @@
       },
       {
         "symbol": "R2604B",
-        "lastUpdated": "2026-02-24T14:13:40Z",
+        "lastUpdated": "2026-02-24T18:07:15Z",
         "couponCount": 1,
         "hasCoupons": true,
         "currency": "RON",
@@ -796,7 +796,7 @@
       },
       {
         "symbol": "R2604C",
-        "lastUpdated": "2026-02-24T14:13:45Z",
+        "lastUpdated": "2026-02-24T18:07:20Z",
         "couponCount": 1,
         "hasCoupons": true,
         "currency": "RON",
@@ -805,7 +805,7 @@
       },
       {
         "symbol": "R2605A",
-        "lastUpdated": "2026-02-24T14:13:51Z",
+        "lastUpdated": "2026-02-24T18:07:26Z",
         "couponCount": 1,
         "hasCoupons": true,
         "currency": "RON",
@@ -814,7 +814,7 @@
       },
       {
         "symbol": "R2605B",
-        "lastUpdated": "2026-02-24T14:13:56Z",
+        "lastUpdated": "2026-02-24T18:07:31Z",
         "couponCount": 1,
         "hasCoupons": true,
         "currency": "RON",
@@ -823,7 +823,7 @@
       },
       {
         "symbol": "R2608A",
-        "lastUpdated": "2026-02-24T14:14:01Z",
+        "lastUpdated": "2026-02-24T18:07:37Z",
         "couponCount": 3,
         "hasCoupons": true,
         "currency": "RON",
@@ -832,7 +832,7 @@
       },
       {
         "symbol": "R2610A",
-        "lastUpdated": "2026-02-24T14:14:08Z",
+        "lastUpdated": "2026-02-24T18:07:42Z",
         "couponCount": 3,
         "hasCoupons": true,
         "currency": "RON",
@@ -841,7 +841,7 @@
       },
       {
         "symbol": "R2610AE",
-        "lastUpdated": "2026-02-24T14:14:14Z",
+        "lastUpdated": "2026-02-24T18:07:48Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -850,7 +850,7 @@
       },
       {
         "symbol": "R2612A",
-        "lastUpdated": "2026-02-24T14:14:19Z",
+        "lastUpdated": "2026-02-24T18:07:53Z",
         "couponCount": 3,
         "hasCoupons": true,
         "currency": "RON",
@@ -859,7 +859,7 @@
       },
       {
         "symbol": "R2612AE",
-        "lastUpdated": "2026-02-24T14:14:25Z",
+        "lastUpdated": "2026-02-24T18:07:59Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -868,7 +868,7 @@
       },
       {
         "symbol": "R2612BE",
-        "lastUpdated": "2026-02-24T14:14:30Z",
+        "lastUpdated": "2026-02-24T18:08:04Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "EUR",
@@ -877,7 +877,7 @@
       },
       {
         "symbol": "R2702AE",
-        "lastUpdated": "2026-02-24T14:14:35Z",
+        "lastUpdated": "2026-02-24T18:08:10Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "EUR",
@@ -886,7 +886,7 @@
       },
       {
         "symbol": "R2703A",
-        "lastUpdated": "2026-02-24T14:14:41Z",
+        "lastUpdated": "2026-02-24T18:08:15Z",
         "couponCount": 3,
         "hasCoupons": true,
         "currency": "RON",
@@ -895,7 +895,7 @@
       },
       {
         "symbol": "R2703AE",
-        "lastUpdated": "2026-02-24T14:14:46Z",
+        "lastUpdated": "2026-02-24T18:08:20Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "EUR",
@@ -904,7 +904,7 @@
       },
       {
         "symbol": "R2704A",
-        "lastUpdated": "2026-02-24T14:14:52Z",
+        "lastUpdated": "2026-02-24T18:08:26Z",
         "couponCount": 3,
         "hasCoupons": true,
         "currency": "RON",
@@ -913,7 +913,7 @@
       },
       {
         "symbol": "R2704AE",
-        "lastUpdated": "2026-02-24T14:14:57Z",
+        "lastUpdated": "2026-02-24T18:08:31Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "EUR",
@@ -922,7 +922,7 @@
       },
       {
         "symbol": "R2705AE",
-        "lastUpdated": "2026-02-24T14:15:03Z",
+        "lastUpdated": "2026-02-24T18:08:37Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "EUR",
@@ -931,7 +931,7 @@
       },
       {
         "symbol": "R2706A",
-        "lastUpdated": "2026-02-24T14:15:08Z",
+        "lastUpdated": "2026-02-24T18:08:42Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "RON",
@@ -940,7 +940,7 @@
       },
       {
         "symbol": "R2706AE",
-        "lastUpdated": "2026-02-24T14:15:14Z",
+        "lastUpdated": "2026-02-24T18:08:48Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "EUR",
@@ -949,7 +949,7 @@
       },
       {
         "symbol": "R2706B",
-        "lastUpdated": "2026-02-24T14:15:19Z",
+        "lastUpdated": "2026-02-24T18:08:53Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "RON",
@@ -958,7 +958,7 @@
       },
       {
         "symbol": "R2707A",
-        "lastUpdated": "2026-02-24T14:15:24Z",
+        "lastUpdated": "2026-02-24T18:08:59Z",
         "couponCount": 3,
         "hasCoupons": true,
         "currency": "RON",
@@ -967,7 +967,7 @@
       },
       {
         "symbol": "R2707AE",
-        "lastUpdated": "2026-02-24T14:15:30Z",
+        "lastUpdated": "2026-02-24T18:09:04Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "EUR",
@@ -976,7 +976,7 @@
       },
       {
         "symbol": "R2707B",
-        "lastUpdated": "2026-02-24T14:15:35Z",
+        "lastUpdated": "2026-02-24T18:09:09Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "RON",
@@ -985,7 +985,7 @@
       },
       {
         "symbol": "R2707BE",
-        "lastUpdated": "2026-02-24T14:15:41Z",
+        "lastUpdated": "2026-02-24T18:09:15Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "EUR",
@@ -994,7 +994,7 @@
       },
       {
         "symbol": "R2707C",
-        "lastUpdated": "2026-02-24T14:15:46Z",
+        "lastUpdated": "2026-02-24T18:09:20Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "RON",
@@ -1003,7 +1003,7 @@
       },
       {
         "symbol": "R2708A",
-        "lastUpdated": "2026-02-24T14:15:52Z",
+        "lastUpdated": "2026-02-24T18:09:26Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "RON",
@@ -1012,7 +1012,7 @@
       },
       {
         "symbol": "R2708AE",
-        "lastUpdated": "2026-02-24T14:15:57Z",
+        "lastUpdated": "2026-02-24T18:09:32Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1021,7 +1021,7 @@
       },
       {
         "symbol": "R2708B",
-        "lastUpdated": "2026-02-24T14:16:03Z",
+        "lastUpdated": "2026-02-24T18:09:37Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "RON",
@@ -1030,7 +1030,7 @@
       },
       {
         "symbol": "R2708BE",
-        "lastUpdated": "2026-02-24T14:16:08Z",
+        "lastUpdated": "2026-02-24T18:09:43Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1039,7 +1039,7 @@
       },
       {
         "symbol": "R2709A",
-        "lastUpdated": "2026-02-24T14:16:13Z",
+        "lastUpdated": "2026-02-24T18:09:48Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "RON",
@@ -1048,7 +1048,7 @@
       },
       {
         "symbol": "R2709AE",
-        "lastUpdated": "2026-02-24T14:16:19Z",
+        "lastUpdated": "2026-02-24T18:09:54Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1057,7 +1057,7 @@
       },
       {
         "symbol": "R2709B",
-        "lastUpdated": "2026-02-24T14:16:24Z",
+        "lastUpdated": "2026-02-24T18:09:59Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "RON",
@@ -1066,7 +1066,7 @@
       },
       {
         "symbol": "R2709BE",
-        "lastUpdated": "2026-02-24T14:16:29Z",
+        "lastUpdated": "2026-02-24T18:10:05Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1075,7 +1075,7 @@
       },
       {
         "symbol": "R2710A",
-        "lastUpdated": "2026-02-24T14:16:35Z",
+        "lastUpdated": "2026-02-24T18:10:10Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "RON",
@@ -1084,7 +1084,7 @@
       },
       {
         "symbol": "R2710B",
-        "lastUpdated": "2026-02-24T14:16:40Z",
+        "lastUpdated": "2026-02-24T18:10:16Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "RON",
@@ -1093,7 +1093,7 @@
       },
       {
         "symbol": "R2711A",
-        "lastUpdated": "2026-02-24T14:16:46Z",
+        "lastUpdated": "2026-02-24T18:10:21Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "RON",
@@ -1102,7 +1102,7 @@
       },
       {
         "symbol": "R2711B",
-        "lastUpdated": "2026-02-24T14:16:51Z",
+        "lastUpdated": "2026-02-24T18:10:27Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "RON",
@@ -1111,7 +1111,7 @@
       },
       {
         "symbol": "R2712A",
-        "lastUpdated": "2026-02-24T14:16:56Z",
+        "lastUpdated": "2026-02-24T18:10:32Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "RON",
@@ -1120,7 +1120,7 @@
       },
       {
         "symbol": "R2712B",
-        "lastUpdated": "2026-02-24T14:17:02Z",
+        "lastUpdated": "2026-02-24T18:10:37Z",
         "couponCount": 3,
         "hasCoupons": true,
         "currency": "RON",
@@ -1129,7 +1129,7 @@
       },
       {
         "symbol": "R2712D",
-        "lastUpdated": "2026-02-24T14:17:07Z",
+        "lastUpdated": "2026-02-24T18:10:43Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "RON",
@@ -1138,7 +1138,7 @@
       },
       {
         "symbol": "R2801A",
-        "lastUpdated": "2026-02-24T14:17:13Z",
+        "lastUpdated": "2026-02-24T18:10:48Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "RON",
@@ -1147,7 +1147,7 @@
       },
       {
         "symbol": "R2801B",
-        "lastUpdated": "2026-02-24T14:17:18Z",
+        "lastUpdated": "2026-02-24T18:10:54Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "RON",
@@ -1156,7 +1156,7 @@
       },
       {
         "symbol": "R2802A",
-        "lastUpdated": "2026-02-24T14:17:24Z",
+        "lastUpdated": "2026-02-24T18:10:59Z",
         "couponCount": 3,
         "hasCoupons": true,
         "currency": "RON",
@@ -1165,7 +1165,7 @@
       },
       {
         "symbol": "R2802B",
-        "lastUpdated": "2026-02-24T14:17:29Z",
+        "lastUpdated": "2026-02-24T18:11:05Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "RON",
@@ -1174,7 +1174,7 @@
       },
       {
         "symbol": "R2802C",
-        "lastUpdated": "2026-02-24T14:17:34Z",
+        "lastUpdated": "2026-02-24T18:11:10Z",
         "couponCount": 2,
         "hasCoupons": true,
         "currency": "RON",
@@ -1183,7 +1183,7 @@
       },
       {
         "symbol": "R2803A",
-        "lastUpdated": "2026-02-24T14:17:40Z",
+        "lastUpdated": "2026-02-24T18:11:16Z",
         "couponCount": 3,
         "hasCoupons": true,
         "currency": "RON",
@@ -1192,7 +1192,7 @@
       },
       {
         "symbol": "R2804A",
-        "lastUpdated": "2026-02-24T14:17:45Z",
+        "lastUpdated": "2026-02-24T18:11:21Z",
         "couponCount": 3,
         "hasCoupons": true,
         "currency": "RON",
@@ -1201,7 +1201,7 @@
       },
       {
         "symbol": "R2804AE",
-        "lastUpdated": "2026-02-24T14:17:51Z",
+        "lastUpdated": "2026-02-24T18:11:27Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1210,7 +1210,7 @@
       },
       {
         "symbol": "R2805A",
-        "lastUpdated": "2026-02-24T14:17:57Z",
+        "lastUpdated": "2026-02-24T18:11:32Z",
         "couponCount": 3,
         "hasCoupons": true,
         "currency": "RON",
@@ -1219,7 +1219,7 @@
       },
       {
         "symbol": "R2808AE",
-        "lastUpdated": "2026-02-24T14:18:02Z",
+        "lastUpdated": "2026-02-24T18:11:38Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1228,7 +1228,7 @@
       },
       {
         "symbol": "R2810AE",
-        "lastUpdated": "2026-02-24T14:18:08Z",
+        "lastUpdated": "2026-02-24T18:11:43Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1237,7 +1237,7 @@
       },
       {
         "symbol": "R2810CE",
-        "lastUpdated": "2026-02-24T14:18:13Z",
+        "lastUpdated": "2026-02-24T18:11:48Z",
         "couponCount": 3,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1246,7 +1246,7 @@
       },
       {
         "symbol": "R2811AE",
-        "lastUpdated": "2026-02-24T14:18:19Z",
+        "lastUpdated": "2026-02-24T18:11:54Z",
         "couponCount": 3,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1255,7 +1255,7 @@
       },
       {
         "symbol": "R2812AE",
-        "lastUpdated": "2026-02-24T14:18:24Z",
+        "lastUpdated": "2026-02-24T18:11:59Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1264,7 +1264,7 @@
       },
       {
         "symbol": "R2812CE",
-        "lastUpdated": "2026-02-24T14:18:29Z",
+        "lastUpdated": "2026-02-24T18:12:05Z",
         "couponCount": 3,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1273,7 +1273,7 @@
       },
       {
         "symbol": "R2901AE",
-        "lastUpdated": "2026-02-24T14:18:35Z",
+        "lastUpdated": "2026-02-24T18:12:10Z",
         "couponCount": 3,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1282,7 +1282,7 @@
       },
       {
         "symbol": "R2902AE",
-        "lastUpdated": "2026-02-24T14:18:40Z",
+        "lastUpdated": "2026-02-24T18:12:16Z",
         "couponCount": 3,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1291,7 +1291,7 @@
       },
       {
         "symbol": "R2903AE",
-        "lastUpdated": "2026-02-24T14:18:46Z",
+        "lastUpdated": "2026-02-24T18:12:22Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1300,7 +1300,7 @@
       },
       {
         "symbol": "R2904AE",
-        "lastUpdated": "2026-02-24T14:18:51Z",
+        "lastUpdated": "2026-02-24T18:12:27Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1309,7 +1309,7 @@
       },
       {
         "symbol": "R2906A",
-        "lastUpdated": "2026-02-24T14:18:57Z",
+        "lastUpdated": "2026-02-24T18:12:33Z",
         "couponCount": 4,
         "hasCoupons": true,
         "currency": "RON",
@@ -1318,7 +1318,7 @@
       },
       {
         "symbol": "R2907A",
-        "lastUpdated": "2026-02-24T14:19:02Z",
+        "lastUpdated": "2026-02-24T18:12:38Z",
         "couponCount": 4,
         "hasCoupons": true,
         "currency": "RON",
@@ -1327,7 +1327,7 @@
       },
       {
         "symbol": "R2907AE",
-        "lastUpdated": "2026-02-24T14:19:08Z",
+        "lastUpdated": "2026-02-24T18:12:44Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1336,7 +1336,7 @@
       },
       {
         "symbol": "R2908A",
-        "lastUpdated": "2026-02-24T14:19:14Z",
+        "lastUpdated": "2026-02-24T18:12:49Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "RON",
@@ -1345,7 +1345,7 @@
       },
       {
         "symbol": "R2908AE",
-        "lastUpdated": "2026-02-24T14:19:19Z",
+        "lastUpdated": "2026-02-24T18:12:54Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1354,7 +1354,7 @@
       },
       {
         "symbol": "R2908C",
-        "lastUpdated": "2026-02-24T14:19:25Z",
+        "lastUpdated": "2026-02-24T18:13:00Z",
         "couponCount": 4,
         "hasCoupons": true,
         "currency": "RON",
@@ -1363,7 +1363,7 @@
       },
       {
         "symbol": "R2909A",
-        "lastUpdated": "2026-02-24T14:19:30Z",
+        "lastUpdated": "2026-02-24T18:13:05Z",
         "couponCount": 4,
         "hasCoupons": true,
         "currency": "RON",
@@ -1372,7 +1372,7 @@
       },
       {
         "symbol": "R2910A",
-        "lastUpdated": "2026-02-24T14:19:36Z",
+        "lastUpdated": "2026-02-24T18:13:11Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "RON",
@@ -1381,7 +1381,7 @@
       },
       {
         "symbol": "R2910AE",
-        "lastUpdated": "2026-02-24T14:19:41Z",
+        "lastUpdated": "2026-02-24T18:13:16Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1390,7 +1390,7 @@
       },
       {
         "symbol": "R2910C",
-        "lastUpdated": "2026-02-24T14:19:47Z",
+        "lastUpdated": "2026-02-24T18:13:22Z",
         "couponCount": 4,
         "hasCoupons": true,
         "currency": "RON",
@@ -1399,7 +1399,7 @@
       },
       {
         "symbol": "R2911A",
-        "lastUpdated": "2026-02-24T14:19:53Z",
+        "lastUpdated": "2026-02-24T18:13:27Z",
         "couponCount": 4,
         "hasCoupons": true,
         "currency": "RON",
@@ -1408,7 +1408,7 @@
       },
       {
         "symbol": "R2912A",
-        "lastUpdated": "2026-02-24T14:19:58Z",
+        "lastUpdated": "2026-02-24T18:13:33Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "RON",
@@ -1417,7 +1417,7 @@
       },
       {
         "symbol": "R2912C",
-        "lastUpdated": "2026-02-24T14:20:04Z",
+        "lastUpdated": "2026-02-24T18:13:38Z",
         "couponCount": 4,
         "hasCoupons": true,
         "currency": "RON",
@@ -1426,7 +1426,7 @@
       },
       {
         "symbol": "R3001A",
-        "lastUpdated": "2026-02-24T14:20:09Z",
+        "lastUpdated": "2026-02-24T18:13:43Z",
         "couponCount": 4,
         "hasCoupons": true,
         "currency": "RON",
@@ -1435,7 +1435,7 @@
       },
       {
         "symbol": "R3002A",
-        "lastUpdated": "2026-02-24T14:20:14Z",
+        "lastUpdated": "2026-02-24T18:13:49Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "RON",
@@ -1444,7 +1444,7 @@
       },
       {
         "symbol": "R3002C",
-        "lastUpdated": "2026-02-24T14:20:20Z",
+        "lastUpdated": "2026-02-24T18:13:54Z",
         "couponCount": 4,
         "hasCoupons": true,
         "currency": "RON",
@@ -1453,7 +1453,7 @@
       },
       {
         "symbol": "R3003A",
-        "lastUpdated": "2026-02-24T14:20:26Z",
+        "lastUpdated": "2026-02-24T18:14:00Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "RON",
@@ -1462,7 +1462,7 @@
       },
       {
         "symbol": "R3004A",
-        "lastUpdated": "2026-02-24T14:20:31Z",
+        "lastUpdated": "2026-02-24T18:14:05Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "RON",
@@ -1471,7 +1471,7 @@
       },
       {
         "symbol": "R3005A",
-        "lastUpdated": "2026-02-24T14:20:37Z",
+        "lastUpdated": "2026-02-24T18:14:11Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "RON",
@@ -1480,7 +1480,7 @@
       },
       {
         "symbol": "R3006AE",
-        "lastUpdated": "2026-02-24T14:20:42Z",
+        "lastUpdated": "2026-02-24T18:14:16Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1489,7 +1489,7 @@
       },
       {
         "symbol": "R3007AE",
-        "lastUpdated": "2026-02-24T14:20:47Z",
+        "lastUpdated": "2026-02-24T18:14:22Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1498,7 +1498,7 @@
       },
       {
         "symbol": "R3008AE",
-        "lastUpdated": "2026-02-24T14:20:53Z",
+        "lastUpdated": "2026-02-24T18:14:28Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1507,7 +1507,7 @@
       },
       {
         "symbol": "R3009AE",
-        "lastUpdated": "2026-02-24T14:20:58Z",
+        "lastUpdated": "2026-02-24T18:14:33Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1516,7 +1516,7 @@
       },
       {
         "symbol": "R3010AE",
-        "lastUpdated": "2026-02-24T14:21:04Z",
+        "lastUpdated": "2026-02-24T18:14:39Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1525,7 +1525,7 @@
       },
       {
         "symbol": "R3011AE",
-        "lastUpdated": "2026-02-24T14:21:09Z",
+        "lastUpdated": "2026-02-24T18:14:44Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1534,7 +1534,7 @@
       },
       {
         "symbol": "R3012AE",
-        "lastUpdated": "2026-02-24T14:21:15Z",
+        "lastUpdated": "2026-02-24T18:14:50Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1543,7 +1543,7 @@
       },
       {
         "symbol": "R3101AE",
-        "lastUpdated": "2026-02-24T14:21:20Z",
+        "lastUpdated": "2026-02-24T18:14:55Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1552,7 +1552,7 @@
       },
       {
         "symbol": "R3102AE",
-        "lastUpdated": "2026-02-24T14:21:26Z",
+        "lastUpdated": "2026-02-24T18:15:01Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1561,7 +1561,7 @@
       },
       {
         "symbol": "R3106A",
-        "lastUpdated": "2026-02-24T14:21:31Z",
+        "lastUpdated": "2026-02-24T18:15:06Z",
         "couponCount": 6,
         "hasCoupons": true,
         "currency": "RON",
@@ -1570,7 +1570,7 @@
       },
       {
         "symbol": "R3107A",
-        "lastUpdated": "2026-02-24T14:21:36Z",
+        "lastUpdated": "2026-02-24T18:15:12Z",
         "couponCount": 6,
         "hasCoupons": true,
         "currency": "RON",
@@ -1579,7 +1579,7 @@
       },
       {
         "symbol": "R3108A",
-        "lastUpdated": "2026-02-24T14:21:42Z",
+        "lastUpdated": "2026-02-24T18:15:17Z",
         "couponCount": 6,
         "hasCoupons": true,
         "currency": "RON",
@@ -1588,7 +1588,7 @@
       },
       {
         "symbol": "R3109A",
-        "lastUpdated": "2026-02-24T14:21:47Z",
+        "lastUpdated": "2026-02-24T18:15:22Z",
         "couponCount": 6,
         "hasCoupons": true,
         "currency": "RON",
@@ -1597,7 +1597,7 @@
       },
       {
         "symbol": "R3110A",
-        "lastUpdated": "2026-02-24T14:21:53Z",
+        "lastUpdated": "2026-02-24T18:15:28Z",
         "couponCount": 6,
         "hasCoupons": true,
         "currency": "RON",
@@ -1606,7 +1606,7 @@
       },
       {
         "symbol": "R3111A",
-        "lastUpdated": "2026-02-24T14:21:58Z",
+        "lastUpdated": "2026-02-24T18:15:33Z",
         "couponCount": 6,
         "hasCoupons": true,
         "currency": "RON",
@@ -1615,7 +1615,7 @@
       },
       {
         "symbol": "R3112A",
-        "lastUpdated": "2026-02-24T14:22:04Z",
+        "lastUpdated": "2026-02-24T18:15:39Z",
         "couponCount": 6,
         "hasCoupons": true,
         "currency": "RON",
@@ -1624,7 +1624,7 @@
       },
       {
         "symbol": "R3112AE",
-        "lastUpdated": "2026-02-24T14:22:10Z",
+        "lastUpdated": "2026-02-24T18:15:44Z",
         "couponCount": 7,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1633,7 +1633,7 @@
       },
       {
         "symbol": "R3201A",
-        "lastUpdated": "2026-02-24T14:22:15Z",
+        "lastUpdated": "2026-02-24T18:15:50Z",
         "couponCount": 6,
         "hasCoupons": true,
         "currency": "RON",
@@ -1642,7 +1642,7 @@
       },
       {
         "symbol": "R3202A",
-        "lastUpdated": "2026-02-24T14:22:21Z",
+        "lastUpdated": "2026-02-24T18:15:55Z",
         "couponCount": 6,
         "hasCoupons": true,
         "currency": "RON",
@@ -1651,7 +1651,7 @@
       },
       {
         "symbol": "R3202AE",
-        "lastUpdated": "2026-02-24T14:22:26Z",
+        "lastUpdated": "2026-02-24T18:16:01Z",
         "couponCount": 7,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1660,7 +1660,7 @@
       },
       {
         "symbol": "R3203AE",
-        "lastUpdated": "2026-02-24T14:22:32Z",
+        "lastUpdated": "2026-02-24T18:16:06Z",
         "couponCount": 7,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1669,7 +1669,7 @@
       },
       {
         "symbol": "R3204AE",
-        "lastUpdated": "2026-02-24T14:22:37Z",
+        "lastUpdated": "2026-02-24T18:16:11Z",
         "couponCount": 7,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1678,7 +1678,7 @@
       },
       {
         "symbol": "R3205AE",
-        "lastUpdated": "2026-02-24T14:22:43Z",
+        "lastUpdated": "2026-02-24T18:16:17Z",
         "couponCount": 7,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1687,7 +1687,7 @@
       },
       {
         "symbol": "R3206AE",
-        "lastUpdated": "2026-02-24T14:22:48Z",
+        "lastUpdated": "2026-02-24T18:16:22Z",
         "couponCount": 7,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1696,7 +1696,7 @@
       },
       {
         "symbol": "R3207AE",
-        "lastUpdated": "2026-02-24T14:22:53Z",
+        "lastUpdated": "2026-02-24T18:16:28Z",
         "couponCount": 7,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1705,7 +1705,7 @@
       },
       {
         "symbol": "R3508AE",
-        "lastUpdated": "2026-02-24T14:22:59Z",
+        "lastUpdated": "2026-02-24T18:16:33Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1714,7 +1714,7 @@
       },
       {
         "symbol": "R3509AE",
-        "lastUpdated": "2026-02-24T14:23:04Z",
+        "lastUpdated": "2026-02-24T18:16:39Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1723,7 +1723,7 @@
       },
       {
         "symbol": "R3510AE",
-        "lastUpdated": "2026-02-24T14:23:10Z",
+        "lastUpdated": "2026-02-24T18:16:44Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1732,7 +1732,7 @@
       },
       {
         "symbol": "R3511AE",
-        "lastUpdated": "2026-02-24T14:23:15Z",
+        "lastUpdated": "2026-02-24T18:16:50Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1741,7 +1741,7 @@
       },
       {
         "symbol": "R3512AE",
-        "lastUpdated": "2026-02-24T14:23:20Z",
+        "lastUpdated": "2026-02-24T18:16:55Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1750,7 +1750,7 @@
       },
       {
         "symbol": "R3601AE",
-        "lastUpdated": "2026-02-24T14:23:26Z",
+        "lastUpdated": "2026-02-24T18:17:00Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1759,7 +1759,7 @@
       },
       {
         "symbol": "R3602AE",
-        "lastUpdated": "2026-02-24T14:23:31Z",
+        "lastUpdated": "2026-02-24T18:17:06Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1768,7 +1768,7 @@
       },
       {
         "symbol": "RBRO26",
-        "lastUpdated": "2026-02-24T14:23:36Z",
+        "lastUpdated": "2026-02-24T18:17:11Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "RON",
@@ -1777,7 +1777,7 @@
       },
       {
         "symbol": "RBRO27",
-        "lastUpdated": "2026-02-24T14:23:41Z",
+        "lastUpdated": "2026-02-24T18:17:16Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "RON",
@@ -1786,7 +1786,7 @@
       },
       {
         "symbol": "RBRO27A",
-        "lastUpdated": "2026-02-24T14:23:46Z",
+        "lastUpdated": "2026-02-24T18:17:21Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "RON",
@@ -1795,7 +1795,7 @@
       },
       {
         "symbol": "RBRO27B",
-        "lastUpdated": "2026-02-24T14:23:51Z",
+        "lastUpdated": "2026-02-24T18:17:26Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "RON",
@@ -1804,7 +1804,7 @@
       },
       {
         "symbol": "RBRO27C",
-        "lastUpdated": "2026-02-24T14:23:56Z",
+        "lastUpdated": "2026-02-24T18:17:31Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "RON",
@@ -1813,7 +1813,7 @@
       },
       {
         "symbol": "RBRO28",
-        "lastUpdated": "2026-02-24T14:24:01Z",
+        "lastUpdated": "2026-02-24T18:17:36Z",
         "couponCount": 7,
         "hasCoupons": true,
         "currency": "RON",
@@ -1831,7 +1831,7 @@
       },
       {
         "symbol": "RES33E",
-        "lastUpdated": "2026-02-24T14:24:13Z",
+        "lastUpdated": "2026-02-24T18:17:40Z",
         "couponCount": 20,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1840,7 +1840,7 @@
       },
       {
         "symbol": "SBET29",
-        "lastUpdated": "2026-02-24T14:24:18Z",
+        "lastUpdated": "2026-02-24T18:17:45Z",
         "couponCount": 8,
         "hasCoupons": true,
         "currency": "RON",
@@ -1849,7 +1849,7 @@
       },
       {
         "symbol": "SKI29",
-        "lastUpdated": "2026-02-24T14:24:23Z",
+        "lastUpdated": "2026-02-24T18:17:50Z",
         "couponCount": 20,
         "hasCoupons": true,
         "currency": "RON",
@@ -1867,7 +1867,7 @@
       },
       {
         "symbol": "SLB29",
-        "lastUpdated": "2026-02-24T14:24:36Z",
+        "lastUpdated": "2026-02-24T18:17:55Z",
         "couponCount": 80,
         "hasCoupons": true,
         "currency": "RON",
@@ -1876,7 +1876,7 @@
       },
       {
         "symbol": "SNG29E",
-        "lastUpdated": "2026-02-24T14:24:41Z",
+        "lastUpdated": "2026-02-24T18:18:01Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1885,7 +1885,7 @@
       },
       {
         "symbol": "SNG31E",
-        "lastUpdated": "2026-02-24T14:24:46Z",
+        "lastUpdated": "2026-02-24T18:18:06Z",
         "couponCount": 6,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1894,7 +1894,7 @@
       },
       {
         "symbol": "SRE28",
-        "lastUpdated": "2026-02-24T14:24:51Z",
+        "lastUpdated": "2026-02-24T18:18:11Z",
         "couponCount": 38,
         "hasCoupons": true,
         "currency": "RON",
@@ -1903,7 +1903,7 @@
       },
       {
         "symbol": "TEI26",
-        "lastUpdated": "2026-02-24T14:24:56Z",
+        "lastUpdated": "2026-02-24T18:18:16Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "RON",
@@ -1912,7 +1912,7 @@
       },
       {
         "symbol": "TEI26E",
-        "lastUpdated": "2026-02-24T14:25:01Z",
+        "lastUpdated": "2026-02-24T18:18:21Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1921,7 +1921,7 @@
       },
       {
         "symbol": "TEI29",
-        "lastUpdated": "2026-02-24T14:25:06Z",
+        "lastUpdated": "2026-02-24T18:18:26Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "RON",
@@ -1930,7 +1930,7 @@
       },
       {
         "symbol": "TEI29E",
-        "lastUpdated": "2026-02-24T14:25:11Z",
+        "lastUpdated": "2026-02-24T18:18:30Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "EUR",
@@ -1939,7 +1939,7 @@
       },
       {
         "symbol": "TGM27",
-        "lastUpdated": "2026-02-24T16:10:13Z",
+        "lastUpdated": "2026-02-24T18:18:36Z",
         "couponCount": 80,
         "hasCoupons": true,
         "currency": "RON",
@@ -1948,7 +1948,7 @@
       },
       {
         "symbol": "TGM27A",
-        "lastUpdated": "2026-02-24T16:10:18Z",
+        "lastUpdated": "2026-02-24T18:18:41Z",
         "couponCount": 78,
         "hasCoupons": true,
         "currency": "RON",
@@ -1957,7 +1957,7 @@
       },
       {
         "symbol": "TIM26",
-        "lastUpdated": "2026-02-24T14:25:26Z",
+        "lastUpdated": "2026-02-24T18:18:46Z",
         "couponCount": 78,
         "hasCoupons": true,
         "currency": "RON",
@@ -1966,7 +1966,7 @@
       },
       {
         "symbol": "TIM26A",
-        "lastUpdated": "2026-02-24T14:25:31Z",
+        "lastUpdated": "2026-02-24T18:18:51Z",
         "couponCount": 76,
         "hasCoupons": true,
         "currency": "RON",
@@ -1975,7 +1975,7 @@
       },
       {
         "symbol": "TIM26B",
-        "lastUpdated": "2026-02-24T14:25:36Z",
+        "lastUpdated": "2026-02-24T18:18:56Z",
         "couponCount": 74,
         "hasCoupons": true,
         "currency": "RON",
@@ -1984,7 +1984,7 @@
       },
       {
         "symbol": "TIM26C",
-        "lastUpdated": "2026-02-24T14:25:41Z",
+        "lastUpdated": "2026-02-24T18:19:01Z",
         "couponCount": 72,
         "hasCoupons": true,
         "currency": "RON",
@@ -1993,7 +1993,7 @@
       },
       {
         "symbol": "TIM26D",
-        "lastUpdated": "2026-02-24T14:25:46Z",
+        "lastUpdated": "2026-02-24T18:19:06Z",
         "couponCount": 71,
         "hasCoupons": true,
         "currency": "RON",
@@ -2002,7 +2002,7 @@
       },
       {
         "symbol": "TIM28",
-        "lastUpdated": "2026-02-24T14:25:51Z",
+        "lastUpdated": "2026-02-24T18:19:11Z",
         "couponCount": 68,
         "hasCoupons": true,
         "currency": "RON",
@@ -2011,7 +2011,7 @@
       },
       {
         "symbol": "TLV28E",
-        "lastUpdated": "2026-02-24T14:25:56Z",
+        "lastUpdated": "2026-02-24T18:19:16Z",
         "couponCount": 20,
         "hasCoupons": true,
         "currency": "EUR",
@@ -2020,7 +2020,7 @@
       },
       {
         "symbol": "TLV32",
-        "lastUpdated": "2026-02-24T14:26:01Z",
+        "lastUpdated": "2026-02-24T18:19:22Z",
         "couponCount": 7,
         "hasCoupons": true,
         "currency": "RON",
@@ -2029,7 +2029,7 @@
       },
       {
         "symbol": "TLV33E",
-        "lastUpdated": "2026-02-24T14:26:06Z",
+        "lastUpdated": "2026-02-24T18:19:27Z",
         "couponCount": 20,
         "hasCoupons": true,
         "currency": "EUR",
@@ -2038,7 +2038,7 @@
       },
       {
         "symbol": "TRI29",
-        "lastUpdated": "2026-02-24T14:26:11Z",
+        "lastUpdated": "2026-02-24T18:19:32Z",
         "couponCount": 20,
         "hasCoupons": true,
         "currency": "RON",
@@ -2047,7 +2047,7 @@
       },
       {
         "symbol": "UCB27",
-        "lastUpdated": "2026-02-24T14:26:16Z",
+        "lastUpdated": "2026-02-24T18:19:37Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "RON",
@@ -2056,7 +2056,7 @@
       },
       {
         "symbol": "UCB28",
-        "lastUpdated": "2026-02-24T14:26:21Z",
+        "lastUpdated": "2026-02-24T18:19:42Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "RON",
@@ -2065,7 +2065,7 @@
       },
       {
         "symbol": "UCB29",
-        "lastUpdated": "2026-02-24T14:26:26Z",
+        "lastUpdated": "2026-02-24T18:19:47Z",
         "couponCount": 5,
         "hasCoupons": true,
         "currency": "RON",
@@ -2083,7 +2083,7 @@
       },
       {
         "symbol": "VIV26E",
-        "lastUpdated": "2026-02-24T14:26:39Z",
+        "lastUpdated": "2026-02-24T18:19:52Z",
         "couponCount": 10,
         "hasCoupons": true,
         "currency": "EUR",
@@ -2092,7 +2092,7 @@
       },
       {
         "symbol": "ZAL30",
-        "lastUpdated": "2026-02-24T14:26:44Z",
+        "lastUpdated": "2026-02-24T18:19:57Z",
         "couponCount": 80,
         "hasCoupons": true,
         "currency": "RON",
@@ -2103,6 +2103,6 @@
   },
   "bondList": {
     "bondCount": 230,
-    "fetchedAt": "2026-02-24T17:34:56Z"
+    "fetchedAt": "2026-02-24T18:00:19Z"
   }
 }

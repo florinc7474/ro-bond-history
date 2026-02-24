@@ -1,0 +1,10 @@
+{
+  "_comment": "Known BVB data discrepancies. Used by fetch_bond_details.py to suppress false warnings.",
+  "_format": "Each key is a bond symbol. Fields: expectedCouponCount overrides bonds-list.json value.",
+  "overrides": {
+    "R3112AE": {
+      "expectedCouponCount": 7,
+      "reason": "BVB CSV says 9 coupons but detail page shows 7 (correct)"
+    }
+  }
+}

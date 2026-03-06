@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-03-05T07:25:25Z",
+  "fetchedAt": "2026-03-06T06:04:59Z",
   "source": "BVB",
-  "bondCount": 230,
+  "bondCount": 231,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -25,6 +25,29 @@
       "typeOriginal": "Obligatiuni corporative",
       "statusOriginal": "Tranzactionabila",
       "marketOriginal": "XRB"
+    },
+    {
+      "symbol": "ABG29E",
+      "name": "ALPHA BUILDERS GROUP BONDS 2029",
+      "isin": "RO7RB3HZ78S3",
+      "issuer": "ALPHA BUILDERS GROUP S.A.",
+      "fiscalCode": "18672560",
+      "issuedCount": null,
+      "faceValue": null,
+      "issueValue": null,
+      "issueDate": null,
+      "listingDate": null,
+      "maturityDate": null,
+      "couponCount": null,
+      "isConvertible": null,
+      "type": "corporate",
+      "market": "epofb",
+      "category": "-",
+      "status": "unknown",
+      "tradingModel": "Tranzactionare continua",
+      "typeOriginal": "Obligatiuni corporative",
+      "statusOriginal": "",
+      "marketOriginal": "EPOFB"
     },
     {
       "symbol": "AGR28",

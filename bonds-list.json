@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-03-13T07:27:40Z",
+  "fetchedAt": "2026-03-16T06:52:17Z",
   "source": "BVB",
-  "bondCount": 238,
+  "bondCount": 239,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -5430,6 +5430,29 @@
       "typeOriginal": "Obligatiuni corporative",
       "statusOriginal": "",
       "marketOriginal": "POFB"
+    },
+    {
+      "symbol": "VISTA36E",
+      "name": "Vista Bank Bonds 2036",
+      "isin": "RO15DXJASF99",
+      "issuer": "Vista Bank Romania S.A",
+      "fiscalCode": "10556861",
+      "issuedCount": null,
+      "faceValue": null,
+      "issueValue": null,
+      "issueDate": null,
+      "listingDate": null,
+      "maturityDate": null,
+      "couponCount": null,
+      "isConvertible": null,
+      "type": "corporate",
+      "market": "epofb",
+      "category": "-",
+      "status": "unknown",
+      "tradingModel": "Tranzactionare continua",
+      "typeOriginal": "Obligatiuni corporative",
+      "statusOriginal": "",
+      "marketOriginal": "EPOFB"
     },
     {
       "symbol": "VIV26E",

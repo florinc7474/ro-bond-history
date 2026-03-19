@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-19T06:34:17Z",
+  "fetchedAt": "2026-03-19T07:30:56Z",
   "source": "BVB",
   "bondCount": 239,
   "bonds": [
@@ -3010,10 +3010,10 @@
       "type": "government",
       "market": "regt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "REGT"
     },
     {
@@ -3033,10 +3033,10 @@
       "type": "government",
       "market": "regt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "REGT"
     },
     {
@@ -3332,10 +3332,10 @@
       "type": "government",
       "market": "regt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "REGT"
     },
     {
@@ -3769,10 +3769,10 @@
       "type": "government",
       "market": "regt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "REGT"
     },
     {
@@ -4045,10 +4045,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "EREGT"
     },
     {
@@ -4321,10 +4321,10 @@
       "type": "government",
       "market": "regt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "REGT"
     },
     {
@@ -4620,10 +4620,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "EREGT"
     },
     {

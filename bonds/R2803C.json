@@ -1,0 +1,41 @@
+{
+  "symbol": "R2803C",
+  "fetchedAt": "2026-03-19T06:34:28Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "RON",
+    "couponRate": 5.9,
+    "interestType": "fixed",
+    "issueDate": "2026-03-18",
+    "maturityDate": "2028-03-18",
+    "couponFrequency": 1
+  },
+  "annualRate": 5.9,
+  "frequency": 1,
+  "couponCount": 2,
+  "payments": [
+    {
+      "paymentDate": "2027-03-18",
+      "previousDate": "2026-03-18",
+      "referenceDate": "2027-03-09",
+      "couponRate": 5.9,
+      "number": 1
+    },
+    {
+      "paymentDate": "2028-03-18",
+      "previousDate": "2027-03-18",
+      "referenceDate": "2028-03-09",
+      "couponRate": 5.9,
+      "number": 2
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2028-03-09",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
+    }
+  ]
+}

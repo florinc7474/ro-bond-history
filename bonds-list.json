@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-03-20T06:11:27Z",
+  "fetchedAt": "2026-03-20T07:29:03Z",
   "source": "BVB",
-  "bondCount": 239,
+  "bondCount": 237,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -1867,29 +1867,6 @@
       "marketOriginal": "EXRB"
     },
     {
-      "symbol": "R2603A",
-      "name": "MINISTERUL FINANTELOR",
-      "isin": "ROK43NCW9LU1",
-      "issuer": "MINISTERUL  FINANTELOR",
-      "fiscalCode": "8609468",
-      "issuedCount": 7602285,
-      "faceValue": 100.0,
-      "issueValue": 760228500.0,
-      "issueDate": "2025-03-19",
-      "listingDate": "2025-03-20",
-      "maturityDate": "2026-03-19",
-      "couponCount": 1,
-      "isConvertible": null,
-      "type": "government",
-      "market": "regt",
-      "category": "Titluri de stat",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "REGT"
-    },
-    {
       "symbol": "R2603AE",
       "name": "MINISTERUL FINANTELOR",
       "isin": "ROVJSKSV4CU2",
@@ -1911,29 +1888,6 @@
       "typeOriginal": "Titluri de stat",
       "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
-    },
-    {
-      "symbol": "R2603B",
-      "name": "MINISTERUL FINANTELOR",
-      "isin": "ROPNCN54BRS7",
-      "issuer": "MINISTERUL  FINANTELOR",
-      "fiscalCode": "8609468",
-      "issuedCount": 3275275,
-      "faceValue": 100.0,
-      "issueValue": 327527500.0,
-      "issueDate": "2025-03-19",
-      "listingDate": "2025-03-20",
-      "maturityDate": "2026-03-19",
-      "couponCount": 1,
-      "isConvertible": null,
-      "type": "government",
-      "market": "regt",
-      "category": "Titluri de stat",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "REGT"
     },
     {
       "symbol": "R2604A",
@@ -3330,13 +3284,13 @@
       "couponCount": 3,
       "isConvertible": null,
       "type": "government",
-      "market": "regt",
+      "market": "eregt",
       "category": "Titluri de stat",
       "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
       "statusOriginal": "Tranzactionabila",
-      "marketOriginal": "REGT"
+      "marketOriginal": "EREGT"
     },
     {
       "symbol": "R2904AE",

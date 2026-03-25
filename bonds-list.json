@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-03-25T06:39:07Z",
+  "fetchedAt": "2026-03-25T07:35:09Z",
   "source": "BVB",
-  "bondCount": 237,
+  "bondCount": 236,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -1865,29 +1865,6 @@
       "typeOriginal": "Obligatiuni corporative",
       "statusOriginal": "Tranzactionabila",
       "marketOriginal": "EXRB"
-    },
-    {
-      "symbol": "R2603AE",
-      "name": "MINISTERUL FINANTELOR",
-      "isin": "ROVJSKSV4CU2",
-      "issuer": "MINISTERUL  FINANTELOR",
-      "fiscalCode": "8609468",
-      "issuedCount": 1405172,
-      "faceValue": 100.0,
-      "issueValue": 140517200.0,
-      "issueDate": "2021-03-24",
-      "listingDate": "2021-03-25",
-      "maturityDate": "2026-03-24",
-      "couponCount": 5,
-      "isConvertible": null,
-      "type": "government",
-      "market": "eregt",
-      "category": "Titluri de stat",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "EREGT"
     },
     {
       "symbol": "R2604A",

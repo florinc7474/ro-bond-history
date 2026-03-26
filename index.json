@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T17:51:50Z",
+  "lastUpdated": "2026-03-26T06:44:26Z",
   "tradingDates": {
     "count": 39,
     "first": "2026-01-30",
@@ -48,7 +48,7 @@
   },
   "bondDetails": {
     "count": 237,
-    "withCoupons": 230,
+    "withCoupons": 231,
     "bonds": [
       {
         "symbol": "AAB26",
@@ -2158,12 +2158,12 @@
       },
       {
         "symbol": "UCB31",
-        "lastUpdated": "2026-02-24T14:26:34Z",
-        "couponCount": 0,
-        "hasCoupons": false,
-        "currency": null,
-        "couponRate": null,
-        "maturityDate": null
+        "lastUpdated": null,
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 6.82,
+        "maturityDate": "2031-02-27"
       },
       {
         "symbol": "VIV26E",
@@ -2187,6 +2187,6 @@
   },
   "bondList": {
     "bondCount": 236,
-    "fetchedAt": "2026-03-25T07:35:09Z"
+    "fetchedAt": "2026-03-26T06:44:20Z"
   }
 }

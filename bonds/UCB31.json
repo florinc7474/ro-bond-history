@@ -1,8 +1,62 @@
 {
   "symbol": "UCB31",
-  "lastUpdated": "2026-02-24T14:26:34Z",
+  "fetchedAt": "2026-03-26T06:44:25Z",
   "source": "BVB",
-  "details": {},
-  "couponDates": [],
-  "couponCount": 0
+  "details": {
+    "faceValue": 1000000.0,
+    "currency": "RON",
+    "couponRate": 6.82,
+    "interestType": "fixed",
+    "issueDate": "2026-02-27",
+    "maturityDate": "2031-02-27",
+    "couponFrequency": 1
+  },
+  "annualRate": 6.82,
+  "frequency": 1,
+  "couponCount": 5,
+  "payments": [
+    {
+      "paymentDate": "2027-02-27",
+      "previousDate": "2026-02-27",
+      "referenceDate": "2027-02-08",
+      "couponRate": 6.82,
+      "number": 1
+    },
+    {
+      "paymentDate": "2028-02-27",
+      "previousDate": "2027-02-27",
+      "referenceDate": "2028-02-07",
+      "couponRate": 6.82,
+      "number": 2
+    },
+    {
+      "paymentDate": "2029-02-27",
+      "previousDate": "2028-02-27",
+      "referenceDate": "2029-02-06",
+      "couponRate": 6.82,
+      "number": 3
+    },
+    {
+      "paymentDate": "2030-02-27",
+      "previousDate": "2029-02-27",
+      "referenceDate": "2030-02-06",
+      "couponRate": 6.82,
+      "number": 4
+    },
+    {
+      "paymentDate": "2031-02-27",
+      "previousDate": "2030-02-27",
+      "referenceDate": "2031-02-06",
+      "couponRate": 6.82,
+      "number": 5
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2031-02-06",
+      "number": 1,
+      "principal": 1000000.0,
+      "repaymentAmount": 1000000.0
+    }
+  ]
 }

@@ -1,11 +1,9 @@
 {
-  "timestamp": "2026-03-26T06:44:21Z",
-  "requested": 1,
-  "success": 1,
+  "timestamp": "2026-03-26T07:42:30Z",
+  "requested": 0,
+  "success": 0,
   "failed": 0,
   "warnings": [],
   "failed_symbols": [],
-  "successful_symbols": [
-    "UCB31"
-  ]
+  "successful_symbols": []
 }

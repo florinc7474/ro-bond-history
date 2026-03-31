@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-03-30T08:08:49Z",
+  "fetchedAt": "2026-03-31T06:48:47Z",
   "source": "BVB",
   "bondCount": 236,
   "bonds": [
@@ -1883,10 +1883,10 @@
       "type": "government",
       "market": "regt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "REGT"
     },
     {

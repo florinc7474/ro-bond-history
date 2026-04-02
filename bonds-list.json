@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-04-01T08:01:17Z",
+  "fetchedAt": "2026-04-02T06:48:12Z",
   "source": "BVB",
-  "bondCount": 236,
+  "bondCount": 235,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -415,29 +415,6 @@
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
       "statusOriginal": "Tranzactionabila",
-      "marketOriginal": "ORDB"
-    },
-    {
-      "symbol": "BCR27",
-      "name": "BANCA COMERCIALA ROMANA",
-      "isin": "RO451CMZH2K1",
-      "issuer": "BANCA COMERCIALA ROMANA",
-      "fiscalCode": "361757",
-      "issuedCount": 703,
-      "faceValue": 500000.0,
-      "issueValue": 351500000.0,
-      "issueDate": "2022-03-31",
-      "listingDate": "2022-04-08",
-      "maturityDate": "2027-03-31",
-      "couponCount": 6,
-      "isConvertible": null,
-      "type": "corporate",
-      "market": "ordb",
-      "category": "Corporative",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
       "marketOriginal": "ORDB"
     },
     {
@@ -1906,10 +1883,10 @@
       "type": "government",
       "market": "regt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "REGT"
     },
     {
@@ -1929,10 +1906,10 @@
       "type": "government",
       "market": "regt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "REGT"
     },
     {

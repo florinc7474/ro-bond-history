@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-02T07:47:18Z",
+  "fetchedAt": "2026-04-03T06:46:11Z",
   "source": "BVB",
   "bondCount": 235,
   "bonds": [
@@ -135,10 +135,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -204,10 +204,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -227,10 +227,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -457,10 +457,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -618,10 +618,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -687,10 +687,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -802,10 +802,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -825,10 +825,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -848,10 +848,10 @@
       "type": "municipal",
       "market": "eordb",
       "category": "Municipale",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -894,10 +894,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -1124,10 +1124,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -1147,10 +1147,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -1170,10 +1170,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -1193,10 +1193,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -1216,10 +1216,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -1239,10 +1239,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -1262,10 +1262,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -1285,10 +1285,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -1308,10 +1308,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -1377,10 +1377,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -1400,10 +1400,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -1515,10 +1515,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -1561,10 +1561,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -1653,10 +1653,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -1676,10 +1676,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -1699,10 +1699,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -1837,10 +1837,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -2021,10 +2021,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -2067,10 +2067,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -2090,10 +2090,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -2113,10 +2113,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -2159,10 +2159,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -2205,10 +2205,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -2228,10 +2228,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -2274,10 +2274,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -2343,10 +2343,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -2389,10 +2389,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -2458,10 +2458,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -2504,10 +2504,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -2550,10 +2550,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -2596,10 +2596,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -2987,10 +2987,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3033,10 +3033,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3056,10 +3056,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3079,10 +3079,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3102,10 +3102,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3125,10 +3125,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3148,10 +3148,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3171,10 +3171,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3194,10 +3194,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3217,10 +3217,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3240,10 +3240,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3263,10 +3263,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3332,10 +3332,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3378,10 +3378,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3470,10 +3470,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3746,10 +3746,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3769,10 +3769,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3792,10 +3792,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3815,10 +3815,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3838,10 +3838,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3861,10 +3861,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3884,10 +3884,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3907,10 +3907,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3930,10 +3930,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -3953,10 +3953,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -4137,10 +4137,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -4206,10 +4206,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -4252,10 +4252,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -4275,10 +4275,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -4298,10 +4298,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -4321,10 +4321,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -4344,10 +4344,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -4367,10 +4367,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -4390,10 +4390,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -4413,10 +4413,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -4436,10 +4436,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -4459,10 +4459,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -4482,10 +4482,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -4505,10 +4505,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -4528,10 +4528,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EREGT"
     },
     {
@@ -4712,10 +4712,10 @@
       "type": "municipal",
       "market": "eordb",
       "category": "Municipale",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -4827,10 +4827,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -4850,10 +4850,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -4919,10 +4919,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -4965,10 +4965,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -5172,10 +5172,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -5218,10 +5218,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {

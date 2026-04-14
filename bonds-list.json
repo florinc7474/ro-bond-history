@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-04-13T08:28:07Z",
+  "fetchedAt": "2026-04-14T07:06:24Z",
   "source": "BVB",
-  "bondCount": 235,
+  "bondCount": 234,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -1842,29 +1842,6 @@
       "typeOriginal": "Obligatiuni corporative",
       "statusOriginal": "Tranzactionabila",
       "marketOriginal": "EXRB"
-    },
-    {
-      "symbol": "R2604A",
-      "name": "MINISTERUL FINANTELOR",
-      "isin": "ROLSO2QZDWZ5",
-      "issuer": "MINISTERUL  FINANTELOR",
-      "fiscalCode": "8609468",
-      "issuedCount": 1793644,
-      "faceValue": 100.0,
-      "issueValue": 179364400.0,
-      "issueDate": "2023-04-13",
-      "listingDate": "2023-04-18",
-      "maturityDate": "2026-04-13",
-      "couponCount": 3,
-      "isConvertible": null,
-      "type": "government",
-      "market": "regt",
-      "category": "Titluri de stat",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "REGT"
     },
     {
       "symbol": "R2604B",

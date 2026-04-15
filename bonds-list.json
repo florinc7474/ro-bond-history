@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-14T08:10:52Z",
+  "fetchedAt": "2026-04-15T07:07:46Z",
   "source": "BVB",
   "bondCount": 241,
   "bonds": [
@@ -2985,13 +2985,13 @@
       "couponCount": null,
       "isConvertible": null,
       "type": "unknown",
-      "market": "regt",
-      "category": "Titluri de stat",
-      "status": "active",
+      "market": "pofb",
+      "category": "-",
+      "status": "unknown",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "",
-      "statusOriginal": "Tranzactionabila",
-      "marketOriginal": "REGT"
+      "statusOriginal": "",
+      "marketOriginal": "POFB"
     },
     {
       "symbol": "R2804C",
@@ -3008,13 +3008,13 @@
       "couponCount": null,
       "isConvertible": null,
       "type": "unknown",
-      "market": "regt",
-      "category": "Titluri de stat",
-      "status": "active",
+      "market": "pofb",
+      "category": "-",
+      "status": "unknown",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "",
-      "statusOriginal": "Tranzactionabila",
-      "marketOriginal": "REGT"
+      "statusOriginal": "",
+      "marketOriginal": "POFB"
     },
     {
       "symbol": "R2805A",
@@ -3307,13 +3307,13 @@
       "couponCount": null,
       "isConvertible": null,
       "type": "unknown",
-      "market": "eregt",
-      "category": "Titluri de stat",
-      "status": "active",
+      "market": "epofb",
+      "category": "-",
+      "status": "unknown",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "",
-      "statusOriginal": "Tranzactionabila",
-      "marketOriginal": "EREGT"
+      "statusOriginal": "",
+      "marketOriginal": "EPOFB"
     },
     {
       "symbol": "R2906A",
@@ -3767,13 +3767,13 @@
       "couponCount": null,
       "isConvertible": null,
       "type": "unknown",
-      "market": "regt",
-      "category": "Titluri de stat",
-      "status": "active",
+      "market": "pofb",
+      "category": "-",
+      "status": "unknown",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "",
-      "statusOriginal": "Tranzactionabila",
-      "marketOriginal": "REGT"
+      "statusOriginal": "",
+      "marketOriginal": "POFB"
     },
     {
       "symbol": "R3005A",
@@ -4043,13 +4043,13 @@
       "couponCount": null,
       "isConvertible": null,
       "type": "unknown",
-      "market": "eregt",
-      "category": "Titluri de stat",
-      "status": "active",
+      "market": "epofb",
+      "category": "-",
+      "status": "unknown",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "",
-      "statusOriginal": "Tranzactionabila",
-      "marketOriginal": "EREGT"
+      "statusOriginal": "",
+      "marketOriginal": "EPOFB"
     },
     {
       "symbol": "R3106A",
@@ -4365,13 +4365,13 @@
       "couponCount": null,
       "isConvertible": null,
       "type": "unknown",
-      "market": "regt",
-      "category": "Titluri de stat",
-      "status": "active",
+      "market": "pofb",
+      "category": "-",
+      "status": "unknown",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "",
-      "statusOriginal": "Tranzactionabila",
-      "marketOriginal": "REGT"
+      "statusOriginal": "",
+      "marketOriginal": "POFB"
     },
     {
       "symbol": "R3204AE",
@@ -4664,13 +4664,13 @@
       "couponCount": null,
       "isConvertible": null,
       "type": "unknown",
-      "market": "eregt",
-      "category": "Titluri de stat",
-      "status": "active",
+      "market": "epofb",
+      "category": "-",
+      "status": "unknown",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "",
-      "statusOriginal": "Tranzactionabila",
-      "marketOriginal": "EREGT"
+      "statusOriginal": "",
+      "marketOriginal": "EPOFB"
     },
     {
       "symbol": "RBRO26",

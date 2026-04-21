@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T17:52:02Z",
+  "lastUpdated": "2026-04-21T07:11:08Z",
   "tradingDates": {
     "count": 57,
     "first": "2026-01-30",
@@ -65,8 +65,8 @@
     ]
   },
   "bondDetails": {
-    "count": 237,
-    "withCoupons": 231,
+    "count": 238,
+    "withCoupons": 232,
     "bonds": [
       {
         "symbol": "AAB26",
@@ -2184,6 +2184,15 @@
         "maturityDate": "2031-02-27"
       },
       {
+        "symbol": "VISTA36E",
+        "lastUpdated": null,
+        "couponCount": 40,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.157,
+        "maturityDate": "2036-03-18"
+      },
+      {
         "symbol": "VIV26E",
         "lastUpdated": null,
         "couponCount": 10,
@@ -2205,6 +2214,6 @@
   },
   "bondList": {
     "bondCount": 239,
-    "fetchedAt": "2026-04-20T08:33:14Z"
+    "fetchedAt": "2026-04-21T07:11:01Z"
   }
 }

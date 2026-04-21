@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-20T08:33:14Z",
+  "fetchedAt": "2026-04-21T07:11:01Z",
   "source": "BVB",
   "bondCount": 239,
   "bonds": [
@@ -1446,10 +1446,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "ORDB"
     },
     {
@@ -4965,10 +4965,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "ORDB"
     },
     {
@@ -5437,22 +5437,22 @@
       "isin": "RO15DXJASF99",
       "issuer": "Vista Bank Romania S.A",
       "fiscalCode": "10556861",
-      "issuedCount": null,
-      "faceValue": null,
-      "issueValue": null,
-      "issueDate": null,
-      "listingDate": null,
-      "maturityDate": null,
-      "couponCount": null,
+      "issuedCount": 170,
+      "faceValue": 100000.0,
+      "issueValue": 17000000.0,
+      "issueDate": "2026-03-18",
+      "listingDate": "2026-04-22",
+      "maturityDate": "2036-03-18",
+      "couponCount": 40,
       "isConvertible": null,
       "type": "corporate",
-      "market": "epofb",
-      "category": "-",
+      "market": "eordb",
+      "category": "Corporative",
       "status": "unknown",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
       "statusOriginal": "",
-      "marketOriginal": "EPOFB"
+      "marketOriginal": "EORDB"
     },
     {
       "symbol": "VIV26E",

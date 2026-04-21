@@ -1,0 +1,308 @@
+{
+  "symbol": "VISTA36E",
+  "fetchedAt": "2026-04-21T07:11:07Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100000.0,
+    "currency": "EUR",
+    "couponRate": 5.157,
+    "couponFormula": "5.1570% FIRST CUPON THEN EURIBOR 3M+3",
+    "interestType": "floating",
+    "issueDate": "2026-03-18",
+    "maturityDate": "2036-03-18",
+    "couponFrequency": 4
+  },
+  "annualRate": 5.157,
+  "frequency": 4,
+  "couponCount": 40,
+  "payments": [
+    {
+      "paymentDate": "2026-06-18",
+      "previousDate": "2026-03-18",
+      "referenceDate": "2026-05-27",
+      "couponRate": 5.157,
+      "number": 1
+    },
+    {
+      "paymentDate": "2026-09-18",
+      "previousDate": "2026-06-18",
+      "referenceDate": "2026-08-28",
+      "couponRate": 0.0,
+      "number": 2
+    },
+    {
+      "paymentDate": "2026-12-18",
+      "previousDate": "2026-09-18",
+      "referenceDate": "2026-11-25",
+      "couponRate": 0.0,
+      "number": 3
+    },
+    {
+      "paymentDate": "2027-03-18",
+      "previousDate": "2026-12-18",
+      "referenceDate": "2027-02-25",
+      "couponRate": 0.0,
+      "number": 4
+    },
+    {
+      "paymentDate": "2027-06-18",
+      "previousDate": "2027-03-18",
+      "referenceDate": "2027-05-28",
+      "couponRate": 0.0,
+      "number": 5
+    },
+    {
+      "paymentDate": "2027-09-18",
+      "previousDate": "2027-06-18",
+      "referenceDate": "2027-08-30",
+      "couponRate": 0.0,
+      "number": 6
+    },
+    {
+      "paymentDate": "2027-12-18",
+      "previousDate": "2027-09-18",
+      "referenceDate": "2027-11-25",
+      "couponRate": 0.0,
+      "number": 7
+    },
+    {
+      "paymentDate": "2028-03-18",
+      "previousDate": "2027-12-18",
+      "referenceDate": "2028-02-28",
+      "couponRate": 0.0,
+      "number": 8
+    },
+    {
+      "paymentDate": "2028-06-18",
+      "previousDate": "2028-03-18",
+      "referenceDate": "2028-05-25",
+      "couponRate": 0.0,
+      "number": 9
+    },
+    {
+      "paymentDate": "2028-09-18",
+      "previousDate": "2028-06-18",
+      "referenceDate": "2028-08-28",
+      "couponRate": 0.0,
+      "number": 10
+    },
+    {
+      "paymentDate": "2028-12-18",
+      "previousDate": "2028-09-18",
+      "referenceDate": "2028-11-23",
+      "couponRate": 0.0,
+      "number": 11
+    },
+    {
+      "paymentDate": "2029-03-18",
+      "previousDate": "2028-12-18",
+      "referenceDate": "2029-02-26",
+      "couponRate": 0.0,
+      "number": 12
+    },
+    {
+      "paymentDate": "2029-06-18",
+      "previousDate": "2029-03-18",
+      "referenceDate": "2029-05-24",
+      "couponRate": 0.0,
+      "number": 13
+    },
+    {
+      "paymentDate": "2029-09-18",
+      "previousDate": "2029-06-18",
+      "referenceDate": "2029-08-28",
+      "couponRate": 0.0,
+      "number": 14
+    },
+    {
+      "paymentDate": "2029-12-18",
+      "previousDate": "2029-09-18",
+      "referenceDate": "2029-11-26",
+      "couponRate": 0.0,
+      "number": 15
+    },
+    {
+      "paymentDate": "2030-03-18",
+      "previousDate": "2029-12-18",
+      "referenceDate": "2030-02-25",
+      "couponRate": 0.0,
+      "number": 16
+    },
+    {
+      "paymentDate": "2030-06-18",
+      "previousDate": "2030-03-18",
+      "referenceDate": "2030-05-27",
+      "couponRate": 0.0,
+      "number": 17
+    },
+    {
+      "paymentDate": "2030-09-18",
+      "previousDate": "2030-06-18",
+      "referenceDate": "2030-08-28",
+      "couponRate": 0.0,
+      "number": 18
+    },
+    {
+      "paymentDate": "2030-12-18",
+      "previousDate": "2030-09-18",
+      "referenceDate": "2030-11-27",
+      "couponRate": 0.0,
+      "number": 19
+    },
+    {
+      "paymentDate": "2031-03-18",
+      "previousDate": "2030-12-18",
+      "referenceDate": "2031-02-25",
+      "couponRate": 0.0,
+      "number": 20
+    },
+    {
+      "paymentDate": "2031-06-18",
+      "previousDate": "2031-03-18",
+      "referenceDate": "2031-05-27",
+      "couponRate": 0.0,
+      "number": 21
+    },
+    {
+      "paymentDate": "2031-09-18",
+      "previousDate": "2031-06-18",
+      "referenceDate": "2031-08-28",
+      "couponRate": 0.0,
+      "number": 22
+    },
+    {
+      "paymentDate": "2031-12-18",
+      "previousDate": "2031-09-18",
+      "referenceDate": "2031-11-26",
+      "couponRate": 0.0,
+      "number": 23
+    },
+    {
+      "paymentDate": "2032-03-18",
+      "previousDate": "2031-12-18",
+      "referenceDate": "2032-02-26",
+      "couponRate": 0.0,
+      "number": 24
+    },
+    {
+      "paymentDate": "2032-06-18",
+      "previousDate": "2032-03-18",
+      "referenceDate": "2032-05-27",
+      "couponRate": 0.0,
+      "number": 25
+    },
+    {
+      "paymentDate": "2032-09-18",
+      "previousDate": "2032-06-18",
+      "referenceDate": "2032-08-30",
+      "couponRate": 0.0,
+      "number": 26
+    },
+    {
+      "paymentDate": "2032-12-18",
+      "previousDate": "2032-09-18",
+      "referenceDate": "2032-11-25",
+      "couponRate": 0.0,
+      "number": 27
+    },
+    {
+      "paymentDate": "2033-03-18",
+      "previousDate": "2032-12-18",
+      "referenceDate": "2033-02-25",
+      "couponRate": 0.0,
+      "number": 28
+    },
+    {
+      "paymentDate": "2033-06-18",
+      "previousDate": "2033-03-18",
+      "referenceDate": "2033-05-26",
+      "couponRate": 0.0,
+      "number": 29
+    },
+    {
+      "paymentDate": "2033-09-18",
+      "previousDate": "2033-06-18",
+      "referenceDate": "2033-08-29",
+      "couponRate": 0.0,
+      "number": 30
+    },
+    {
+      "paymentDate": "2033-12-18",
+      "previousDate": "2033-09-18",
+      "referenceDate": "2033-11-24",
+      "couponRate": 0.0,
+      "number": 31
+    },
+    {
+      "paymentDate": "2034-03-18",
+      "previousDate": "2033-12-18",
+      "referenceDate": "2034-02-27",
+      "couponRate": 0.0,
+      "number": 32
+    },
+    {
+      "paymentDate": "2034-06-18",
+      "previousDate": "2034-03-18",
+      "referenceDate": "2034-05-25",
+      "couponRate": 0.0,
+      "number": 33
+    },
+    {
+      "paymentDate": "2034-09-18",
+      "previousDate": "2034-06-18",
+      "referenceDate": "2034-08-28",
+      "couponRate": 0.0,
+      "number": 34
+    },
+    {
+      "paymentDate": "2034-12-18",
+      "previousDate": "2034-09-18",
+      "referenceDate": "2034-11-23",
+      "couponRate": 0.0,
+      "number": 35
+    },
+    {
+      "paymentDate": "2035-03-18",
+      "previousDate": "2034-12-18",
+      "referenceDate": "2035-02-26",
+      "couponRate": 0.0,
+      "number": 36
+    },
+    {
+      "paymentDate": "2035-06-18",
+      "previousDate": "2035-03-18",
+      "referenceDate": "2035-05-25",
+      "couponRate": 0.0,
+      "number": 37
+    },
+    {
+      "paymentDate": "2035-09-18",
+      "previousDate": "2035-06-18",
+      "referenceDate": "2035-08-28",
+      "couponRate": 0.0,
+      "number": 38
+    },
+    {
+      "paymentDate": "2035-12-18",
+      "previousDate": "2035-09-18",
+      "referenceDate": "2035-11-26",
+      "couponRate": 0.0,
+      "number": 39
+    },
+    {
+      "paymentDate": "2036-03-18",
+      "previousDate": "2035-12-18",
+      "referenceDate": "2036-02-26",
+      "couponRate": 0.0,
+      "number": 40
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2036-02-26",
+      "number": 1,
+      "principal": 100000.0,
+      "repaymentAmount": 100000.0
+    }
+  ]
+}

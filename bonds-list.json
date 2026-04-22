@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-04-21T08:16:48Z",
+  "fetchedAt": "2026-04-22T07:11:26Z",
   "source": "BVB",
-  "bondCount": 239,
+  "bondCount": 238,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -1446,10 +1446,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "suspended",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Suspendata",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "ORDB"
     },
     {
@@ -5448,34 +5448,11 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "EORDB"
-    },
-    {
-      "symbol": "VIV26E",
-      "name": "Vivre Deco - Bonds 2026 EUR",
-      "isin": "RO7VX2N5Z5L7",
-      "issuer": "Vivre Deco",
-      "fiscalCode": "30010618",
-      "issuedCount": 14000,
-      "faceValue": 500.0,
-      "issueValue": 7000000.0,
-      "issueDate": "2021-04-21",
-      "listingDate": "2021-07-14",
-      "maturityDate": "2026-04-21",
-      "couponCount": 10,
-      "isConvertible": null,
-      "type": "corporate",
-      "market": "exrb",
-      "category": "Bonds-SMT",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "EXRB"
     },
     {
       "symbol": "ZAL30",

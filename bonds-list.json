@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-04-22T08:15:16Z",
+  "fetchedAt": "2026-04-23T07:13:41Z",
   "source": "BVB",
-  "bondCount": 238,
+  "bondCount": 237,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -232,29 +232,6 @@
       "typeOriginal": "Obligatiuni corporative",
       "statusOriginal": "Tranzactionabila",
       "marketOriginal": "EORDB"
-    },
-    {
-      "symbol": "B2604A",
-      "name": "MINISTERUL FINANTELOR -2026",
-      "isin": "ROHRVN7NLNO2",
-      "issuer": "MINISTERUL  FINANTELOR",
-      "fiscalCode": "8609468",
-      "issuedCount": 2140854,
-      "faceValue": 5000.0,
-      "issueValue": 10704270000.0,
-      "issueDate": "2018-11-14",
-      "listingDate": "2021-03-24",
-      "maturityDate": "2026-04-22",
-      "couponCount": 8,
-      "isConvertible": null,
-      "type": "government",
-      "market": "regt",
-      "category": "Titluri de stat",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "REGT"
     },
     {
       "symbol": "B2707A",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T07:31:02Z",
+  "lastUpdated": "2026-04-27T07:54:03Z",
   "tradingDates": {
     "count": 61,
     "first": "2026-01-30",
@@ -69,8 +69,8 @@
     ]
   },
   "bondDetails": {
-    "count": 238,
-    "withCoupons": 232,
+    "count": 245,
+    "withCoupons": 239,
     "bonds": [
       {
         "symbol": "AAB26",
@@ -1270,6 +1270,24 @@
         "maturityDate": "2028-04-13"
       },
       {
+        "symbol": "R2804B",
+        "lastUpdated": null,
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.6,
+        "maturityDate": "2028-04-24"
+      },
+      {
+        "symbol": "R2804C",
+        "lastUpdated": null,
+        "couponCount": 2,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 6.6,
+        "maturityDate": "2028-04-24"
+      },
+      {
         "symbol": "R2805A",
         "lastUpdated": null,
         "couponCount": 3,
@@ -1376,6 +1394,15 @@
         "currency": "EUR",
         "couponRate": 5.0,
         "maturityDate": "2029-04-22"
+      },
+      {
+        "symbol": "R2904CE",
+        "lastUpdated": null,
+        "couponCount": 3,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 4.25,
+        "maturityDate": "2029-04-24"
       },
       {
         "symbol": "R2906A",
@@ -1549,6 +1576,15 @@
         "maturityDate": "2030-04-16"
       },
       {
+        "symbol": "R3004C",
+        "lastUpdated": null,
+        "couponCount": 4,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.1,
+        "maturityDate": "2030-04-24"
+      },
+      {
         "symbol": "R3005A",
         "lastUpdated": null,
         "couponCount": 5,
@@ -1646,6 +1682,15 @@
         "currency": "EUR",
         "couponRate": 4.5,
         "maturityDate": "2031-03-18"
+      },
+      {
+        "symbol": "R3104AE",
+        "lastUpdated": null,
+        "couponCount": 5,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 5.25,
+        "maturityDate": "2031-04-24"
       },
       {
         "symbol": "R3106A",
@@ -1765,6 +1810,15 @@
         "maturityDate": "2032-03-19"
       },
       {
+        "symbol": "R3204A",
+        "lastUpdated": null,
+        "couponCount": 6,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.6,
+        "maturityDate": "2032-04-24"
+      },
+      {
         "symbol": "R3204AE",
         "lastUpdated": null,
         "couponCount": 7,
@@ -1871,6 +1925,15 @@
         "currency": "EUR",
         "couponRate": 6.0,
         "maturityDate": "2036-03-18"
+      },
+      {
+        "symbol": "R3604AE",
+        "lastUpdated": null,
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 6.4,
+        "maturityDate": "2036-04-24"
       },
       {
         "symbol": "RBRO26",
@@ -2218,6 +2281,6 @@
   },
   "bondList": {
     "bondCount": 237,
-    "fetchedAt": "2026-04-24T08:31:04Z"
+    "fetchedAt": "2026-04-27T07:53:25Z"
   }
 }

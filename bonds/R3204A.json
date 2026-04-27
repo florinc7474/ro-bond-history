@@ -1,0 +1,69 @@
+{
+  "symbol": "R3204A",
+  "fetchedAt": "2026-04-27T07:53:57Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "RON",
+    "couponRate": 7.6,
+    "interestType": "fixed",
+    "issueDate": "2026-04-24",
+    "maturityDate": "2032-04-24",
+    "couponFrequency": 1
+  },
+  "annualRate": 7.6,
+  "frequency": 1,
+  "couponCount": 6,
+  "payments": [
+    {
+      "paymentDate": "2027-04-24",
+      "previousDate": "2026-04-24",
+      "referenceDate": "2027-04-15",
+      "couponRate": 7.6,
+      "number": 1
+    },
+    {
+      "paymentDate": "2028-04-24",
+      "previousDate": "2027-04-24",
+      "referenceDate": "2028-04-11",
+      "couponRate": 7.6,
+      "number": 2
+    },
+    {
+      "paymentDate": "2029-04-24",
+      "previousDate": "2028-04-24",
+      "referenceDate": "2029-04-13",
+      "couponRate": 7.6,
+      "number": 3
+    },
+    {
+      "paymentDate": "2030-04-24",
+      "previousDate": "2029-04-24",
+      "referenceDate": "2030-04-15",
+      "couponRate": 7.6,
+      "number": 4
+    },
+    {
+      "paymentDate": "2031-04-24",
+      "previousDate": "2030-04-24",
+      "referenceDate": "2031-04-15",
+      "couponRate": 7.6,
+      "number": 5
+    },
+    {
+      "paymentDate": "2032-04-24",
+      "previousDate": "2031-04-24",
+      "referenceDate": "2032-04-15",
+      "couponRate": 7.6,
+      "number": 6
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2032-04-15",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
+    }
+  ]
+}

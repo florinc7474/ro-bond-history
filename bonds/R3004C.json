@@ -1,0 +1,55 @@
+{
+  "symbol": "R3004C",
+  "fetchedAt": "2026-04-27T07:53:46Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "RON",
+    "couponRate": 7.1,
+    "interestType": "fixed",
+    "issueDate": "2026-04-24",
+    "maturityDate": "2030-04-24",
+    "couponFrequency": 1
+  },
+  "annualRate": 7.1,
+  "frequency": 1,
+  "couponCount": 4,
+  "payments": [
+    {
+      "paymentDate": "2027-04-24",
+      "previousDate": "2026-04-24",
+      "referenceDate": "2027-04-15",
+      "couponRate": 7.1,
+      "number": 1
+    },
+    {
+      "paymentDate": "2028-04-24",
+      "previousDate": "2027-04-24",
+      "referenceDate": "2028-04-11",
+      "couponRate": 7.1,
+      "number": 2
+    },
+    {
+      "paymentDate": "2029-04-24",
+      "previousDate": "2028-04-24",
+      "referenceDate": "2029-04-13",
+      "couponRate": 7.1,
+      "number": 3
+    },
+    {
+      "paymentDate": "2030-04-24",
+      "previousDate": "2029-04-24",
+      "referenceDate": "2030-04-15",
+      "couponRate": 7.1,
+      "number": 4
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2030-04-15",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
+    }
+  ]
+}

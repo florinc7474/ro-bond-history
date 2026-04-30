@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-04-29T08:37:26Z",
+  "fetchedAt": "2026-04-30T07:41:45Z",
   "source": "BVB",
-  "bondCount": 237,
+  "bondCount": 236,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -117,29 +117,6 @@
       "typeOriginal": "Obligatiuni municipale",
       "statusOriginal": "Tranzactionabila",
       "marketOriginal": "ORDB"
-    },
-    {
-      "symbol": "ANS26E",
-      "name": "Ansett Logistics Obligatiuni Euro 2026",
-      "isin": "RO065JA6HSQ9",
-      "issuer": "ANSETT LOGISTICS",
-      "fiscalCode": "17365796",
-      "issuedCount": 5000,
-      "faceValue": 100.0,
-      "issueValue": 500000.0,
-      "issueDate": "2021-04-29",
-      "listingDate": "2021-09-15",
-      "maturityDate": "2026-04-29",
-      "couponCount": 20,
-      "isConvertible": null,
-      "type": "corporate",
-      "market": "exrb",
-      "category": "Bonds-SMT",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "EXRB"
     },
     {
       "symbol": "ASC27",

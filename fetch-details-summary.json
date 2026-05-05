@@ -1,11 +1,9 @@
 {
-  "timestamp": "2026-05-05T07:30:26Z",
-  "requested": 1,
-  "success": 1,
+  "timestamp": "2026-05-05T08:31:56Z",
+  "requested": 0,
+  "success": 0,
   "failed": 0,
   "warnings": [],
   "failed_symbols": [],
-  "successful_symbols": [
-    "ABG29E"
-  ]
+  "successful_symbols": []
 }

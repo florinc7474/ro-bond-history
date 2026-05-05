@@ -1,0 +1,111 @@
+{
+  "symbol": "ABG29E",
+  "fetchedAt": "2026-05-05T07:30:30Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "EUR",
+    "couponRate": 11.5,
+    "interestType": "fixed",
+    "issueDate": "2026-04-01",
+    "maturityDate": "2029-04-01",
+    "couponFrequency": 4
+  },
+  "annualRate": 11.5,
+  "frequency": 4,
+  "couponCount": 12,
+  "payments": [
+    {
+      "paymentDate": "2026-07-01",
+      "previousDate": "2026-04-01",
+      "referenceDate": "2026-06-17",
+      "couponRate": 11.5,
+      "number": 1
+    },
+    {
+      "paymentDate": "2026-10-01",
+      "previousDate": "2026-07-01",
+      "referenceDate": "2026-09-17",
+      "couponRate": 11.5,
+      "number": 2
+    },
+    {
+      "paymentDate": "2027-01-04",
+      "previousDate": "2026-10-01",
+      "referenceDate": "2026-12-17",
+      "couponRate": 11.5,
+      "number": 3
+    },
+    {
+      "paymentDate": "2027-04-01",
+      "previousDate": "2027-01-04",
+      "referenceDate": "2027-03-18",
+      "couponRate": 11.5,
+      "number": 4
+    },
+    {
+      "paymentDate": "2027-07-01",
+      "previousDate": "2027-04-01",
+      "referenceDate": "2027-06-17",
+      "couponRate": 11.5,
+      "number": 5
+    },
+    {
+      "paymentDate": "2027-10-01",
+      "previousDate": "2027-07-01",
+      "referenceDate": "2027-09-17",
+      "couponRate": 11.5,
+      "number": 6
+    },
+    {
+      "paymentDate": "2028-01-03",
+      "previousDate": "2027-10-01",
+      "referenceDate": "2027-12-20",
+      "couponRate": 11.5,
+      "number": 7
+    },
+    {
+      "paymentDate": "2028-04-03",
+      "previousDate": "2028-01-03",
+      "referenceDate": "2028-03-20",
+      "couponRate": 11.5,
+      "number": 8
+    },
+    {
+      "paymentDate": "2028-07-03",
+      "previousDate": "2028-04-03",
+      "referenceDate": "2028-06-19",
+      "couponRate": 11.5,
+      "number": 9
+    },
+    {
+      "paymentDate": "2028-10-02",
+      "previousDate": "2028-07-03",
+      "referenceDate": "2028-09-18",
+      "couponRate": 11.5,
+      "number": 10
+    },
+    {
+      "paymentDate": "2029-01-03",
+      "previousDate": "2028-10-02",
+      "referenceDate": "2028-12-14",
+      "couponRate": 11.5,
+      "number": 11
+    },
+    {
+      "paymentDate": "2029-04-02",
+      "previousDate": "2029-01-03",
+      "referenceDate": "2029-03-19",
+      "couponRate": 11.5,
+      "number": 12
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2029-03-19",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
+    }
+  ]
+}

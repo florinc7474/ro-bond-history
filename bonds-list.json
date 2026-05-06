@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-05T08:31:55Z",
+  "fetchedAt": "2026-05-06T09:14:36Z",
   "source": "BVB",
   "bondCount": 236,
   "bonds": [
@@ -5074,7 +5074,7 @@
       "issueValue": 30000000.0,
       "issueDate": "2006-12-30",
       "listingDate": "2007-06-04",
-      "maturityDate": "2026-05-12",
+      "maturityDate": "2026-05-15",
       "couponCount": 78,
       "isConvertible": false,
       "type": "municipal",

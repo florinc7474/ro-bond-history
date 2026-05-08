@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-05-08T07:05:20Z",
+  "fetchedAt": "2026-05-08T08:08:29Z",
   "source": "BVB",
-  "bondCount": 243,
+  "bondCount": 244,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -209,6 +209,29 @@
       "typeOriginal": "Obligatiuni corporative",
       "statusOriginal": "Tranzactionabila",
       "marketOriginal": "EORDB"
+    },
+    {
+      "symbol": "AVANT29E",
+      "name": "AVANT CREDIT Bonds 2029",
+      "isin": "ROY3VUFP2UW6",
+      "issuer": "AVANT CREDIT IFN S.A.",
+      "fiscalCode": "13341280",
+      "issuedCount": null,
+      "faceValue": null,
+      "issueValue": null,
+      "issueDate": null,
+      "listingDate": null,
+      "maturityDate": null,
+      "couponCount": null,
+      "isConvertible": null,
+      "type": "corporate",
+      "market": "epofb",
+      "category": "-",
+      "status": "unknown",
+      "tradingModel": "Tranzactionare continua",
+      "typeOriginal": "Obligatiuni corporative",
+      "statusOriginal": "",
+      "marketOriginal": "EPOFB"
     },
     {
       "symbol": "B2707A",

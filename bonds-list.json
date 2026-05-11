@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-08T08:08:29Z",
+  "fetchedAt": "2026-05-11T08:41:09Z",
   "source": "BVB",
   "bondCount": 244,
   "bonds": [
@@ -1837,10 +1837,10 @@
       "type": "government",
       "market": "regt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "REGT"
     },
     {
@@ -1860,10 +1860,10 @@
       "type": "government",
       "market": "regt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "REGT"
     },
     {
@@ -5264,10 +5264,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "ORDB"
     },
     {
@@ -5287,10 +5287,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "ORDB"
     },
     {
@@ -5310,10 +5310,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "ORDB"
     },
     {
@@ -5333,10 +5333,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "ORDB"
     },
     {
@@ -5356,10 +5356,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "ORDB"
     },
     {

@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-05-14T09:15:11Z",
+  "fetchedAt": "2026-05-15T08:20:45Z",
   "source": "BVB",
-  "bondCount": 244,
+  "bondCount": 243,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -89,10 +89,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "suspended",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Suspendata",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "ORDB"
     },
     {
@@ -434,10 +434,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {
@@ -917,10 +917,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "suspended",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Suspendata",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "ORDB"
     },
     {
@@ -963,10 +963,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "suspended",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Suspendata",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "ORDB"
     },
     {
@@ -986,10 +986,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "suspended",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Suspendata",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "ORDB"
     },
     {
@@ -1009,10 +1009,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "suspended",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Suspendata",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "ORDB"
     },
     {
@@ -4765,29 +4765,6 @@
       "marketOriginal": "EPOFB"
     },
     {
-      "symbol": "RBRO26",
-      "name": "RAIFFEISEN BANK _ OB. 2026",
-      "isin": "XS2339508587",
-      "issuer": "RAIFFEISEN BANK S.A.",
-      "fiscalCode": "361820",
-      "issuedCount": 763,
-      "faceValue": 525000.0,
-      "issueValue": 400575000.0,
-      "issueDate": "2021-05-14",
-      "listingDate": "2021-05-27",
-      "maturityDate": "2026-05-14",
-      "couponCount": 5,
-      "isConvertible": null,
-      "type": "corporate",
-      "market": "ordb",
-      "category": "Corporative",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "ORDB"
-    },
-    {
       "symbol": "RBRO27",
       "name": "RAIFFEISEN BANK S.A. OB 2027",
       "isin": "XS2489289053",
@@ -5034,10 +5011,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "suspended",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Suspendata",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "ORDB"
     },
     {
@@ -5218,10 +5195,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "suspended",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Suspendata",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "ORDB"
     },
     {
@@ -5241,10 +5218,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "suspended",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Suspendata",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "ORDB"
     },
     {

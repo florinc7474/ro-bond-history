@@ -1,0 +1,69 @@
+{
+  "symbol": "R3205A",
+  "fetchedAt": "2026-05-20T08:40:12Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "RON",
+    "couponRate": 7.5,
+    "interestType": "fixed",
+    "issueDate": "2026-05-20",
+    "maturityDate": "2032-05-20",
+    "couponFrequency": 1
+  },
+  "annualRate": 7.5,
+  "frequency": 1,
+  "couponCount": 6,
+  "payments": [
+    {
+      "paymentDate": "2027-05-20",
+      "previousDate": "2026-05-20",
+      "referenceDate": "2027-05-11",
+      "couponRate": 7.5,
+      "number": 1
+    },
+    {
+      "paymentDate": "2028-05-20",
+      "previousDate": "2027-05-20",
+      "referenceDate": "2028-04-11",
+      "couponRate": 7.5,
+      "number": 2
+    },
+    {
+      "paymentDate": "2029-05-20",
+      "previousDate": "2028-05-20",
+      "referenceDate": "2029-05-10",
+      "couponRate": 7.5,
+      "number": 3
+    },
+    {
+      "paymentDate": "2030-05-20",
+      "previousDate": "2029-05-20",
+      "referenceDate": "2030-05-09",
+      "couponRate": 7.5,
+      "number": 4
+    },
+    {
+      "paymentDate": "2031-05-20",
+      "previousDate": "2030-05-20",
+      "referenceDate": "2031-05-09",
+      "couponRate": 7.5,
+      "number": 5
+    },
+    {
+      "paymentDate": "2032-05-20",
+      "previousDate": "2031-05-20",
+      "referenceDate": "2032-05-11",
+      "couponRate": 7.5,
+      "number": 6
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2032-05-11",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
+    }
+  ]
+}

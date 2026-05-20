@@ -1,0 +1,48 @@
+{
+  "symbol": "R2905AE",
+  "fetchedAt": "2026-05-20T08:39:56Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "EUR",
+    "couponRate": 4.0,
+    "interestType": "fixed",
+    "issueDate": "2026-05-20",
+    "maturityDate": "2029-05-20",
+    "couponFrequency": 1
+  },
+  "annualRate": 4.0,
+  "frequency": 1,
+  "couponCount": 3,
+  "payments": [
+    {
+      "paymentDate": "2027-05-20",
+      "previousDate": "2026-05-20",
+      "referenceDate": "2027-05-11",
+      "couponRate": 4.0,
+      "number": 1
+    },
+    {
+      "paymentDate": "2028-05-20",
+      "previousDate": "2027-05-20",
+      "referenceDate": "2028-04-11",
+      "couponRate": 4.0,
+      "number": 2
+    },
+    {
+      "paymentDate": "2029-05-20",
+      "previousDate": "2028-05-20",
+      "referenceDate": "2029-05-10",
+      "couponRate": 4.0,
+      "number": 3
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2029-05-10",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
+    }
+  ]
+}

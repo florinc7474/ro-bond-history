@@ -1,0 +1,55 @@
+{
+  "symbol": "R3005C",
+  "fetchedAt": "2026-05-20T08:40:01Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "RON",
+    "couponRate": 7.0,
+    "interestType": "fixed",
+    "issueDate": "2026-05-20",
+    "maturityDate": "2030-05-20",
+    "couponFrequency": 1
+  },
+  "annualRate": 7.0,
+  "frequency": 1,
+  "couponCount": 4,
+  "payments": [
+    {
+      "paymentDate": "2027-05-20",
+      "previousDate": "2026-05-20",
+      "referenceDate": "2027-05-11",
+      "couponRate": 7.0,
+      "number": 1
+    },
+    {
+      "paymentDate": "2028-05-20",
+      "previousDate": "2027-05-20",
+      "referenceDate": "2028-04-11",
+      "couponRate": 7.0,
+      "number": 2
+    },
+    {
+      "paymentDate": "2029-05-20",
+      "previousDate": "2028-05-20",
+      "referenceDate": "2029-05-10",
+      "couponRate": 7.0,
+      "number": 3
+    },
+    {
+      "paymentDate": "2030-05-20",
+      "previousDate": "2029-05-20",
+      "referenceDate": "2030-05-09",
+      "couponRate": 7.0,
+      "number": 4
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2030-05-09",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "symbol": "R3105AE",
+  "fetchedAt": "2026-05-20T08:40:07Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "EUR",
+    "couponRate": 5.0,
+    "interestType": "fixed",
+    "issueDate": "2026-05-20",
+    "maturityDate": "2031-05-20",
+    "couponFrequency": 1
+  },
+  "annualRate": 5.0,
+  "frequency": 1,
+  "couponCount": 5,
+  "payments": [
+    {
+      "paymentDate": "2027-05-20",
+      "previousDate": "2026-05-20",
+      "referenceDate": "2027-05-11",
+      "couponRate": 5.0,
+      "number": 1
+    },
+    {
+      "paymentDate": "2028-05-20",
+      "previousDate": "2027-05-20",
+      "referenceDate": "2028-04-11",
+      "couponRate": 5.0,
+      "number": 2
+    },
+    {
+      "paymentDate": "2029-05-20",
+      "previousDate": "2028-05-20",
+      "referenceDate": "2029-05-10",
+      "couponRate": 5.0,
+      "number": 3
+    },
+    {
+      "paymentDate": "2030-05-20",
+      "previousDate": "2029-05-20",
+      "referenceDate": "2030-05-09",
+      "couponRate": 5.0,
+      "number": 4
+    },
+    {
+      "paymentDate": "2031-05-20",
+      "previousDate": "2030-05-20",
+      "referenceDate": "2031-05-09",
+      "couponRate": 5.0,
+      "number": 5
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2031-05-09",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
+    }
+  ]
+}

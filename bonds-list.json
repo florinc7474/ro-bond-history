@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-05-20T09:59:28Z",
+  "fetchedAt": "2026-05-21T08:45:28Z",
   "source": "BVB",
-  "bondCount": 236,
+  "bondCount": 235,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -1174,29 +1174,6 @@
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
       "statusOriginal": "Tranzactionabila",
-      "marketOriginal": "EXRB"
-    },
-    {
-      "symbol": "JOBS26E",
-      "name": "BESTJOBS RECRUTARE - Obligatiuni 2026 EUR",
-      "isin": "RONQRT22F9Z4",
-      "issuer": "BESTJOBS RECRUTARE",
-      "fiscalCode": "27661233",
-      "issuedCount": 6742,
-      "faceValue": 500.0,
-      "issueValue": 3371000.0,
-      "issueDate": "2021-05-20",
-      "listingDate": "2021-07-28",
-      "maturityDate": "2026-05-20",
-      "couponCount": 10,
-      "isConvertible": null,
-      "type": "corporate",
-      "market": "exrb",
-      "category": "Bonds-SMT",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -2941,10 +2918,10 @@
       "type": "government",
       "market": "regt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "REGT"
     },
     {
@@ -2964,10 +2941,10 @@
       "type": "government",
       "market": "regt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "REGT"
     },
     {
@@ -3263,10 +3240,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "EREGT"
     },
     {
@@ -3769,10 +3746,10 @@
       "type": "government",
       "market": "regt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "REGT"
     },
     {
@@ -4045,10 +4022,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "EREGT"
     },
     {
@@ -4413,10 +4390,10 @@
       "type": "government",
       "market": "regt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "REGT"
     },
     {
@@ -4712,10 +4689,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "EREGT"
     },
     {

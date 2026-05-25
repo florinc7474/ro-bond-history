@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-22T09:55:58Z",
+  "fetchedAt": "2026-05-25T09:13:58Z",
   "source": "BVB",
   "bondCount": 233,
   "bonds": [
@@ -1584,10 +1584,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -2751,7 +2751,7 @@
       "issueValue": 149062500.0,
       "issueDate": "2025-04-16",
       "listingDate": "2025-04-17",
-      "maturityDate": "2028-04-15",
+      "maturityDate": "2028-04-16",
       "couponCount": 3,
       "isConvertible": null,
       "type": "government",
@@ -4804,10 +4804,10 @@
       "type": "municipal",
       "market": "eordb",
       "category": "Municipale",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {

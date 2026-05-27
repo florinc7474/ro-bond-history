@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-26T10:33:04Z",
+  "fetchedAt": "2026-05-27T08:51:26Z",
   "source": "BVB",
   "bondCount": 233,
   "bonds": [
@@ -4666,10 +4666,10 @@
       "type": "corporate",
       "market": "ordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "ORDB"
     },
     {

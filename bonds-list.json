@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-05-28T10:37:28Z",
+  "fetchedAt": "2026-05-29T08:55:10Z",
   "source": "BVB",
-  "bondCount": 233,
+  "bondCount": 234,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -411,10 +411,10 @@
       "type": "corporate",
       "market": "ordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "ORDB"
     },
     {
@@ -1451,6 +1451,29 @@
       "typeOriginal": "Obligatiuni corporative",
       "statusOriginal": "Tranzactionabila",
       "marketOriginal": "EXRB"
+    },
+    {
+      "symbol": "OCIFN31E",
+      "name": "OCEAN CREDIT IFN BONDS 31",
+      "isin": "ROH3RPKQHH02",
+      "issuer": "OCEAN CREDIT IFN",
+      "fiscalCode": "34353350",
+      "issuedCount": null,
+      "faceValue": null,
+      "issueValue": null,
+      "issueDate": null,
+      "listingDate": null,
+      "maturityDate": null,
+      "couponCount": null,
+      "isConvertible": null,
+      "type": "corporate",
+      "market": "epofb",
+      "category": "-",
+      "status": "unknown",
+      "tradingModel": "Tranzactionare continua",
+      "typeOriginal": "Obligatiuni corporative",
+      "statusOriginal": "",
+      "marketOriginal": "EPOFB"
     },
     {
       "symbol": "OMRO26",

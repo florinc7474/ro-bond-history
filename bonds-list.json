@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-06-03T11:26:39Z",
+  "fetchedAt": "2026-06-04T09:10:09Z",
   "source": "BVB",
-  "bondCount": 234,
+  "bondCount": 235,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -577,6 +577,29 @@
       "typeOriginal": "Obligatiuni corporative",
       "statusOriginal": "Tranzactionabila",
       "marketOriginal": "EORDB"
+    },
+    {
+      "symbol": "BCR33",
+      "name": "BANCA COMERCIALA ROMANA OB. 2033",
+      "isin": "RO8L7NA0VDN4",
+      "issuer": "BANCA COMERCIALA ROMANA",
+      "fiscalCode": "361757",
+      "issuedCount": null,
+      "faceValue": null,
+      "issueValue": null,
+      "issueDate": null,
+      "listingDate": null,
+      "maturityDate": null,
+      "couponCount": null,
+      "isConvertible": null,
+      "type": "corporate",
+      "market": "pofb",
+      "category": "-",
+      "status": "unknown",
+      "tradingModel": "Tranzactionare continua",
+      "typeOriginal": "Obligatiuni corporative",
+      "statusOriginal": "",
+      "marketOriginal": "POFB"
     },
     {
       "symbol": "BIH27",

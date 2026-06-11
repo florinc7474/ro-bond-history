@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-10T10:40:32Z",
+  "fetchedAt": "2026-06-11T09:49:53Z",
   "source": "BVB",
   "bondCount": 235,
   "bonds": [
@@ -618,10 +618,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "ORDB"
     },
     {

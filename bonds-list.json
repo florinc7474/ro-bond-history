@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-06-15T12:48:33Z",
+  "fetchedAt": "2026-06-16T10:24:41Z",
   "source": "BVB",
-  "bondCount": 243,
+  "bondCount": 241,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -392,29 +392,6 @@
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
       "statusOriginal": "Tranzactionabila",
-      "marketOriginal": "ORDB"
-    },
-    {
-      "symbol": "BCR27A",
-      "name": "Banca Comerciala Romana Ob 2027",
-      "isin": "ROPC9F84ZSG4",
-      "issuer": "BANCA COMERCIALA ROMANA",
-      "fiscalCode": "361757",
-      "issuedCount": 1404,
-      "faceValue": 500000.0,
-      "issueValue": 702000000.0,
-      "issueDate": "2022-06-14",
-      "listingDate": "2022-06-22",
-      "maturityDate": "2027-06-14",
-      "couponCount": 5,
-      "isConvertible": null,
-      "type": "corporate",
-      "market": "ordb",
-      "category": "Corporative",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
       "marketOriginal": "ORDB"
     },
     {
@@ -4880,29 +4857,6 @@
       "marketOriginal": "EPOFB"
     },
     {
-      "symbol": "RBRO27",
-      "name": "RAIFFEISEN BANK S.A. OB 2027",
-      "isin": "XS2489289053",
-      "issuer": "RAIFFEISEN BANK S.A.",
-      "fiscalCode": "361820",
-      "issuedCount": 1000,
-      "faceValue": 525000.0,
-      "issueValue": 525000000.0,
-      "issueDate": "2022-06-15",
-      "listingDate": "2022-06-24",
-      "maturityDate": "2027-06-15",
-      "couponCount": 5,
-      "isConvertible": null,
-      "type": "corporate",
-      "market": "ordb",
-      "category": "Corporative",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "ORDB"
-    },
-    {
       "symbol": "RBRO27A",
       "name": "RAIFFEISEN BANK - On . 08.2027",
       "isin": "XS2511879160",
@@ -5563,10 +5517,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EORDB"
     },
     {

@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-06-16T11:40:51Z",
+  "fetchedAt": "2026-06-17T10:13:42Z",
   "source": "BVB",
-  "bondCount": 241,
+  "bondCount": 240,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -1589,29 +1589,6 @@
       "typeOriginal": "Obligatiuni municipale",
       "statusOriginal": "Tranzactionabila",
       "marketOriginal": "ORDB"
-    },
-    {
-      "symbol": "PAY26E",
-      "name": "SELFPAY - Obligatiuni 2026 EUR",
-      "isin": "RO70A2Q834X6",
-      "issuer": "SELFPAY - OBLIGATIUNI 2026 EUR",
-      "fiscalCode": "26067497",
-      "issuedCount": 30000,
-      "faceValue": 100.0,
-      "issueValue": 3000000.0,
-      "issueDate": "2021-06-16",
-      "listingDate": "2021-07-27",
-      "maturityDate": "2026-06-16",
-      "couponCount": 20,
-      "isConvertible": null,
-      "type": "corporate",
-      "market": "exrb",
-      "category": "Bonds-SMT",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "EXRB"
     },
     {
       "symbol": "PBK27E",

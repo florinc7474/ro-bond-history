@@ -1,0 +1,41 @@
+{
+  "symbol": "R2806B",
+  "fetchedAt": "2026-06-26T08:38:23Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "RON",
+    "couponRate": 7.35,
+    "interestType": "fixed",
+    "issueDate": "2026-06-25",
+    "maturityDate": "2028-06-25",
+    "couponFrequency": 1
+  },
+  "annualRate": 7.35,
+  "frequency": 1,
+  "couponCount": 2,
+  "payments": [
+    {
+      "paymentDate": "2027-06-25",
+      "previousDate": "2026-06-25",
+      "referenceDate": "2027-06-15",
+      "couponRate": 7.35,
+      "number": 1
+    },
+    {
+      "paymentDate": "2028-06-25",
+      "previousDate": "2027-06-25",
+      "referenceDate": "2028-06-15",
+      "couponRate": 7.35,
+      "number": 2
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2028-06-15",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "symbol": "R3106AE",
+  "fetchedAt": "2026-06-26T08:38:38Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "EUR",
+    "couponRate": 4.85,
+    "interestType": "fixed",
+    "issueDate": "2026-06-25",
+    "maturityDate": "2031-06-25",
+    "couponFrequency": 1
+  },
+  "annualRate": 4.85,
+  "frequency": 1,
+  "couponCount": 5,
+  "payments": [
+    {
+      "paymentDate": "2027-06-25",
+      "previousDate": "2026-06-25",
+      "referenceDate": "2027-06-15",
+      "couponRate": 4.85,
+      "number": 1
+    },
+    {
+      "paymentDate": "2028-06-25",
+      "previousDate": "2027-06-25",
+      "referenceDate": "2028-06-15",
+      "couponRate": 4.85,
+      "number": 2
+    },
+    {
+      "paymentDate": "2029-06-25",
+      "previousDate": "2028-06-25",
+      "referenceDate": "2029-06-14",
+      "couponRate": 4.85,
+      "number": 3
+    },
+    {
+      "paymentDate": "2030-06-25",
+      "previousDate": "2029-06-25",
+      "referenceDate": "2030-06-13",
+      "couponRate": 4.85,
+      "number": 4
+    },
+    {
+      "paymentDate": "2031-06-25",
+      "previousDate": "2030-06-25",
+      "referenceDate": "2031-06-16",
+      "couponRate": 4.85,
+      "number": 5
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2031-06-16",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
+    }
+  ]
+}

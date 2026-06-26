@@ -1,9 +1,20 @@
 {
-  "timestamp": "2026-06-25T09:51:21Z",
-  "requested": 0,
-  "success": 0,
+  "timestamp": "2026-06-26T08:38:13Z",
+  "requested": 8,
+  "success": 8,
   "failed": 0,
-  "warnings": [],
+  "warnings": [
+    "R3606A: coupon count mismatch: fetched 10, expected 4"
+  ],
   "failed_symbols": [],
-  "successful_symbols": []
+  "successful_symbols": [
+    "R2806A",
+    "R2806B",
+    "R2906AE",
+    "R3006A",
+    "R3106AE",
+    "R3606A",
+    "R3606AE",
+    "R3606BE"
+  ]
 }

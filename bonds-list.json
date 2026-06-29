@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-26T09:57:57Z",
+  "fetchedAt": "2026-06-29T10:07:33Z",
   "source": "BVB",
   "bondCount": 240,
   "bonds": [
@@ -3284,13 +3284,13 @@
       "couponCount": 3,
       "isConvertible": null,
       "type": "government",
-      "market": "regt",
+      "market": "eregt",
       "category": "Titluri de stat",
       "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
       "statusOriginal": "Tranzactionabila",
-      "marketOriginal": "REGT"
+      "marketOriginal": "EREGT"
     },
     {
       "symbol": "R2907A",
@@ -4775,7 +4775,7 @@
       "issueValue": 49298900.0,
       "issueDate": "2026-06-25",
       "listingDate": "2026-06-26",
-      "maturityDate": "2030-06-25",
+      "maturityDate": "2036-06-25",
       "couponCount": 4,
       "isConvertible": null,
       "type": "government",

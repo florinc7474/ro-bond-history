@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T18:24:11Z",
+  "lastUpdated": "2026-06-29T08:45:47Z",
   "tradingDates": {
     "count": 106,
     "first": "2026-01-30",
@@ -114,8 +114,8 @@
     ]
   },
   "bondDetails": {
-    "count": 259,
-    "withCoupons": 253,
+    "count": 258,
+    "withCoupons": 252,
     "bonds": [
       {
         "symbol": "AAB26",
@@ -845,15 +845,6 @@
         "currency": "EUR",
         "couponRate": 7.5,
         "maturityDate": "2026-07-23"
-      },
-      {
-        "symbol": "R2603AE",
-        "lastUpdated": null,
-        "couponCount": 5,
-        "hasCoupons": true,
-        "currency": "EUR",
-        "couponRate": 1.55,
-        "maturityDate": "2026-03-24"
       },
       {
         "symbol": "R2604A",

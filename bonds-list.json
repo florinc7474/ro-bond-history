@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-06-30T10:06:37Z",
+  "fetchedAt": "2026-07-01T08:58:07Z",
   "source": "BVB",
-  "bondCount": 240,
+  "bondCount": 239,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -623,29 +623,6 @@
       "typeOriginal": "Obligatiuni municipale",
       "statusOriginal": "Tranzactionabila",
       "marketOriginal": "ORDB"
-    },
-    {
-      "symbol": "BNET26E",
-      "name": "BITTNET SYSTEMS - 2026E",
-      "isin": "ROG2LO9OE1W3",
-      "issuer": "BITTNET SYSTEMS SA",
-      "fiscalCode": "21181848",
-      "issuedCount": 20596,
-      "faceValue": 100.0,
-      "issueValue": 2059600.0,
-      "issueDate": "2022-12-30",
-      "listingDate": "2023-03-07",
-      "maturityDate": "2026-06-30",
-      "couponCount": 14,
-      "isConvertible": null,
-      "type": "corporate",
-      "market": "eordb",
-      "category": "Corporative",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "EORDB"
     },
     {
       "symbol": "BNET27A",
@@ -5310,10 +5287,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "suspended",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "EORDB"
     },
     {
@@ -5356,10 +5333,10 @@
       "type": "corporate",
       "market": "eordb",
       "category": "Corporative",
-      "status": "suspended",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "EORDB"
     },
     {

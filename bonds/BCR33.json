@@ -1,0 +1,76 @@
+{
+  "symbol": "BCR33",
+  "fetchedAt": "2026-07-13T08:31:48Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 600000.0,
+    "currency": "RON",
+    "couponRate": 7.77,
+    "interestType": "fixed",
+    "issueDate": "2026-06-16",
+    "maturityDate": "2033-06-16",
+    "couponFrequency": 1
+  },
+  "annualRate": 7.77,
+  "frequency": 1,
+  "couponCount": 7,
+  "payments": [
+    {
+      "paymentDate": "2027-06-16",
+      "previousDate": "2026-06-16",
+      "referenceDate": "2027-06-02",
+      "couponRate": 7.77,
+      "number": 1
+    },
+    {
+      "paymentDate": "2028-06-16",
+      "previousDate": "2027-06-16",
+      "referenceDate": "2028-06-02",
+      "couponRate": 7.77,
+      "number": 2
+    },
+    {
+      "paymentDate": "2029-06-16",
+      "previousDate": "2028-06-16",
+      "referenceDate": "2029-06-04",
+      "couponRate": 7.77,
+      "number": 3
+    },
+    {
+      "paymentDate": "2030-06-16",
+      "previousDate": "2029-06-16",
+      "referenceDate": "2030-06-03",
+      "couponRate": 7.77,
+      "number": 4
+    },
+    {
+      "paymentDate": "2031-06-16",
+      "previousDate": "2030-06-16",
+      "referenceDate": "2031-06-02",
+      "couponRate": 7.77,
+      "number": 5
+    },
+    {
+      "paymentDate": "2032-06-16",
+      "previousDate": "2031-06-16",
+      "referenceDate": "2032-06-02",
+      "couponRate": 7.77,
+      "number": 6
+    },
+    {
+      "paymentDate": "2033-06-16",
+      "previousDate": "2032-06-16",
+      "referenceDate": "2033-06-02",
+      "couponRate": 7.77,
+      "number": 7
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2033-06-02",
+      "number": 1,
+      "principal": 600000.0,
+      "repaymentAmount": 600000.0
+    }
+  ]
+}

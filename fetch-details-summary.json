@@ -1,11 +1,9 @@
 {
-  "timestamp": "2026-07-13T08:31:44Z",
-  "requested": 1,
-  "success": 1,
+  "timestamp": "2026-07-13T09:53:59Z",
+  "requested": 0,
+  "success": 0,
   "failed": 0,
   "warnings": [],
   "failed_symbols": [],
-  "successful_symbols": [
-    "BCR33"
-  ]
+  "successful_symbols": []
 }

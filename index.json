@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T08:11:47Z",
+  "lastUpdated": "2026-07-13T08:31:49Z",
   "tradingDates": {
     "count": 116,
     "first": "2026-01-30",
@@ -124,8 +124,8 @@
     ]
   },
   "bondDetails": {
-    "count": 257,
-    "withCoupons": 251,
+    "count": 258,
+    "withCoupons": 252,
     "bonds": [
       {
         "symbol": "AAB26",
@@ -378,6 +378,15 @@
         "currency": "EUR",
         "couponRate": 4.0,
         "maturityDate": "2031-11-25"
+      },
+      {
+        "symbol": "BCR33",
+        "lastUpdated": null,
+        "couponCount": 7,
+        "hasCoupons": true,
+        "currency": "RON",
+        "couponRate": 7.77,
+        "maturityDate": "2033-06-16"
       },
       {
         "symbol": "BIH27",
@@ -2444,6 +2453,6 @@
   },
   "bondList": {
     "bondCount": 247,
-    "fetchedAt": "2026-07-10T09:59:58Z"
+    "fetchedAt": "2026-07-13T08:31:42Z"
   }
 }

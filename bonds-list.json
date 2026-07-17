@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-16T08:43:12Z",
+  "fetchedAt": "2026-07-17T07:32:18Z",
   "source": "BVB",
   "bondCount": 247,
   "bonds": [
@@ -20,10 +20,10 @@
       "type": "corporate",
       "market": "xrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "XRB"
     },
     {

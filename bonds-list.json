@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-07-21T09:08:40Z",
+  "fetchedAt": "2026-07-22T07:53:46Z",
   "source": "BVB",
-  "bondCount": 247,
+  "bondCount": 248,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -715,6 +715,29 @@
       "typeOriginal": "Obligatiuni corporative",
       "statusOriginal": "Tranzactionabila",
       "marketOriginal": "ORDB"
+    },
+    {
+      "symbol": "BNET31E",
+      "name": "BITTNET SYSTEMS",
+      "isin": "ROROQ1P6KUK1",
+      "issuer": "BITTNET SYSTEMS SA",
+      "fiscalCode": "21181848",
+      "issuedCount": null,
+      "faceValue": null,
+      "issueValue": null,
+      "issueDate": null,
+      "listingDate": null,
+      "maturityDate": null,
+      "couponCount": null,
+      "isConvertible": null,
+      "type": "unknown",
+      "market": "epofb",
+      "category": "-",
+      "status": "unknown",
+      "tradingModel": "Tranzactionare continua",
+      "typeOriginal": "",
+      "statusOriginal": "",
+      "marketOriginal": "EPOFB"
     },
     {
       "symbol": "BRK26",
@@ -1768,10 +1791,10 @@
       "type": "government",
       "market": "regt",
       "category": "Titluri de stat",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "REGT"
     },
     {

@@ -1,0 +1,62 @@
+{
+  "symbol": "AUT31E",
+  "fetchedAt": "2026-07-23T07:55:58Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100000.0,
+    "currency": "EUR",
+    "couponRate": 5.97,
+    "interestType": "fixed",
+    "issueDate": "2026-07-07",
+    "maturityDate": "2031-07-07",
+    "couponFrequency": 1
+  },
+  "annualRate": 5.97,
+  "frequency": 1,
+  "couponCount": 5,
+  "payments": [
+    {
+      "paymentDate": "2027-07-07",
+      "previousDate": "2026-07-07",
+      "referenceDate": "2027-06-15",
+      "couponRate": 5.97,
+      "number": 1
+    },
+    {
+      "paymentDate": "2028-07-07",
+      "previousDate": "2027-07-07",
+      "referenceDate": "2028-06-16",
+      "couponRate": 5.97,
+      "number": 2
+    },
+    {
+      "paymentDate": "2029-07-07",
+      "previousDate": "2028-07-07",
+      "referenceDate": "2029-06-15",
+      "couponRate": 5.97,
+      "number": 3
+    },
+    {
+      "paymentDate": "2030-07-07",
+      "previousDate": "2029-07-07",
+      "referenceDate": "2030-06-13",
+      "couponRate": 5.97,
+      "number": 4
+    },
+    {
+      "paymentDate": "2031-07-07",
+      "previousDate": "2030-07-07",
+      "referenceDate": "2031-06-16",
+      "couponRate": 5.97,
+      "number": 5
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2031-06-16",
+      "number": 1,
+      "principal": 100000.0,
+      "repaymentAmount": 100000.0
+    }
+  ]
+}

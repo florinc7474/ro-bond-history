@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-07-23T09:06:38Z",
+  "fetchedAt": "2026-07-24T07:53:18Z",
   "source": "BVB",
-  "bondCount": 248,
+  "bondCount": 246,
   "bonds": [
     {
       "symbol": "AAB26",
@@ -1453,29 +1453,6 @@
       "marketOriginal": "XRB"
     },
     {
-      "symbol": "OCIFN26E",
-      "name": "OCEAN CREDIT IFN",
-      "isin": "ROLZ3TDKE984",
-      "issuer": "OCEAN CREDIT IFN",
-      "fiscalCode": "34353350",
-      "issuedCount": 18668,
-      "faceValue": 100.0,
-      "issueValue": 1866800.0,
-      "issueDate": "2021-07-23",
-      "listingDate": "2021-11-03",
-      "maturityDate": "2026-07-23",
-      "couponCount": 20,
-      "isConvertible": null,
-      "type": "corporate",
-      "market": "exrb",
-      "category": "Bonds-SMT",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "EXRB"
-    },
-    {
       "symbol": "OCIFN31E",
       "name": "OCEAN CREDIT IFN BONDS 31",
       "isin": "ROH3RPKQHH02",
@@ -1750,29 +1727,6 @@
       "typeOriginal": "Obligatiuni municipale",
       "statusOriginal": "Tranzactionabila",
       "marketOriginal": "ORDB"
-    },
-    {
-      "symbol": "PRF26E",
-      "name": "Prefera Foods",
-      "isin": "RON9MVHTZFM5",
-      "issuer": "Prefera Foods",
-      "fiscalCode": "18484221",
-      "issuedCount": 10000,
-      "faceValue": 500.0,
-      "issueValue": 5000000.0,
-      "issueDate": "2021-07-23",
-      "listingDate": "2021-09-10",
-      "maturityDate": "2026-07-23",
-      "couponCount": 10,
-      "isConvertible": null,
-      "type": "corporate",
-      "market": "exrb",
-      "category": "Bonds-SMT",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "EXRB"
     },
     {
       "symbol": "R2608A",

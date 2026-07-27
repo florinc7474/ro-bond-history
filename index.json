@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T18:12:14Z",
+  "lastUpdated": "2026-07-27T06:52:15Z",
   "tradingDates": {
     "count": 126,
     "first": "2026-01-30",
@@ -134,8 +134,8 @@
     ]
   },
   "bondDetails": {
-    "count": 264,
-    "withCoupons": 258,
+    "count": 262,
+    "withCoupons": 256,
     "bonds": [
       {
         "symbol": "AAB26",
@@ -235,15 +235,6 @@
         "currency": "EUR",
         "couponRate": 5.97,
         "maturityDate": "2031-07-07"
-      },
-      {
-        "symbol": "B2604A",
-        "lastUpdated": null,
-        "couponCount": 8,
-        "hasCoupons": true,
-        "currency": "RON",
-        "couponRate": 4.85,
-        "maturityDate": "2026-04-22"
       },
       {
         "symbol": "B2707A",
@@ -2494,15 +2485,6 @@
         "currency": "EUR",
         "couponRate": 5.157,
         "maturityDate": "2036-03-18"
-      },
-      {
-        "symbol": "VIV26E",
-        "lastUpdated": null,
-        "couponCount": 10,
-        "hasCoupons": true,
-        "currency": "EUR",
-        "couponRate": 5.5,
-        "maturityDate": "2026-04-21"
       },
       {
         "symbol": "ZAL30",

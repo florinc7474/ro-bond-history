@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T17:44:53Z",
+  "lastUpdated": "2026-08-17T04:28:08Z",
   "tradingDates": {
     "count": 140,
     "first": "2026-01-30",
@@ -148,8 +148,8 @@
     ]
   },
   "bondDetails": {
-    "count": 261,
-    "withCoupons": 255,
+    "count": 254,
+    "withCoupons": 248,
     "bonds": [
       {
         "symbol": "AAB26",
@@ -861,15 +861,6 @@
         "currency": "RON",
         "couponRate": 7.33,
         "maturityDate": "2032-04-19"
-      },
-      {
-        "symbol": "PRD26",
-        "lastUpdated": null,
-        "couponCount": 40,
-        "hasCoupons": true,
-        "currency": "RON",
-        "couponRate": null,
-        "maturityDate": "2026-05-15"
       },
       {
         "symbol": "PRF26E",
@@ -2168,15 +2159,6 @@
         "maturityDate": "2036-07-15"
       },
       {
-        "symbol": "RBRO26",
-        "lastUpdated": null,
-        "couponCount": 5,
-        "hasCoupons": true,
-        "currency": "RON",
-        "couponRate": 3.086,
-        "maturityDate": "2026-05-14"
-      },
-      {
         "symbol": "RBRO27",
         "lastUpdated": null,
         "couponCount": 5,
@@ -2355,51 +2337,6 @@
         "currency": "RON",
         "couponRate": null,
         "maturityDate": "2027-08-15"
-      },
-      {
-        "symbol": "TIM26",
-        "lastUpdated": null,
-        "couponCount": 78,
-        "hasCoupons": true,
-        "currency": "RON",
-        "couponRate": 77.0,
-        "maturityDate": "2026-05-12"
-      },
-      {
-        "symbol": "TIM26A",
-        "lastUpdated": null,
-        "couponCount": 76,
-        "hasCoupons": true,
-        "currency": "RON",
-        "couponRate": 75.0,
-        "maturityDate": "2026-05-15"
-      },
-      {
-        "symbol": "TIM26B",
-        "lastUpdated": null,
-        "couponCount": 74,
-        "hasCoupons": true,
-        "currency": "RON",
-        "couponRate": 73.0,
-        "maturityDate": "2026-05-15"
-      },
-      {
-        "symbol": "TIM26C",
-        "lastUpdated": null,
-        "couponCount": 72,
-        "hasCoupons": true,
-        "currency": "RON",
-        "couponRate": 71.0,
-        "maturityDate": "2026-05-15"
-      },
-      {
-        "symbol": "TIM26D",
-        "lastUpdated": null,
-        "couponCount": 71,
-        "hasCoupons": true,
-        "currency": "RON",
-        "couponRate": 70.0,
-        "maturityDate": "2026-05-15"
       },
       {
         "symbol": "TIM28",

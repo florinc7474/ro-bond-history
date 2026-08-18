@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-08-17T07:32:08Z",
+  "fetchedAt": "2026-08-18T05:54:27Z",
   "source": "BVB",
-  "bondCount": 249,
+  "bondCount": 248,
   "bonds": [
     {
       "symbol": "ABG29E",
@@ -5039,29 +5039,6 @@
       "typeOriginal": "Titluri de stat",
       "statusOriginal": "",
       "marketOriginal": "EPOFB"
-    },
-    {
-      "symbol": "RBRO27A",
-      "name": "RAIFFEISEN BANK - On . 08.2027",
-      "isin": "XS2511879160",
-      "issuer": "RAIFFEISEN BANK S.A.",
-      "fiscalCode": "361820",
-      "issuedCount": 954,
-      "faceValue": 525000.0,
-      "issueValue": 500850000.0,
-      "issueDate": "2022-08-17",
-      "listingDate": "2022-08-31",
-      "maturityDate": "2027-08-17",
-      "couponCount": 5,
-      "isConvertible": null,
-      "type": "corporate",
-      "market": "ordb",
-      "category": "Corporative",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "ORDB"
     },
     {
       "symbol": "RBRO27B",

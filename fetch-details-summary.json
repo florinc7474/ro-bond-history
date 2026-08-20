@@ -1,17 +1,9 @@
 {
-  "timestamp": "2026-08-20T05:56:04Z",
-  "requested": 7,
-  "success": 7,
+  "timestamp": "2026-08-20T07:22:25Z",
+  "requested": 0,
+  "success": 0,
   "failed": 0,
   "warnings": [],
   "failed_symbols": [],
-  "successful_symbols": [
-    "R2808A",
-    "R2808B",
-    "R2908BE",
-    "R2908CE",
-    "R3008A",
-    "R3608A",
-    "R3608AE"
-  ]
+  "successful_symbols": []
 }

@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-08-20T07:22:24Z",
+  "fetchedAt": "2026-08-21T05:57:21Z",
   "source": "BVB",
-  "bondCount": 248,
+  "bondCount": 247,
   "bonds": [
     {
       "symbol": "ABG29E",
@@ -715,29 +715,6 @@
       "typeOriginal": "",
       "statusOriginal": "",
       "marketOriginal": "EPOFB"
-    },
-    {
-      "symbol": "BRK26",
-      "name": "SSIF BRK FINANCIAL GROUP - Ob. 2026",
-      "isin": "ROSYZVBBKKI6",
-      "issuer": "SSIF BRK FINANCIAL GROUP SA",
-      "fiscalCode": "6738423",
-      "issuedCount": 250000,
-      "faceValue": 100.0,
-      "issueValue": 25000000.0,
-      "issueDate": "2021-08-10",
-      "listingDate": "2021-10-26",
-      "maturityDate": "2026-08-20",
-      "couponCount": 20,
-      "isConvertible": null,
-      "type": "corporate",
-      "market": "ordb",
-      "category": "Corporative",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "ORDB"
     },
     {
       "symbol": "BRK31",

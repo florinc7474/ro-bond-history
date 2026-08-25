@@ -1,9 +1,11 @@
 {
-  "timestamp": "2026-08-24T07:36:54Z",
-  "requested": 0,
-  "success": 0,
+  "timestamp": "2026-08-25T05:57:00Z",
+  "requested": 1,
+  "success": 1,
   "failed": 0,
   "warnings": [],
   "failed_symbols": [],
-  "successful_symbols": []
+  "successful_symbols": [
+    "DPAN30E"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T17:23:10Z",
+  "lastUpdated": "2026-08-25T05:57:06Z",
   "tradingDates": {
     "count": 146,
     "first": "2026-01-30",
@@ -155,7 +155,7 @@
   },
   "bondDetails": {
     "count": 258,
-    "withCoupons": 252,
+    "withCoupons": 253,
     "bonds": [
       {
         "symbol": "AAB26",
@@ -501,12 +501,12 @@
       },
       {
         "symbol": "DPAN30E",
-        "lastUpdated": "2026-02-24T14:09:32Z",
-        "couponCount": 0,
-        "hasCoupons": false,
-        "currency": null,
-        "couponRate": null,
-        "maturityDate": null
+        "lastUpdated": null,
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 11.0,
+        "maturityDate": "2030-08-26"
       },
       {
         "symbol": "EL30E",
@@ -2483,6 +2483,6 @@
   },
   "bondList": {
     "bondCount": 247,
-    "fetchedAt": "2026-08-24T07:36:53Z"
+    "fetchedAt": "2026-08-25T05:56:59Z"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T07:24:42Z",
+  "fetchedAt": "2026-08-26T05:59:11Z",
   "source": "BVB",
   "bondCount": 247,
   "bonds": [
@@ -823,13 +823,13 @@
       "couponCount": 10,
       "isConvertible": null,
       "type": "corporate",
-      "market": "eregt",
-      "category": "Corporative",
-      "status": "unknown",
+      "market": "exrb",
+      "category": "Bonds-SMT",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "",
-      "marketOriginal": "EREGT"
+      "statusOriginal": "Tranzactionabila",
+      "marketOriginal": "EXRB"
     },
     {
       "symbol": "EL30E",

@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-08-27T17:50:32Z",
+  "fetchedAt": "2026-08-28T17:36:37Z",
   "source": "BVB",
-  "bondCount": 247,
+  "bondCount": 248,
   "bonds": [
     {
       "symbol": "ABG29E",
@@ -5131,6 +5131,29 @@
       "typeOriginal": "Obligatiuni municipale",
       "statusOriginal": "Tranzactionabila",
       "marketOriginal": "EORDB"
+    },
+    {
+      "symbol": "RGMT28E",
+      "name": "RAGMET RAFFINERIA S.A - Ob. 2028",
+      "isin": "ROM6FWM80WT1",
+      "issuer": "RAGMET RAFFINERIA S.A",
+      "fiscalCode": "45075550",
+      "issuedCount": null,
+      "faceValue": null,
+      "issueValue": null,
+      "issueDate": null,
+      "listingDate": null,
+      "maturityDate": null,
+      "couponCount": null,
+      "isConvertible": null,
+      "type": "corporate",
+      "market": "unknown",
+      "category": "-",
+      "status": "unknown",
+      "tradingModel": "Tranzactionare continua",
+      "typeOriginal": "Obligatiuni corporative",
+      "statusOriginal": "",
+      "marketOriginal": "EPOFY"
     },
     {
       "symbol": "SBET29",

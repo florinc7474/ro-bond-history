@@ -1,11 +1,9 @@
 {
-  "timestamp": "2026-09-07T10:36:10Z",
-  "requested": 1,
-  "success": 1,
+  "timestamp": "2026-09-07T12:55:16Z",
+  "requested": 0,
+  "success": 0,
   "failed": 0,
   "warnings": [],
   "failed_symbols": [],
-  "successful_symbols": [
-    "BNET31E"
-  ]
+  "successful_symbols": []
 }

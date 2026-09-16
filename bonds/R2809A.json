@@ -1,0 +1,41 @@
+{
+  "symbol": "R2809A",
+  "fetchedAt": "2026-09-16T11:56:09Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "RON",
+    "couponRate": 6.3,
+    "interestType": "fixed",
+    "issueDate": "2026-09-16",
+    "maturityDate": "2028-09-16",
+    "couponFrequency": 1
+  },
+  "annualRate": 6.3,
+  "frequency": 1,
+  "couponCount": 2,
+  "payments": [
+    {
+      "paymentDate": "2027-09-16",
+      "previousDate": "2026-09-16",
+      "referenceDate": "2027-09-07",
+      "couponRate": 6.3,
+      "number": 1
+    },
+    {
+      "paymentDate": "2028-09-16",
+      "previousDate": "2027-09-16",
+      "referenceDate": "2028-09-07",
+      "couponRate": 6.3,
+      "number": 2
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2028-09-07",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
+    }
+  ]
+}

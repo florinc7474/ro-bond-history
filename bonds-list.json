@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T11:56:03Z",
+  "fetchedAt": "2026-09-17T10:16:09Z",
   "source": "BVB",
   "bondCount": 256,
   "bonds": [
@@ -2964,10 +2964,10 @@
       "type": "government",
       "market": "regt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "REGT"
     },
     {
@@ -2987,10 +2987,10 @@
       "type": "government",
       "market": "regt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "REGT"
     },
     {
@@ -3539,10 +3539,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "EREGT"
     },
     {
@@ -3562,10 +3562,10 @@
       "type": "government",
       "market": "eregt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "EREGT"
     },
     {
@@ -4068,10 +4068,10 @@
       "type": "government",
       "market": "regt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "REGT"
     },
     {
@@ -5172,10 +5172,10 @@
       "type": "government",
       "market": "regt",
       "category": "Titluri de stat",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "REGT"
     },
     {
@@ -5193,13 +5193,13 @@
       "couponCount": 10,
       "isConvertible": null,
       "type": "government",
-      "market": "epofb",
-      "category": "-",
-      "status": "unknown",
+      "market": "eregt",
+      "category": "Titluri de stat",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Titluri de stat",
-      "statusOriginal": "",
-      "marketOriginal": "EPOFB"
+      "statusOriginal": "Tranzactionabila",
+      "marketOriginal": "EREGT"
     },
     {
       "symbol": "RBRO27B",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T19:20:45Z",
+  "lastUpdated": "2026-09-21T09:19:56Z",
   "tradingDates": {
     "count": 164,
     "first": "2026-01-30",
@@ -172,8 +172,8 @@
     ]
   },
   "bondDetails": {
-    "count": 266,
-    "withCoupons": 261,
+    "count": 265,
+    "withCoupons": 260,
     "bonds": [
       {
         "symbol": "AAB26",
@@ -822,15 +822,6 @@
         "currency": "RON",
         "couponRate": null,
         "maturityDate": "2027-06-15"
-      },
-      {
-        "symbol": "PAY26E",
-        "lastUpdated": null,
-        "couponCount": 20,
-        "hasCoupons": true,
-        "currency": "EUR",
-        "couponRate": 5.5,
-        "maturityDate": "2026-06-16"
       },
       {
         "symbol": "PBK27E",

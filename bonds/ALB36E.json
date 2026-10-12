@@ -1,0 +1,185 @@
+{
+  "symbol": "ALB36E",
+  "fetchedAt": "2026-10-12T13:23:36Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "EUR",
+    "couponFormula": "EURIBOR6M+2,50",
+    "interestType": "floating",
+    "issueDate": "2026-09-30",
+    "maturityDate": "2036-09-30",
+    "couponFrequency": 2
+  },
+  "annualRate": null,
+  "frequency": 2,
+  "couponCount": 20,
+  "payments": [
+    {
+      "paymentDate": "2027-03-30",
+      "previousDate": "2026-09-30",
+      "referenceDate": "2027-03-22",
+      "couponRate": 5.57,
+      "number": 1
+    },
+    {
+      "paymentDate": "2027-09-30",
+      "previousDate": "2027-03-30",
+      "referenceDate": "2027-09-22",
+      "couponRate": 0.0,
+      "number": 2
+    },
+    {
+      "paymentDate": "2028-03-30",
+      "previousDate": "2027-09-30",
+      "referenceDate": "2028-03-22",
+      "couponRate": 0.0,
+      "number": 3
+    },
+    {
+      "paymentDate": "2028-09-30",
+      "previousDate": "2028-03-30",
+      "referenceDate": "2028-09-22",
+      "couponRate": 0.0,
+      "number": 4
+    },
+    {
+      "paymentDate": "2029-03-30",
+      "previousDate": "2028-09-30",
+      "referenceDate": "2029-03-22",
+      "couponRate": 0.0,
+      "number": 5
+    },
+    {
+      "paymentDate": "2029-09-30",
+      "previousDate": "2029-03-30",
+      "referenceDate": "2029-09-21",
+      "couponRate": 0.0,
+      "number": 6
+    },
+    {
+      "paymentDate": "2030-03-30",
+      "previousDate": "2029-09-30",
+      "referenceDate": "2030-03-22",
+      "couponRate": 0.0,
+      "number": 7
+    },
+    {
+      "paymentDate": "2030-09-30",
+      "previousDate": "2030-03-30",
+      "referenceDate": "2030-09-20",
+      "couponRate": 0.0,
+      "number": 8
+    },
+    {
+      "paymentDate": "2031-03-30",
+      "previousDate": "2030-09-30",
+      "referenceDate": "2031-03-21",
+      "couponRate": 0.0,
+      "number": 9
+    },
+    {
+      "paymentDate": "2031-09-30",
+      "previousDate": "2031-03-30",
+      "referenceDate": "2031-09-22",
+      "couponRate": 0.0,
+      "number": 10
+    },
+    {
+      "paymentDate": "2032-03-30",
+      "previousDate": "2031-09-30",
+      "referenceDate": "2032-03-22",
+      "couponRate": 0.0,
+      "number": 11
+    },
+    {
+      "paymentDate": "2032-09-30",
+      "previousDate": "2032-03-30",
+      "referenceDate": "2032-09-22",
+      "couponRate": 0.0,
+      "number": 12
+    },
+    {
+      "paymentDate": "2033-03-30",
+      "previousDate": "2032-09-30",
+      "referenceDate": "2033-03-22",
+      "couponRate": 0.0,
+      "number": 13
+    },
+    {
+      "paymentDate": "2033-09-30",
+      "previousDate": "2033-03-30",
+      "referenceDate": "2033-09-22",
+      "couponRate": 0.0,
+      "number": 14
+    },
+    {
+      "paymentDate": "2034-03-30",
+      "previousDate": "2033-09-30",
+      "referenceDate": "2034-03-22",
+      "couponRate": 0.0,
+      "number": 15
+    },
+    {
+      "paymentDate": "2034-09-30",
+      "previousDate": "2034-03-30",
+      "referenceDate": "2034-09-22",
+      "couponRate": 0.0,
+      "number": 16
+    },
+    {
+      "paymentDate": "2035-03-30",
+      "previousDate": "2034-09-30",
+      "referenceDate": "2035-03-22",
+      "couponRate": 0.0,
+      "number": 17
+    },
+    {
+      "paymentDate": "2035-09-30",
+      "previousDate": "2035-03-30",
+      "referenceDate": "2035-09-21",
+      "couponRate": 0.0,
+      "number": 18
+    },
+    {
+      "paymentDate": "2036-03-30",
+      "previousDate": "2035-09-30",
+      "referenceDate": "2036-03-21",
+      "couponRate": 0.0,
+      "number": 19
+    },
+    {
+      "paymentDate": "2036-09-30",
+      "previousDate": "2036-03-30",
+      "referenceDate": "2036-09-22",
+      "couponRate": 0.0,
+      "number": 20
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2033-09-22",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 22.0
+    },
+    {
+      "date": "2034-09-22",
+      "number": 2,
+      "principal": 78.0,
+      "repaymentAmount": 23.0
+    },
+    {
+      "date": "2035-09-21",
+      "number": 3,
+      "principal": 55.0,
+      "repaymentAmount": 27.0
+    },
+    {
+      "date": "2036-09-22",
+      "number": 4,
+      "principal": 28.0,
+      "repaymentAmount": 28.0
+    }
+  ]
+}

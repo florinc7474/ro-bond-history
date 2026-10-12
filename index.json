@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T12:38:45Z",
+  "lastUpdated": "2026-10-12T13:23:37Z",
   "tradingDates": {
     "count": 179,
     "first": "2026-01-30",
@@ -187,8 +187,8 @@
     ]
   },
   "bondDetails": {
-    "count": 264,
-    "withCoupons": 259,
+    "count": 265,
+    "withCoupons": 260,
     "bonds": [
       {
         "symbol": "AAB26",
@@ -234,6 +234,15 @@
         "currency": "RON",
         "couponRate": null,
         "maturityDate": "2027-11-15"
+      },
+      {
+        "symbol": "ALB36E",
+        "lastUpdated": null,
+        "couponCount": 20,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": null,
+        "maturityDate": "2036-09-30"
       },
       {
         "symbol": "ASC27",
@@ -2570,6 +2579,6 @@
   },
   "bondList": {
     "bondCount": 261,
-    "fetchedAt": "2026-10-09T13:36:37Z"
+    "fetchedAt": "2026-10-12T13:23:30Z"
   }
 }

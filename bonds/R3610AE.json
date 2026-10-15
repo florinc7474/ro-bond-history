@@ -1,0 +1,97 @@
+{
+  "symbol": "R3610AE",
+  "fetchedAt": "2026-10-15T10:11:18Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "EUR",
+    "couponRate": 6.6,
+    "interestType": "fixed",
+    "issueDate": "2026-10-14",
+    "maturityDate": "2036-10-14",
+    "couponFrequency": 1
+  },
+  "annualRate": 6.6,
+  "frequency": 1,
+  "couponCount": 10,
+  "payments": [
+    {
+      "paymentDate": "2027-10-14",
+      "previousDate": "2026-10-14",
+      "referenceDate": "2027-10-05",
+      "couponRate": 6.6,
+      "number": 1
+    },
+    {
+      "paymentDate": "2028-10-14",
+      "previousDate": "2027-10-14",
+      "referenceDate": "2028-10-05",
+      "couponRate": 6.6,
+      "number": 2
+    },
+    {
+      "paymentDate": "2029-10-14",
+      "previousDate": "2028-10-14",
+      "referenceDate": "2029-10-04",
+      "couponRate": 6.6,
+      "number": 3
+    },
+    {
+      "paymentDate": "2030-10-14",
+      "previousDate": "2029-10-14",
+      "referenceDate": "2030-10-03",
+      "couponRate": 6.6,
+      "number": 4
+    },
+    {
+      "paymentDate": "2031-10-14",
+      "previousDate": "2030-10-14",
+      "referenceDate": "2031-10-03",
+      "couponRate": 6.6,
+      "number": 5
+    },
+    {
+      "paymentDate": "2032-10-14",
+      "previousDate": "2031-10-14",
+      "referenceDate": "2032-10-05",
+      "couponRate": 6.6,
+      "number": 6
+    },
+    {
+      "paymentDate": "2033-10-14",
+      "previousDate": "2032-10-14",
+      "referenceDate": "2033-10-05",
+      "couponRate": 6.6,
+      "number": 7
+    },
+    {
+      "paymentDate": "2034-10-14",
+      "previousDate": "2033-10-14",
+      "referenceDate": "2034-10-05",
+      "couponRate": 6.6,
+      "number": 8
+    },
+    {
+      "paymentDate": "2035-10-14",
+      "previousDate": "2034-10-14",
+      "referenceDate": "2035-10-04",
+      "couponRate": 6.6,
+      "number": 9
+    },
+    {
+      "paymentDate": "2036-10-14",
+      "previousDate": "2035-10-14",
+      "referenceDate": "2036-10-03",
+      "couponRate": 6.6,
+      "number": 10
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2036-10-03",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
+    }
+  ]
+}

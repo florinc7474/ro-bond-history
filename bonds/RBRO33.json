@@ -1,0 +1,76 @@
+{
+  "symbol": "RBRO33",
+  "fetchedAt": "2026-10-15T10:11:24Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 600000.0,
+    "currency": "RON",
+    "couponRate": 7.538,
+    "interestType": "fixed",
+    "issueDate": "2026-08-13",
+    "maturityDate": "2033-08-13",
+    "couponFrequency": 1
+  },
+  "annualRate": 7.538,
+  "frequency": 1,
+  "couponCount": 7,
+  "payments": [
+    {
+      "paymentDate": "2027-08-13",
+      "previousDate": "2026-08-13",
+      "referenceDate": "2027-07-23",
+      "couponRate": 7.538,
+      "number": 1
+    },
+    {
+      "paymentDate": "2028-08-13",
+      "previousDate": "2027-08-13",
+      "referenceDate": "2028-07-24",
+      "couponRate": 7.538,
+      "number": 2
+    },
+    {
+      "paymentDate": "2029-08-13",
+      "previousDate": "2028-08-13",
+      "referenceDate": "2029-07-23",
+      "couponRate": 7.538,
+      "number": 3
+    },
+    {
+      "paymentDate": "2030-08-13",
+      "previousDate": "2029-08-13",
+      "referenceDate": "2030-07-23",
+      "couponRate": 7.538,
+      "number": 4
+    },
+    {
+      "paymentDate": "2031-08-13",
+      "previousDate": "2030-08-13",
+      "referenceDate": "2031-07-23",
+      "couponRate": 7.538,
+      "number": 5
+    },
+    {
+      "paymentDate": "2032-08-13",
+      "previousDate": "2031-08-13",
+      "referenceDate": "2032-07-23",
+      "couponRate": 7.538,
+      "number": 6
+    },
+    {
+      "paymentDate": "2033-08-13",
+      "previousDate": "2032-08-13",
+      "referenceDate": "2033-07-25",
+      "couponRate": 0.0,
+      "number": 7
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2033-07-25",
+      "number": 1,
+      "principal": 600000.0,
+      "repaymentAmount": 600000.0
+    }
+  ]
+}

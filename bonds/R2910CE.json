@@ -1,0 +1,48 @@
+{
+  "symbol": "R2910CE",
+  "fetchedAt": "2026-10-15T10:11:01Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "EUR",
+    "couponRate": 4.5,
+    "interestType": "fixed",
+    "issueDate": "2026-10-14",
+    "maturityDate": "2029-10-14",
+    "couponFrequency": 1
+  },
+  "annualRate": 4.5,
+  "frequency": 1,
+  "couponCount": 3,
+  "payments": [
+    {
+      "paymentDate": "2027-10-14",
+      "previousDate": "2026-10-14",
+      "referenceDate": "2027-10-05",
+      "couponRate": 4.5,
+      "number": 1
+    },
+    {
+      "paymentDate": "2028-10-14",
+      "previousDate": "2027-10-14",
+      "referenceDate": "2028-10-05",
+      "couponRate": 4.5,
+      "number": 2
+    },
+    {
+      "paymentDate": "2029-10-14",
+      "previousDate": "2028-10-14",
+      "referenceDate": "2029-10-04",
+      "couponRate": 4.5,
+      "number": 3
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2029-10-04",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
+    }
+  ]
+}

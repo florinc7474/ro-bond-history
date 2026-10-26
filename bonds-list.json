@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-10-23T11:56:18Z",
+  "fetchedAt": "2026-10-26T11:22:45Z",
   "source": "BVB",
-  "bondCount": 261,
+  "bondCount": 262,
   "bonds": [
     {
       "symbol": "ABG29E",
@@ -48,6 +48,29 @@
       "typeOriginal": "Obligatiuni corporative",
       "statusOriginal": "Tranzactionabila",
       "marketOriginal": "XRB"
+    },
+    {
+      "symbol": "AGR31E",
+      "name": "Agroland Business System Bonds 2031 EUR",
+      "isin": "ROJ92IXXOM64",
+      "issuer": "AGROLAND BUSINESS SYSTEM S.A.",
+      "fiscalCode": "25165241",
+      "issuedCount": null,
+      "faceValue": null,
+      "issueValue": null,
+      "issueDate": null,
+      "listingDate": null,
+      "maturityDate": null,
+      "couponCount": null,
+      "isConvertible": null,
+      "type": "corporate",
+      "market": "epofb",
+      "category": "-",
+      "status": "unknown",
+      "tradingModel": "Tranzactionare continua",
+      "typeOriginal": "Obligatiuni corporative",
+      "statusOriginal": "",
+      "marketOriginal": "EPOFB"
     },
     {
       "symbol": "ALB26",

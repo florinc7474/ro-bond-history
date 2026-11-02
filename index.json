@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T21:15:59Z",
+  "lastUpdated": "2026-11-02T11:43:45Z",
   "tradingDates": {
     "count": 194,
     "first": "2026-01-30",
@@ -202,18 +202,9 @@
     ]
   },
   "bondDetails": {
-    "count": 271,
-    "withCoupons": 266,
+    "count": 269,
+    "withCoupons": 264,
     "bonds": [
-      {
-        "symbol": "AAB26",
-        "lastUpdated": null,
-        "couponCount": 10,
-        "hasCoupons": true,
-        "currency": "RON",
-        "couponRate": 9.0,
-        "maturityDate": "2026-08-02"
-      },
       {
         "symbol": "ABG29E",
         "lastUpdated": null,
@@ -897,15 +888,6 @@
         "currency": "RON",
         "couponRate": 7.33,
         "maturityDate": "2032-04-19"
-      },
-      {
-        "symbol": "R2608A",
-        "lastUpdated": null,
-        "couponCount": 3,
-        "hasCoupons": true,
-        "currency": "RON",
-        "couponRate": 7.2,
-        "maturityDate": "2026-08-02"
       },
       {
         "symbol": "R2610A",

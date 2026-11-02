@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T12:59:45Z",
+  "lastUpdated": "2026-11-02T13:44:05Z",
   "tradingDates": {
     "count": 194,
     "first": "2026-01-30",
@@ -202,8 +202,8 @@
     ]
   },
   "bondDetails": {
-    "count": 269,
-    "withCoupons": 264,
+    "count": 270,
+    "withCoupons": 265,
     "bonds": [
       {
         "symbol": "ABG29E",
@@ -2609,6 +2609,15 @@
         "maturityDate": "2031-02-27"
       },
       {
+        "symbol": "VGP",
+        "lastUpdated": null,
+        "couponCount": 6,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 4.0,
+        "maturityDate": "2032-01-16"
+      },
+      {
         "symbol": "VISTA36E",
         "lastUpdated": null,
         "couponCount": 40,
@@ -2629,7 +2638,7 @@
     ]
   },
   "bondList": {
-    "bondCount": 262,
-    "fetchedAt": "2026-10-30T13:20:21Z"
+    "bondCount": 260,
+    "fetchedAt": "2026-11-02T13:43:58Z"
   }
 }

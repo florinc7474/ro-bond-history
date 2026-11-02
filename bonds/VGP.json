@@ -1,0 +1,69 @@
+{
+  "symbol": "VGP",
+  "fetchedAt": "2026-11-02T13:44:03Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100000.0,
+    "currency": "EUR",
+    "couponRate": 4.0,
+    "interestType": "fixed",
+    "issueDate": "2026-01-16",
+    "maturityDate": "2032-01-16",
+    "couponFrequency": 1
+  },
+  "annualRate": 4.0,
+  "frequency": 1,
+  "couponCount": 6,
+  "payments": [
+    {
+      "paymentDate": "2027-01-16",
+      "previousDate": "2026-01-16",
+      "referenceDate": "2027-01-15",
+      "couponRate": 4.0,
+      "number": 1
+    },
+    {
+      "paymentDate": "2028-01-16",
+      "previousDate": "2027-01-16",
+      "referenceDate": "2028-01-14",
+      "couponRate": 4.0,
+      "number": 2
+    },
+    {
+      "paymentDate": "2029-01-16",
+      "previousDate": "2028-01-16",
+      "referenceDate": "2029-01-15",
+      "couponRate": 4.0,
+      "number": 3
+    },
+    {
+      "paymentDate": "2030-01-16",
+      "previousDate": "2029-01-16",
+      "referenceDate": "2029-01-15",
+      "couponRate": 4.0,
+      "number": 4
+    },
+    {
+      "paymentDate": "2031-01-16",
+      "previousDate": "2030-01-16",
+      "referenceDate": "2031-01-15",
+      "couponRate": 4.0,
+      "number": 5
+    },
+    {
+      "paymentDate": "2032-01-16",
+      "previousDate": "2031-01-16",
+      "referenceDate": "2032-01-15",
+      "couponRate": 4.0,
+      "number": 6
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2032-01-15",
+      "number": 1,
+      "principal": 100000.0,
+      "repaymentAmount": 100000.0
+    }
+  ]
+}

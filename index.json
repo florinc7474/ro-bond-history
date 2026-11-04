@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T13:10:14Z",
+  "lastUpdated": "2026-11-04T14:46:35Z",
   "tradingDates": {
     "count": 196,
     "first": "2026-01-30",
@@ -2641,6 +2641,6 @@
   },
   "bondList": {
     "bondCount": 268,
-    "fetchedAt": "2026-11-04T13:10:10Z"
+    "fetchedAt": "2026-11-04T14:46:32Z"
   }
 }

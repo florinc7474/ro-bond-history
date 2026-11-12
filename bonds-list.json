@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-11T14:38:32Z",
+  "fetchedAt": "2026-11-12T13:54:56Z",
   "source": "BVB",
   "bondCount": 268,
   "bonds": [
@@ -112,10 +112,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "ORDB"
     },
     {
@@ -963,10 +963,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "ORDB"
     },
     {
@@ -1366,22 +1366,22 @@
       "isin": "ROH3RPKQHH02",
       "issuer": "OCEAN CREDIT IFN",
       "fiscalCode": "34353350",
-      "issuedCount": null,
-      "faceValue": null,
-      "issueValue": null,
-      "issueDate": null,
-      "listingDate": null,
-      "maturityDate": null,
-      "couponCount": null,
+      "issuedCount": 20000,
+      "faceValue": 100.0,
+      "issueValue": 2000000.0,
+      "issueDate": "2026-06-19",
+      "listingDate": "2026-11-16",
+      "maturityDate": "2031-06-19",
+      "couponCount": 10,
       "isConvertible": null,
       "type": "corporate",
-      "market": "epofb",
-      "category": "-",
+      "market": "exrb",
+      "category": "Bonds-SMT",
       "status": "unknown",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
       "statusOriginal": "",
-      "marketOriginal": "EPOFB"
+      "marketOriginal": "EXRB"
     },
     {
       "symbol": "OMRO26",
@@ -1469,10 +1469,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "ORDB"
     },
     {
@@ -5678,10 +5678,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "ORDB"
     },
     {
@@ -5862,10 +5862,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "ORDB"
     },
     {
@@ -5885,10 +5885,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "ORDB"
     },
     {

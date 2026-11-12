@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T23:14:03Z",
+  "lastUpdated": "2026-11-12T13:55:04Z",
   "tradingDates": {
     "count": 201,
     "first": "2026-01-30",
@@ -209,8 +209,8 @@
     ]
   },
   "bondDetails": {
-    "count": 270,
-    "withCoupons": 265,
+    "count": 271,
+    "withCoupons": 266,
     "bonds": [
       {
         "symbol": "ABG29E",
@@ -796,6 +796,15 @@
         "currency": "RON",
         "couponRate": 9.0,
         "maturityDate": "2028-08-05"
+      },
+      {
+        "symbol": "OCIFN31E",
+        "lastUpdated": null,
+        "couponCount": 10,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 12.5,
+        "maturityDate": "2031-06-19"
       },
       {
         "symbol": "OMRO26",
@@ -2646,6 +2655,6 @@
   },
   "bondList": {
     "bondCount": 268,
-    "fetchedAt": "2026-11-11T14:38:32Z"
+    "fetchedAt": "2026-11-12T13:54:56Z"
   }
 }

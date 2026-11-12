@@ -1,0 +1,97 @@
+{
+  "symbol": "OCIFN31E",
+  "fetchedAt": "2026-11-12T13:55:02Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "EUR",
+    "couponRate": 12.5,
+    "interestType": "fixed",
+    "issueDate": "2026-06-19",
+    "maturityDate": "2031-06-19",
+    "couponFrequency": 2
+  },
+  "annualRate": 12.5,
+  "frequency": 2,
+  "couponCount": 10,
+  "payments": [
+    {
+      "paymentDate": "2026-12-19",
+      "previousDate": "2026-06-19",
+      "referenceDate": "2026-12-04",
+      "couponRate": 12.5,
+      "number": 1
+    },
+    {
+      "paymentDate": "2027-06-19",
+      "previousDate": "2026-12-19",
+      "referenceDate": "2027-06-04",
+      "couponRate": 12.5,
+      "number": 2
+    },
+    {
+      "paymentDate": "2027-12-19",
+      "previousDate": "2027-06-19",
+      "referenceDate": "2027-12-03",
+      "couponRate": 12.5,
+      "number": 3
+    },
+    {
+      "paymentDate": "2028-06-19",
+      "previousDate": "2027-12-19",
+      "referenceDate": "2028-06-02",
+      "couponRate": 12.5,
+      "number": 4
+    },
+    {
+      "paymentDate": "2028-12-19",
+      "previousDate": "2028-06-19",
+      "referenceDate": "2028-12-04",
+      "couponRate": 12.5,
+      "number": 5
+    },
+    {
+      "paymentDate": "2029-06-19",
+      "previousDate": "2028-12-19",
+      "referenceDate": "2029-06-04",
+      "couponRate": 12.5,
+      "number": 6
+    },
+    {
+      "paymentDate": "2029-12-19",
+      "previousDate": "2029-06-19",
+      "referenceDate": "2029-12-04",
+      "couponRate": 12.5,
+      "number": 7
+    },
+    {
+      "paymentDate": "2030-06-19",
+      "previousDate": "2029-12-19",
+      "referenceDate": "2030-06-04",
+      "couponRate": 12.5,
+      "number": 8
+    },
+    {
+      "paymentDate": "2030-12-19",
+      "previousDate": "2030-06-19",
+      "referenceDate": "2030-12-04",
+      "couponRate": 12.5,
+      "number": 9
+    },
+    {
+      "paymentDate": "2031-06-19",
+      "previousDate": "2030-12-19",
+      "referenceDate": "2031-06-04",
+      "couponRate": 12.5,
+      "number": 10
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2031-06-04",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T22:30:02Z",
+  "lastUpdated": "2026-11-13T13:18:54Z",
   "tradingDates": {
     "count": 202,
     "first": "2026-01-30",
@@ -210,8 +210,8 @@
     ]
   },
   "bondDetails": {
-    "count": 271,
-    "withCoupons": 266,
+    "count": 272,
+    "withCoupons": 267,
     "bonds": [
       {
         "symbol": "ABG29E",
@@ -302,6 +302,15 @@
         "currency": "EUR",
         "couponRate": 5.97,
         "maturityDate": "2031-07-07"
+      },
+      {
+        "symbol": "AVANT29E",
+        "lastUpdated": null,
+        "couponCount": 6,
+        "hasCoupons": true,
+        "currency": "EUR",
+        "couponRate": 11.0,
+        "maturityDate": "2029-05-28"
       },
       {
         "symbol": "B2707A",
@@ -2656,6 +2665,6 @@
   },
   "bondList": {
     "bondCount": 268,
-    "fetchedAt": "2026-11-12T15:30:00Z"
+    "fetchedAt": "2026-11-13T13:18:46Z"
   }
 }

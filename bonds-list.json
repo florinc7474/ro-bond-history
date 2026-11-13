@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-12T15:30:00Z",
+  "fetchedAt": "2026-11-13T13:18:46Z",
   "source": "BVB",
   "bondCount": 268,
   "bonds": [
@@ -112,10 +112,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "suspended",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Suspendata",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "ORDB"
     },
     {
@@ -262,22 +262,22 @@
       "isin": "ROY3VUFP2UW6",
       "issuer": "AVANT CREDIT IFN S.A.",
       "fiscalCode": "13341280",
-      "issuedCount": null,
-      "faceValue": null,
-      "issueValue": null,
-      "issueDate": null,
-      "listingDate": null,
-      "maturityDate": null,
-      "couponCount": null,
+      "issuedCount": 17861,
+      "faceValue": 100.0,
+      "issueValue": 1786100.0,
+      "issueDate": "2026-05-28",
+      "listingDate": "2026-11-17",
+      "maturityDate": "2029-05-28",
+      "couponCount": 6,
       "isConvertible": null,
       "type": "corporate",
-      "market": "epofb",
-      "category": "-",
+      "market": "exrb",
+      "category": "Bonds-SMT",
       "status": "unknown",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
       "statusOriginal": "",
-      "marketOriginal": "EPOFB"
+      "marketOriginal": "EXRB"
     },
     {
       "symbol": "B2707A",
@@ -963,10 +963,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "suspended",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Suspendata",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "ORDB"
     },
     {
@@ -1469,10 +1469,10 @@
       "type": "municipal",
       "market": "ordb",
       "category": "Municipale",
-      "status": "suspended",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Suspendata",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "ORDB"
     },
     {

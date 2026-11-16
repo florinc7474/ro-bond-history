@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-11-13T14:48:43Z",
+  "fetchedAt": "2026-11-16T13:53:38Z",
   "source": "BVB",
-  "bondCount": 268,
+  "bondCount": 266,
   "bonds": [
     {
       "symbol": "ABG29E",
@@ -71,29 +71,6 @@
       "typeOriginal": "Obligatiuni corporative",
       "statusOriginal": "",
       "marketOriginal": "EPOFB"
-    },
-    {
-      "symbol": "ALB26",
-      "name": "CONSILIUL JUDETEAN ALBA",
-      "isin": "ROALBUDBL065",
-      "issuer": "CONSILIUL JUDETEAN ALBA",
-      "fiscalCode": "4562583",
-      "issuedCount": 500000,
-      "faceValue": 100.0,
-      "issueValue": 50000000.0,
-      "issueDate": "2009-03-07",
-      "listingDate": "2009-05-06",
-      "maturityDate": "2026-11-15",
-      "couponCount": 71,
-      "isConvertible": false,
-      "type": "municipal",
-      "market": "ordb",
-      "category": "Municipale",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "ORDB"
     },
     {
       "symbol": "ALB27",
@@ -878,29 +855,6 @@
       "marketOriginal": "XRB"
     },
     {
-      "symbol": "FOC26",
-      "name": "MUNICIPIUL FOCSANI",
-      "isin": "ROFOCSDBL011",
-      "issuer": "MUNICIPIUL FOCSANI",
-      "fiscalCode": "4350645",
-      "issuedCount": 280000,
-      "faceValue": 100.0,
-      "issueValue": 28000000.0,
-      "issueDate": "2009-06-10",
-      "listingDate": "2009-09-18",
-      "maturityDate": "2026-11-15",
-      "couponCount": 70,
-      "isConvertible": null,
-      "type": "municipal",
-      "market": "ordb",
-      "category": "Municipale",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Obligatiuni municipale",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "ORDB"
-    },
-    {
       "symbol": "FORTY28",
       "name": "FORTY MANAGEMENT",
       "isin": "RO9VDDPJSB10",
@@ -1377,10 +1331,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "unknown",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "",
+      "statusOriginal": "Tranzactionabila",
       "marketOriginal": "EXRB"
     },
     {

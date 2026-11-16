@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T22:18:10Z",
+  "lastUpdated": "2026-11-16T12:07:19Z",
   "tradingDates": {
     "count": 203,
     "first": "2026-01-30",
@@ -211,8 +211,8 @@
     ]
   },
   "bondDetails": {
-    "count": 272,
-    "withCoupons": 267,
+    "count": 269,
+    "withCoupons": 264,
     "bonds": [
       {
         "symbol": "ABG29E",
@@ -609,33 +609,6 @@
         "currency": "RON",
         "couponRate": null,
         "maturityDate": null
-      },
-      {
-        "symbol": "HUE26",
-        "lastUpdated": null,
-        "couponCount": 80,
-        "hasCoupons": true,
-        "currency": "RON",
-        "couponRate": 78.0,
-        "maturityDate": "2026-08-15"
-      },
-      {
-        "symbol": "HUE26A",
-        "lastUpdated": null,
-        "couponCount": 79,
-        "hasCoupons": true,
-        "currency": "RON",
-        "couponRate": 77.0,
-        "maturityDate": "2026-08-15"
-      },
-      {
-        "symbol": "HUE26B",
-        "lastUpdated": null,
-        "couponCount": 77,
-        "hasCoupons": true,
-        "currency": "RON",
-        "couponRate": 75.0,
-        "maturityDate": "2026-08-15"
       },
       {
         "symbol": "IAS28",

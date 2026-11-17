@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-17T14:46:03Z",
+  "fetchedAt": "2026-11-17T16:20:55Z",
   "source": "BVB",
   "bondCount": 266,
   "bonds": [
@@ -20,10 +20,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -43,10 +43,10 @@
       "type": "corporate",
       "market": "xrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "XRB"
     },
     {
@@ -135,10 +135,10 @@
       "type": "corporate",
       "market": "xrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "XRB"
     },
     {
@@ -802,10 +802,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -1147,10 +1147,10 @@
       "type": "corporate",
       "market": "xrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "XRB"
     },
     {
@@ -1193,10 +1193,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -1216,10 +1216,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -1285,10 +1285,10 @@
       "type": "corporate",
       "market": "xrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "XRB"
     },
     {
@@ -1354,10 +1354,10 @@
       "type": "corporate",
       "market": "xrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "XRB"
     },
     {
@@ -1377,10 +1377,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {
@@ -1400,10 +1400,10 @@
       "type": "corporate",
       "market": "xrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "XRB"
     },
     {
@@ -5563,10 +5563,10 @@
       "type": "corporate",
       "market": "xrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "XRB"
     },
     {
@@ -5770,10 +5770,10 @@
       "type": "corporate",
       "market": "xrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "XRB"
     },
     {
@@ -5793,10 +5793,10 @@
       "type": "corporate",
       "market": "exrb",
       "category": "Bonds-SMT",
-      "status": "active",
+      "status": "suspended",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Tranzactionabila",
+      "statusOriginal": "Suspendata",
       "marketOriginal": "EXRB"
     },
     {

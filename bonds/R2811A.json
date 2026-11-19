@@ -1,0 +1,41 @@
+{
+  "symbol": "R2811A",
+  "fetchedAt": "2026-11-19T14:36:49Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "RON",
+    "couponRate": 6.6,
+    "interestType": "fixed",
+    "issueDate": "2026-11-18",
+    "maturityDate": "2028-11-18",
+    "couponFrequency": 1
+  },
+  "annualRate": 6.6,
+  "frequency": 1,
+  "couponCount": 2,
+  "payments": [
+    {
+      "paymentDate": "2027-11-18",
+      "previousDate": "2026-11-18",
+      "referenceDate": "2027-11-09",
+      "couponRate": 6.6,
+      "number": 1
+    },
+    {
+      "paymentDate": "2028-11-18",
+      "previousDate": "2027-11-18",
+      "referenceDate": "2028-11-09",
+      "couponRate": 6.6,
+      "number": 2
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2028-11-09",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
+    }
+  ]
+}

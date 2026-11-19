@@ -1,0 +1,55 @@
+{
+  "symbol": "R3011A",
+  "fetchedAt": "2026-11-19T14:37:10Z",
+  "source": "BVB",
+  "details": {
+    "faceValue": 100.0,
+    "currency": "RON",
+    "couponRate": 7.15,
+    "interestType": "fixed",
+    "issueDate": "2026-11-18",
+    "maturityDate": "2030-11-18",
+    "couponFrequency": 1
+  },
+  "annualRate": 7.15,
+  "frequency": 1,
+  "couponCount": 4,
+  "payments": [
+    {
+      "paymentDate": "2027-11-18",
+      "previousDate": "2026-11-18",
+      "referenceDate": "2027-11-09",
+      "couponRate": 7.15,
+      "number": 1
+    },
+    {
+      "paymentDate": "2028-11-18",
+      "previousDate": "2027-11-18",
+      "referenceDate": "2028-11-09",
+      "couponRate": 7.15,
+      "number": 2
+    },
+    {
+      "paymentDate": "2029-11-18",
+      "previousDate": "2028-11-18",
+      "referenceDate": "2029-11-08",
+      "couponRate": 7.15,
+      "number": 3
+    },
+    {
+      "paymentDate": "2030-11-18",
+      "previousDate": "2029-11-18",
+      "referenceDate": "2030-11-07",
+      "couponRate": 7.15,
+      "number": 4
+    }
+  ],
+  "principalRepayments": [
+    {
+      "date": "2030-11-07",
+      "number": 1,
+      "principal": 100.0,
+      "repaymentAmount": 100.0
+    }
+  ]
+}

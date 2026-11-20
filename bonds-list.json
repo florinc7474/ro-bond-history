@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-19T15:57:53Z",
+  "fetchedAt": "2026-11-20T14:14:49Z",
   "source": "BVB",
   "bondCount": 266,
   "bonds": [
@@ -19,12 +19,12 @@
       "isConvertible": null,
       "type": "corporate",
       "market": "unknown",
-      "category": "Bonds-SMT",
-      "status": "suspended",
+      "category": "Piata de Crestere- Obligatiuni",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "-"
+      "statusOriginal": "Tranzactionabila",
+      "marketOriginal": "EXRBC"
     },
     {
       "symbol": "AGR28",
@@ -42,12 +42,12 @@
       "isConvertible": null,
       "type": "corporate",
       "market": "unknown",
-      "category": "Bonds-SMT",
-      "status": "suspended",
+      "category": "Piata de Crestere- Obligatiuni",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "-"
+      "statusOriginal": "Tranzactionabila",
+      "marketOriginal": "XRBC"
     },
     {
       "symbol": "AGR31E",
@@ -134,12 +134,12 @@
       "isConvertible": null,
       "type": "corporate",
       "market": "unknown",
-      "category": "Bonds-SMT",
-      "status": "suspended",
+      "category": "Piata de Crestere- Obligatiuni",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "-"
+      "statusOriginal": "Tranzactionabila",
+      "marketOriginal": "XRBC"
     },
     {
       "symbol": "ATPR28",
@@ -801,12 +801,12 @@
       "isConvertible": null,
       "type": "corporate",
       "market": "unknown",
-      "category": "Bonds-SMT",
-      "status": "suspended",
+      "category": "Piata de Crestere- Obligatiuni",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "-"
+      "statusOriginal": "Tranzactionabila",
+      "marketOriginal": "EXRBC"
     },
     {
       "symbol": "EL30E",
@@ -1146,12 +1146,12 @@
       "isConvertible": null,
       "type": "corporate",
       "market": "unknown",
-      "category": "Bonds-SMT",
-      "status": "suspended",
+      "category": "Piata de Crestere- Obligatiuni",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "-"
+      "statusOriginal": "Tranzactionabila",
+      "marketOriginal": "XRBC"
     },
     {
       "symbol": "MECE23",
@@ -1192,12 +1192,12 @@
       "isConvertible": null,
       "type": "corporate",
       "market": "unknown",
-      "category": "Bonds-SMT",
-      "status": "suspended",
+      "category": "Piata de Crestere- Obligatiuni",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "-"
+      "statusOriginal": "Tranzactionabila",
+      "marketOriginal": "EXRBC"
     },
     {
       "symbol": "MKR27E",
@@ -1215,12 +1215,12 @@
       "isConvertible": null,
       "type": "corporate",
       "market": "unknown",
-      "category": "Bonds-SMT",
-      "status": "suspended",
+      "category": "Piata de Crestere- Obligatiuni",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "-"
+      "statusOriginal": "Tranzactionabila",
+      "marketOriginal": "EXRBC"
     },
     {
       "symbol": "MWGP27",
@@ -1284,12 +1284,12 @@
       "isConvertible": null,
       "type": "corporate",
       "market": "unknown",
-      "category": "Bonds-SMT",
-      "status": "suspended",
+      "category": "Piata de Crestere- Obligatiuni",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "-"
+      "statusOriginal": "Tranzactionabila",
+      "marketOriginal": "XRBC"
     },
     {
       "symbol": "NUSCO28",
@@ -1353,12 +1353,12 @@
       "isConvertible": null,
       "type": "corporate",
       "market": "unknown",
-      "category": "Bonds-SMT",
-      "status": "suspended",
+      "category": "Piata de Crestere- Obligatiuni",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "-"
+      "statusOriginal": "Tranzactionabila",
+      "marketOriginal": "XRBC"
     },
     {
       "symbol": "OMRO29E",
@@ -1376,12 +1376,12 @@
       "isConvertible": null,
       "type": "corporate",
       "market": "unknown",
-      "category": "Bonds-SMT",
-      "status": "suspended",
+      "category": "Piata de Crestere- Obligatiuni",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "-"
+      "statusOriginal": "Tranzactionabila",
+      "marketOriginal": "EXRBC"
     },
     {
       "symbol": "OMRO32",
@@ -1399,12 +1399,12 @@
       "isConvertible": null,
       "type": "corporate",
       "market": "unknown",
-      "category": "Bonds-SMT",
-      "status": "suspended",
+      "category": "Piata de Crestere- Obligatiuni",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "-"
+      "statusOriginal": "Tranzactionabila",
+      "marketOriginal": "XRBC"
     },
     {
       "symbol": "ORS29",
@@ -5562,12 +5562,12 @@
       "isConvertible": null,
       "type": "corporate",
       "market": "unknown",
-      "category": "Bonds-SMT",
-      "status": "suspended",
+      "category": "Piata de Crestere- Obligatiuni",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "-"
+      "statusOriginal": "Tranzactionabila",
+      "marketOriginal": "XRBC"
     },
     {
       "symbol": "SKI29",
@@ -5769,12 +5769,12 @@
       "isConvertible": null,
       "type": "corporate",
       "market": "unknown",
-      "category": "Bonds-SMT",
-      "status": "suspended",
+      "category": "Piata de Crestere- Obligatiuni",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "-"
+      "statusOriginal": "Tranzactionabila",
+      "marketOriginal": "XRBC"
     },
     {
       "symbol": "TEI29E",
@@ -5792,12 +5792,12 @@
       "isConvertible": null,
       "type": "corporate",
       "market": "unknown",
-      "category": "Bonds-SMT",
-      "status": "suspended",
+      "category": "Piata de Crestere- Obligatiuni",
+      "status": "active",
       "tradingModel": "Tranzactionare continua",
       "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "-"
+      "statusOriginal": "Tranzactionabila",
+      "marketOriginal": "EXRBC"
     },
     {
       "symbol": "TGM27",

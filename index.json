@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T22:52:43Z",
+  "lastUpdated": "2026-11-23T13:44:35Z",
   "tradingDates": {
     "count": 207,
     "first": "2026-01-30",
@@ -215,8 +215,8 @@
     ]
   },
   "bondDetails": {
-    "count": 276,
-    "withCoupons": 271,
+    "count": 275,
+    "withCoupons": 270,
     "bonds": [
       {
         "symbol": "ABG29E",
@@ -532,15 +532,6 @@
         "currency": "EUR",
         "couponRate": 10.6,
         "maturityDate": "2031-07-31"
-      },
-      {
-        "symbol": "BRK26",
-        "lastUpdated": null,
-        "couponCount": 20,
-        "hasCoupons": true,
-        "currency": "RON",
-        "couponRate": 7.6,
-        "maturityDate": "2026-08-20"
       },
       {
         "symbol": "CECRO28E",

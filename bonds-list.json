@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-11-23T18:37:03Z",
+  "fetchedAt": "2026-11-24T16:07:54Z",
   "source": "BVB",
-  "bondCount": 266,
+  "bondCount": 265,
   "bonds": [
     {
       "symbol": "ABG29E",
@@ -163,29 +163,6 @@
       "typeOriginal": "Obligatiuni corporative",
       "statusOriginal": "Tranzactionabila",
       "marketOriginal": "XRB"
-    },
-    {
-      "symbol": "AUT26E",
-      "name": "Obligatiuni Autonom Services 2026",
-      "isin": "ROF1QD89E0Z9",
-      "issuer": "Autonom Services S.A.",
-      "fiscalCode": "18433260",
-      "issuedCount": 4803,
-      "faceValue": 10000.0,
-      "issueValue": 48030000.0,
-      "issueDate": "2021-11-23",
-      "listingDate": "2021-12-08",
-      "maturityDate": "2026-11-23",
-      "couponCount": 5,
-      "isConvertible": null,
-      "type": "corporate",
-      "market": "eordb",
-      "category": "Corporative",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "EORDB"
     },
     {
       "symbol": "AUT29E",

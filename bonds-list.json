@@ -1,7 +1,7 @@
 {
-  "fetchedAt": "2026-11-26T17:12:17Z",
+  "fetchedAt": "2026-11-27T15:26:40Z",
   "source": "BVB",
-  "bondCount": 265,
+  "bondCount": 264,
   "bonds": [
     {
       "symbol": "ABG29E",
@@ -807,29 +807,6 @@
       "typeOriginal": "Obligatiuni corporative",
       "statusOriginal": "Tranzactionabila",
       "marketOriginal": "EORDB"
-    },
-    {
-      "symbol": "ELF26",
-      "name": "ELEFANT ONLINE",
-      "isin": "ROO4GXIEV1W0",
-      "issuer": "ELEFANT ONLINE SA",
-      "fiscalCode": "26396066",
-      "issuedCount": 174699,
-      "faceValue": 100.0,
-      "issueValue": 17469900.0,
-      "issueDate": "2021-11-26",
-      "listingDate": "2022-02-01",
-      "maturityDate": "2026-11-26",
-      "couponCount": 10,
-      "isConvertible": null,
-      "type": "corporate",
-      "market": "xrb",
-      "category": "Bonds-SMT",
-      "status": "suspended",
-      "tradingModel": "Tranzactionare continua",
-      "typeOriginal": "Obligatiuni corporative",
-      "statusOriginal": "Suspendata",
-      "marketOriginal": "XRB"
     },
     {
       "symbol": "FORTY28",
